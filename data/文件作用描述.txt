@@ -1,0 +1,26 @@
+1. BIOGRID-ORGANISM-Homo_sapiens-3.5.179.mitab.txt:
+construct_and_return_bio_net 函数用到，用来生成bio_id形式的邻接矩阵和id列表
+
+2. bio-uni.txt:
+construct_and_return_uni_net 函数用到，用来生成uni_id形式的邻接矩阵和id列表
+
+3. uniprot_sprot_human.dat.gz:
+construct_and_return_loc_net 函数用到，用来生成location信息
+
+4. probe2UniprotAC_file.csv:
+construct_and_return_dict_relate_probe_and_uniprot函数用到，用来生成探针与uni_id的对应字典
+
+5. probe_expressio_file.csv:
+construct_and_return_expr_matrix函数用到，用来生成表达矩阵
+
+6. 其他.csv文件：
+用来生成表达矩阵，以计算相关系数
+
+7. prediction_humploc.txt:
+humploc 3.0 的预测结果，用来比较
+
+8. uni_ids.txt, uni_ids_with_loc.txt, locative_uni_ids.txt, locative_uni_ids_with_loc.txt:
+蛋白列表，每一行是一个蛋白的uniprot id
+
+9. split_protein_dict.txt
+被切分的蛋白的字典，key是原始uniprot id，value是被切分成的新id的列表

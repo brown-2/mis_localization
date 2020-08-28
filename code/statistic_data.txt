@@ -1,0 +1,9 @@
+The number of biogrid proteins: 23810
+The number of biogrid edges: 341088.0
+The number of uniprot proteins: 20432
+The number of common proteins: 16319
+The number of final edges: 301366.0
+The number of labeled proteins: 6461
+The number of locative labeled proteins: 9562
+The number of locative uniprot proteins: 19420
+The number of locative edges: 601693.0

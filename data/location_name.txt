@@ -1,0 +1,12 @@
+Cell cortex
+Cytosol 
+Actin cytoskeleton
+Golgi apparatus
+Endoplasmic reticulum
+Nucleolus
+Peroxisome
+Mitochondrion
+Lysosome
+Centrosome
+Nucleus
+Plasma membrane

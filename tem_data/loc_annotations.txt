@@ -1,0 +1,6461 @@
+A0AVI4	Endoplasmic reticulum
+A0AVK6	Cytosol |Nucleolus|Nucleus
+A0JLT2	Nucleus
+A0JNW5	Cytosol 
+A0PJY2	Cytosol |Nucleus
+A1A4Y4	Cytosol |Golgi apparatus|Mitochondrion
+A1A519	Nucleus
+A1A5B4	Plasma membrane
+A1E959	Nucleus
+A1L020	Cytosol 
+A1L167	Nucleus|Plasma membrane
+A1L188	Mitochondrion
+A1L3X0	Endoplasmic reticulum
+A1XBS5	Nucleus
+A1Z1Q3	Nucleolus|Centrosome|Nucleus
+A2A288	Nucleus
+A2RRP1	Endoplasmic reticulum
+A2RUB6	Centrosome
+A2RUT3	Nucleus
+A2VDJ0	Plasma membrane
+A3KMH1	Peroxisome|Mitochondrion
+A4D0V7	Endoplasmic reticulum
+A4D1P6	Cytosol 
+A4D1T9	Nucleus
+A4FU49	Nucleus|Plasma membrane
+A5PLL7	Endoplasmic reticulum
+A5YKK6	Cytosol 
+A6ND36	Cytosol |Nucleus
+A6NDU8	Cytosol 
+A6NDV4	Plasma membrane
+A6NED2	Cytosol |Plasma membrane
+A6NFQ2	Plasma membrane
+A6NGC4	Plasma membrane
+A6NHX0	Cytosol 
+A7E2F4	Cytosol |Golgi apparatus
+A7KAX9	Golgi apparatus
+A8MQT2	Cytosol |Golgi apparatus
+A8MVW5	Golgi apparatus|Centrosome
+A9UHW6	Cytosol |Nucleolus
+A9YTQ3	Cytosol 
+B0I1T2	Plasma membrane
+B0YJ81	Endoplasmic reticulum
+B2RXF5	Nucleus|Plasma membrane
+C9JLW8	Nucleus
+C9JRZ8	Cytosol |Mitochondrion
+D6RGH6	Nucleus
+O00116	Nucleolus|Peroxisome|Mitochondrion
+O00124	Endoplasmic reticulum|Nucleolus
+O00139	Nucleolus|Centrosome|Nucleus
+O00141	Cytosol 
+O00144	Plasma membrane
+O00148	Nucleus
+O00154	Cytosol 
+O00159	Plasma membrane
+O00161	Plasma membrane
+O00165	Mitochondrion
+O00167	Cytosol 
+O00170	Cytosol 
+O00182	Cytosol |Nucleus
+O00186	Cytosol |Plasma membrane
+O00198	Mitochondrion
+O00204	Cytosol 
+O00206	Plasma membrane
+O00213	Nucleus|Plasma membrane
+O00214	Cytosol 
+O00217	Mitochondrion
+O00221	Cytosol |Nucleus
+O00231	Nucleus
+O00237	Endoplasmic reticulum
+O00255	Cytosol |Nucleus
+O00257	Nucleus
+O00267	Nucleus
+O00268	Cytosol 
+O00273	Cytosol |Nucleus|Plasma membrane
+O00291	Golgi apparatus
+O00294	Plasma membrane
+O00299	Nucleus
+O00305	Plasma membrane
+O00308	Nucleus
+O00311	Nucleus
+O00327	Nucleus
+O00358	Nucleus
+O00391	Golgi apparatus
+O00399	Centrosome
+O00401	Cytosol |Nucleus
+O00408	Cytosol |Nucleus|Plasma membrane
+O00411	Mitochondrion
+O00422	Cytosol 
+O00425	Cytosol 
+O00429	Cytosol |Golgi apparatus|Endoplasmic reticulum|Peroxisome|Mitochondrion
+O00442	Nucleus
+O00443	Nucleus|Plasma membrane
+O00444	Cytosol |Centrosome
+O00461	Golgi apparatus
+O00463	Cytosol |Centrosome
+O00468	Cytosol |Plasma membrane
+O00478	Plasma membrane
+O00481	Plasma membrane
+O00482	Nucleus
+O00483	Mitochondrion
+O00487	Nucleus
+O00488	Nucleolus|Nucleus
+O00499	Cytosol |Nucleus
+O00501	Plasma membrane
+O00515	Actin cytoskeleton
+O00522	Plasma membrane
+O00534	Nucleus
+O00541	Cytosol |Nucleolus|Nucleus
+O00555	Nucleus|Plasma membrane
+O00560	Cytosol |Plasma membrane
+O00562	Cytosol 
+O00566	Nucleolus
+O00571	Cytosol |Nucleus
+O00584	Lysosome
+O00590	Cytosol |Plasma membrane
+O00592	Nucleolus|Plasma membrane
+O00623	Peroxisome
+O00625	Cytosol |Nucleus
+O00628	Cytosol |Peroxisome
+O00629	Nucleus
+O00712	Nucleus
+O00743	Cytosol 
+O00746	Mitochondrion
+O00750	Cytosol 
+O00757	Plasma membrane
+O00762	Cytosol |Plasma membrane
+O00763	Mitochondrion|Nucleus
+O00764	Cytosol |Nucleus
+O00767	Endoplasmic reticulum|Nucleolus
+O14492	Plasma membrane
+O14493	Plasma membrane
+O14495	Golgi apparatus
+O14503	Nucleus
+O14512	Cytosol 
+O14514	Plasma membrane
+O14519	Cytosol |Nucleus
+O14522	Plasma membrane
+O14526	Cytosol |Plasma membrane
+O14530	Cytosol 
+O14548	Nucleolus|Mitochondrion
+O14556	Nucleus
+O14558	Nucleus
+O14561	Mitochondrion
+O14576	Nucleus
+O14579	Golgi apparatus
+O14593	Cytosol 
+O14599	Nucleus
+O14613	Cytosol |Plasma membrane
+O14618	Nucleus
+O14646	Nucleus
+O14647	Nucleolus|Nucleus
+O14653	Golgi apparatus
+O14656	Endoplasmic reticulum
+O14657	Endoplasmic reticulum
+O14662	Cytosol |Golgi apparatus
+O14672	Golgi apparatus
+O14678	Peroxisome
+O14681	Cytosol |Golgi apparatus|Endoplasmic reticulum
+O14713	Cytosol |Nucleus
+O14737	Nucleus
+O14744	Cytosol |Golgi apparatus|Nucleus
+O14746	Cytosol |Nucleolus|Nucleus
+O14757	Centrosome|Nucleus
+O14773	Lysosome
+O14775	Cytosol 
+O14777	Centrosome
+O14786	Cytosol |Plasma membrane
+O14795	Cytosol |Golgi apparatus
+O14817	Plasma membrane
+O14818	Nucleus
+O14827	Endoplasmic reticulum
+O14832	Peroxisome
+O14862	Cytosol |Mitochondrion
+O14867	Nucleus
+O14874	Mitochondrion
+O14879	Cytosol |Mitochondrion
+O14893	Cytosol |Nucleolus|Nucleus
+O14896	Cytosol |Nucleus
+O14901	Cytosol 
+O14907	Actin cytoskeleton
+O14908	Cell cortex
+O14920	Cytosol 
+O14924	Cytosol |Nucleolus|Nucleus
+O14925	Mitochondrion
+O14936	Nucleolus
+O14949	Mitochondrion
+O14964	Cytosol |Lysosome
+O14965	Cytosol |Centrosome|Nucleus
+O14966	Golgi apparatus|Mitochondrion
+O14967	Endoplasmic reticulum
+O14972	Nucleus
+O14974	Cytosol |Actin cytoskeleton|Centrosome
+O14976	Golgi apparatus
+O14979	Nucleus
+O14980	Cytosol |Nucleolus|Nucleus
+O15013	Centrosome
+O15014	Nucleus
+O15020	Cytosol 
+O15027	Cytosol |Golgi apparatus|Endoplasmic reticulum
+O15033	Cytosol 
+O15042	Nucleus
+O15047	Nucleus
+O15055	Nucleus
+O15062	Nucleus
+O15078	Cytosol |Centrosome|Nucleus
+O15091	Mitochondrion|Nucleus
+O15105	Cytosol |Centrosome|Nucleus|Plasma membrane
+O15111	Cytosol 
+O15116	Nucleus
+O15118	Endoplasmic reticulum
+O15119	Nucleus
+O15120	Endoplasmic reticulum
+O15121	Mitochondrion
+O15127	Golgi apparatus
+O15131	Cytosol 
+O15151	Nucleus
+O15156	Nucleus
+O15160	Nucleus
+O15162	Cytosol |Golgi apparatus|Nucleolus|Nucleus|Plasma membrane
+O15164	Nucleus
+O15169	Nucleus
+O15182	Centrosome
+O15198	Cytosol 
+O15205	Nucleus
+O15226	Nucleolus|Nucleus
+O15228	Peroxisome
+O15230	Nucleus
+O15234	Nucleus
+O15239	Cytosol |Mitochondrion
+O15240	Golgi apparatus
+O15243	Golgi apparatus
+O15254	Peroxisome
+O15258	Golgi apparatus
+O15265	Cytosol |Nucleus
+O15269	Endoplasmic reticulum
+O15287	Cytosol |Nucleolus|Mitochondrion|Plasma membrane
+O15294	Cytosol |Nucleus|Plasma membrane
+O15296	Cytosol |Nucleus|Plasma membrane
+O15297	Cytosol |Nucleus
+O15304	Mitochondrion
+O15305	Cytosol |Nucleus
+O15318	Nucleus
+O15350	Golgi apparatus|Nucleus
+O15354	Endoplasmic reticulum|Plasma membrane
+O15357	Cytosol |Golgi apparatus
+O15360	Nucleus
+O15379	Cytosol |Golgi apparatus|Nucleus|Plasma membrane
+O15381	Nucleolus|Nucleus
+O15391	Nucleus
+O15392	Cytosol |Nucleus
+O15393	Plasma membrane
+O15394	Plasma membrane
+O15400	Lysosome|Plasma membrane
+O15417	Cytosol |Mitochondrion|Nucleus
+O15427	Plasma membrane
+O15439	Plasma membrane
+O15446	Cytosol |Mitochondrion|Nucleus
+O15460	Cytosol |Endoplasmic reticulum
+O15498	Cytosol |Golgi apparatus|Endoplasmic reticulum|Mitochondrion
+O15503	Endoplasmic reticulum
+O15504	Cytosol |Nucleus
+O15514	Cytosol |Nucleus
+O15516	Cytosol |Nucleus
+O15520	Nucleus|Plasma membrane
+O15523	Cytosol |Nucleus
+O15527	Nucleus
+O15530	Plasma membrane
+O15534	Cytosol 
+O15539	Cytosol 
+O15541	Nucleus
+O15550	Nucleus
+O15552	Plasma membrane
+O15553	Nucleus
+O15554	Plasma membrane
+O43148	Nucleus
+O43159	Cytosol |Nucleolus|Nucleus|Plasma membrane
+O43164	Plasma membrane
+O43172	Nucleus
+O43181	Mitochondrion
+O43184	Plasma membrane
+O43189	Nucleus
+O43237	Centrosome
+O43242	Nucleus
+O43248	Cytosol 
+O43251	Cytosol |Nucleus
+O43255	Cytosol 
+O43257	Nucleus
+O43264	Cytosol |Endoplasmic reticulum|Nucleus
+O43290	Golgi apparatus|Nucleus
+O43293	Nucleus
+O43299	Nucleus
+O43303	Centrosome
+O43307	Cytosol 
+O43310	Cytosol 
+O43312	Actin cytoskeleton
+O43314	Cytosol 
+O43318	Nucleus
+O43324	Cytosol |Nucleolus|Nucleus
+O43353	Cytosol 
+O43364	Nucleus
+O43374	Cytosol 
+O43379	Cytosol |Centrosome|Nucleus
+O43395	Cytosol |Nucleus
+O43396	Cytosol 
+O43402	Cytosol 
+O43427	Nucleus
+O43435	Nucleus
+O43439	Nucleus
+O43463	Nucleus
+O43464	Cytosol |Mitochondrion|Nucleus
+O43482	Cytosol |Nucleus
+O43488	Cytosol 
+O43490	Endoplasmic reticulum|Plasma membrane
+O43491	Nucleus|Plasma membrane
+O43493	Golgi apparatus
+O43497	Plasma membrane
+O43502	Cytosol |Mitochondrion|Nucleus
+O43504	Cytosol |Lysosome
+O43505	Golgi apparatus
+O43520	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+O43521	Cytosol 
+O43524	Cytosol |Nucleus
+O43541	Cytosol |Golgi apparatus|Nucleus
+O43542	Cytosol |Mitochondrion|Nucleus
+O43543	Centrosome
+O43561	Golgi apparatus|Plasma membrane
+O43567	Cytosol 
+O43572	Cytosol |Plasma membrane
+O43592	Cytosol 
+O43598	Nucleus
+O43602	Cytosol 
+O43609	Cytosol |Golgi apparatus
+O43615	Mitochondrion
+O43617	Cytosol |Golgi apparatus
+O43623	Nucleus
+O43639	Endoplasmic reticulum
+O43660	Nucleus
+O43663	Nucleus
+O43665	Cytosol |Nucleus
+O43670	Nucleolus|Nucleus
+O43674	Mitochondrion
+O43677	Mitochondrion
+O43679	Nucleolus|Nucleus|Plasma membrane
+O43680	Nucleus
+O43681	Nucleolus|Nucleus
+O43683	Cytosol 
+O43707	Cytosol |Nucleus
+O43709	Nucleolus|Nucleus
+O43715	Mitochondrion
+O43716	Mitochondrion
+O43731	Endoplasmic reticulum
+O43739	Cytosol |Plasma membrane
+O43745	Nucleus|Plasma membrane
+O43747	Cytosol |Golgi apparatus
+O43752	Cytosol |Golgi apparatus
+O43765	Cytosol |Nucleus
+O43772	Cytosol |Mitochondrion
+O43776	Cytosol 
+O43781	Cytosol |Nucleus
+O43791	Nucleus
+O43795	Plasma membrane
+O43805	Centrosome
+O43808	Peroxisome
+O43809	Centrosome|Nucleus
+O43818	Nucleolus
+O43819	Mitochondrion
+O43820	Lysosome
+O43822	Mitochondrion|Plasma membrane
+O43829	Cytosol |Nucleolus|Nucleus
+O43837	Mitochondrion|Nucleus
+O43847	Mitochondrion
+O43852	Endoplasmic reticulum
+O43889	Cytosol |Endoplasmic reticulum|Nucleus
+O43900	Centrosome|Nucleus
+O43909	Golgi apparatus|Endoplasmic reticulum
+O43913	Cytosol |Nucleus
+O43920	Mitochondrion
+O43924	Cytosol 
+O43929	Cytosol |Nucleolus|Nucleus
+O43933	Cytosol |Peroxisome
+O60220	Mitochondrion
+O60229	Cytosol 
+O60231	Nucleus
+O60238	Endoplasmic reticulum|Mitochondrion
+O60241	Centrosome|Plasma membrane
+O60244	Nucleus
+O60245	Plasma membrane
+O60260	Cytosol |Golgi apparatus|Endoplasmic reticulum|Mitochondrion|Nucleus
+O60264	Nucleus
+O60266	Plasma membrane
+O60271	Cytosol 
+O60285	Nucleus
+O60287	Nucleolus
+O60291	Nucleus|Plasma membrane
+O60293	Nucleus
+O60304	Cytosol |Nucleus
+O60306	Nucleus
+O60312	Endoplasmic reticulum
+O60313	Cytosol |Mitochondrion
+O60315	Cytosol |Nucleolus|Nucleus
+O60318	Cytosol |Nucleus
+O60331	Cytosol 
+O60337	Endoplasmic reticulum
+O60341	Nucleus
+O60343	Cytosol 
+O60353	Plasma membrane
+O60356	Cytosol |Nucleus
+O60443	Cytosol |Plasma membrane
+O60447	Cytosol |Golgi apparatus
+O60476	Golgi apparatus
+O60493	Cytosol 
+O60500	Plasma membrane
+O60502	Cytosol 
+O60508	Nucleus
+O60512	Cytosol |Golgi apparatus
+O60513	Golgi apparatus
+O60551	Cytosol |Golgi apparatus|Plasma membrane
+O60563	Nucleus
+O60566	Cytosol 
+O60568	Golgi apparatus|Endoplasmic reticulum
+O60583	Cytosol |Nucleus|Plasma membrane
+O60603	Golgi apparatus|Plasma membrane
+O60609	Cytosol |Plasma membrane
+O60635	Plasma membrane
+O60656	Endoplasmic reticulum
+O60662	Cytosol |Nucleus|Plasma membrane
+O60663	Nucleus
+O60664	Cytosol 
+O60674	Nucleus|Plasma membrane
+O60683	Peroxisome
+O60704	Endoplasmic reticulum
+O60711	Cytosol |Nucleus|Plasma membrane
+O60716	Nucleus|Plasma membrane
+O60725	Endoplasmic reticulum
+O60729	Nucleolus|Nucleus
+O60733	Cytosol 
+O60741	Plasma membrane
+O60749	Lysosome
+O60759	Cell cortex|Cytosol 
+O60762	Endoplasmic reticulum|Nucleus
+O60763	Golgi apparatus
+O60765	Cytosol |Nucleolus|Nucleus
+O60779	Plasma membrane
+O60784	Cytosol 
+O60814	Cytosol |Nucleus
+O60825	Nucleus
+O60828	Cytosol 
+O60832	Nucleus
+O60869	Cytosol |Nucleolus|Nucleus
+O60870	Nucleus
+O60879	Endoplasmic reticulum|Nucleolus
+O60884	Cytosol 
+O60885	Cytosol |Nucleus
+O60894	Plasma membrane
+O60896	Plasma membrane
+O60907	Nucleus
+O60909	Golgi apparatus
+O60921	Nucleus
+O60934	Nucleolus|Nucleus
+O60936	Nucleolus
+O75030	Nucleus
+O75031	Cytosol 
+O75044	Plasma membrane
+O75063	Golgi apparatus
+O75064	Golgi apparatus|Nucleus
+O75069	Endoplasmic reticulum
+O75072	Golgi apparatus|Endoplasmic reticulum|Nucleus
+O75083	Plasma membrane
+O75084	Plasma membrane
+O75116	Cytosol |Centrosome
+O75122	Cell cortex|Cytosol |Golgi apparatus|Plasma membrane
+O75127	Mitochondrion
+O75131	Cytosol |Nucleolus|Mitochondrion|Nucleus|Plasma membrane
+O75132	Nucleus
+O75140	Lysosome
+O75143	Mitochondrion
+O75144	Plasma membrane
+O75146	Cytosol 
+O75147	Golgi apparatus|Centrosome
+O75150	Nucleus
+O75151	Nucleolus
+O75154	Centrosome
+O75155	Cytosol 
+O75161	Centrosome
+O75164	Cytosol |Nucleus
+O75165	Cytosol 
+O75170	Cytosol 
+O75177	Cytosol |Nucleus
+O75179	Nucleus
+O75190	Cytosol |Nucleus
+O75192	Peroxisome
+O75197	Plasma membrane
+O75204	Plasma membrane
+O75208	Mitochondrion
+O75223	Cytosol 
+O75293	Nucleus
+O75298	Endoplasmic reticulum
+O75306	Mitochondrion
+O75312	Nucleolus|Nucleus
+O75319	Nucleus
+O75323	Mitochondrion
+O75330	Cytosol |Centrosome
+O75340	Endoplasmic reticulum|Nucleus
+O75347	Nucleolus
+O75348	Plasma membrane
+O75351	Centrosome|Nucleus
+O75354	Golgi apparatus
+O75362	Mitochondrion
+O75367	Nucleolus|Nucleus
+O75369	Cytosol |Plasma membrane
+O75376	Cytosol |Nucleus
+O75379	Golgi apparatus
+O75381	Peroxisome
+O75385	Cytosol 
+O75386	Nucleolus|Nucleus|Plasma membrane
+O75390	Mitochondrion|Nucleus
+O75394	Mitochondrion
+O75398	Nucleus
+O75400	Cytosol 
+O75414	Mitochondrion
+O75419	Centrosome|Nucleus
+O75431	Nucleolus|Mitochondrion
+O75436	Lysosome
+O75438	Mitochondrion
+O75439	Mitochondrion
+O75448	Nucleus
+O75460	Endoplasmic reticulum
+O75461	Nucleus
+O75475	Nucleus
+O75477	Endoplasmic reticulum
+O75486	Nucleus
+O75487	Nucleus
+O75489	Mitochondrion
+O75496	Cytosol |Nucleus
+O75503	Golgi apparatus|Endoplasmic reticulum|Lysosome
+O75521	Peroxisome|Mitochondrion
+O75528	Nucleus
+O75529	Nucleus
+O75530	Cytosol 
+O75531	Cytosol |Nucleus
+O75533	Nucleus
+O75534	Cytosol |Golgi apparatus|Plasma membrane
+O75554	Nucleus
+O75563	Cytosol |Plasma membrane
+O75569	Cytosol 
+O75581	Plasma membrane
+O75582	Nucleus
+O75592	Nucleus
+O75593	Nucleus
+O75600	Mitochondrion
+O75602	Nucleus
+O75603	Nucleus
+O75607	Cytosol |Actin cytoskeleton|Nucleolus
+O75616	Cytosol |Mitochondrion
+O75638	Centrosome
+O75643	Nucleus
+O75648	Mitochondrion
+O75665	Centrosome
+O75674	Cytosol 
+O75676	Cytosol |Nucleus
+O75688	Cytosol |Nucleolus
+O75689	Cytosol |Nucleus|Plasma membrane
+O75691	Nucleolus|Plasma membrane
+O75695	Plasma membrane
+O75716	Cytosol 
+O75718	Endoplasmic reticulum
+O75746	Mitochondrion
+O75771	Centrosome
+O75781	Nucleus|Plasma membrane
+O75791	Nucleus
+O75792	Cytosol 
+O75807	Golgi apparatus|Endoplasmic reticulum|Mitochondrion
+O75817	Nucleolus
+O75821	Cytosol 
+O75822	Cytosol 
+O75828	Cytosol 
+O75832	Cytosol |Nucleus
+O75840	Nucleus
+O75874	Cytosol |Peroxisome
+O75879	Mitochondrion
+O75886	Cytosol 
+O75891	Cytosol 
+O75897	Cytosol 
+O75901	Cytosol 
+O75908	Endoplasmic reticulum
+O75912	Nucleus
+O75923	Plasma membrane
+O75925	Nucleus
+O75928	Nucleus
+O75934	Centrosome|Nucleus
+O75935	Cytosol |Nucleolus|Centrosome
+O75937	Cytosol |Nucleus
+O75943	Nucleolus
+O75947	Mitochondrion
+O75952	Cytosol |Nucleus
+O75953	Cytosol 
+O75954	Plasma membrane
+O75955	Plasma membrane
+O75964	Mitochondrion
+O75969	Nucleus
+O75971	Nucleolus|Nucleus
+O76021	Nucleolus
+O76027	Cytosol 
+O76031	Cytosol |Mitochondrion
+O76039	Cytosol |Centrosome|Nucleus
+O76050	Plasma membrane
+O76054	Cytosol |Nucleus
+O76061	Endoplasmic reticulum
+O76062	Endoplasmic reticulum
+O76064	Cytosol |Nucleus
+O76075	Cytosol |Nucleolus|Nucleus
+O76076	Nucleus
+O76083	Cytosol 
+O76093	Nucleolus
+O76094	Endoplasmic reticulum
+O76096	Golgi apparatus|Endoplasmic reticulum|Lysosome
+O77932	Cytosol |Nucleus|Plasma membrane
+O94759	Lysosome|Plasma membrane
+O94762	Cytosol |Nucleus
+O94763	Cytosol |Nucleus
+O94766	Golgi apparatus
+O94768	Nucleus
+O94779	Cytosol 
+O94782	Nucleus
+O94804	Plasma membrane
+O94805	Nucleolus|Nucleus
+O94806	Cytosol 
+O94811	Cytosol |Mitochondrion|Nucleus
+O94812	Cytosol |Plasma membrane
+O94823	Endoplasmic reticulum
+O94826	Mitochondrion
+O94830	Cytosol 
+O94851	Nucleus
+O94864	Nucleus
+O94868	Plasma membrane
+O94874	Endoplasmic reticulum
+O94905	Cytosol |Endoplasmic reticulum|Plasma membrane
+O94906	Nucleus
+O94907	Plasma membrane
+O94913	Mitochondrion
+O94916	Cytosol |Nucleus
+O94921	Cytosol |Nucleus|Plasma membrane
+O94925	Mitochondrion
+O94927	Centrosome
+O94966	Cytosol 
+O94972	Cytosol |Peroxisome
+O94979	Cytosol |Endoplasmic reticulum
+O94983	Nucleus
+O94986	Centrosome
+O94992	Nucleus
+O94993	Nucleus
+O95049	Nucleus
+O95050	Cytosol 
+O95057	Plasma membrane
+O95059	Nucleolus
+O95067	Cytosol |Centrosome
+O95071	Cytosol |Nucleus
+O95073	Nucleus
+O95084	Nucleus
+O95136	Plasma membrane
+O95139	Mitochondrion
+O95140	Mitochondrion
+O95150	Plasma membrane
+O95153	Mitochondrion
+O95154	Cytosol 
+O95159	Golgi apparatus
+O95163	Cytosol |Nucleolus
+O95167	Mitochondrion
+O95168	Mitochondrion
+O95169	Endoplasmic reticulum|Mitochondrion
+O95182	Mitochondrion
+O95185	Plasma membrane
+O95196	Golgi apparatus
+O95197	Endoplasmic reticulum
+O95198	Actin cytoskeleton
+O95202	Mitochondrion
+O95210	Cytosol |Endoplasmic reticulum
+O95218	Nucleus
+O95219	Plasma membrane
+O95229	Cytosol |Nucleus
+O95232	Nucleus
+O95249	Golgi apparatus
+O95251	Cytosol |Nucleus
+O95255	Nucleus|Plasma membrane
+O95257	Nucleus
+O95260	Nucleus
+O95267	Cytosol |Golgi apparatus|Plasma membrane
+O95271	Golgi apparatus
+O95273	Nucleus
+O95278	Cytosol |Nucleus
+O95292	Golgi apparatus|Endoplasmic reticulum
+O95298	Mitochondrion
+O95299	Mitochondrion
+O95319	Nucleus
+O95347	Nucleolus|Nucleus
+O95359	Cytosol |Plasma membrane
+O95361	Cytosol |Plasma membrane
+O95365	Nucleus
+O95373	Cytosol 
+O95376	Nucleus
+O95388	Cytosol 
+O95389	Endoplasmic reticulum|Mitochondrion
+O95391	Cytosol |Nucleus
+O95396	Cytosol 
+O95400	Cytosol |Nucleus
+O95405	Cytosol 
+O95409	Nucleus
+O95425	Cytosol |Actin cytoskeleton|Nucleus|Plasma membrane
+O95427	Cytosol |Plasma membrane
+O95429	Cytosol |Nucleus|Plasma membrane
+O95433	Cytosol 
+O95453	Nucleolus
+O95456	Cytosol |Golgi apparatus|Endoplasmic reticulum|Nucleus
+O95461	Golgi apparatus
+O95466	Cytosol 
+O95467	Nucleus
+O95470	Endoplasmic reticulum
+O95471	Plasma membrane
+O95477	Plasma membrane
+O95487	Cytosol 
+O95500	Endoplasmic reticulum|Plasma membrane
+O95503	Nucleus
+O95551	Nucleus
+O95563	Mitochondrion|Nucleus
+O95571	Mitochondrion
+O95573	Golgi apparatus|Endoplasmic reticulum
+O95600	Cytosol 
+O95613	Cytosol |Centrosome
+O95630	Cytosol |Plasma membrane
+O95633	Nucleus
+O95644	Nucleus
+O95671	Cytosol 
+O95684	Centrosome|Nucleus
+O95696	Nucleus
+O95704	Cytosol |Actin cytoskeleton
+O95707	Nucleolus
+O95714	Nucleus
+O95715	Golgi apparatus
+O95721	Cytosol |Centrosome
+O95747	Cytosol 
+O95751	Nucleolus|Nucleus
+O95754	Endoplasmic reticulum
+O95757	Cytosol 
+O95777	Nucleus
+O95785	Nucleus
+O95786	Cytosol |Actin cytoskeleton
+O95793	Cytosol |Endoplasmic reticulum|Plasma membrane
+O95807	Endoplasmic reticulum
+O95810	Cytosol |Actin cytoskeleton|Plasma membrane
+O95817	Cytosol |Nucleus|Plasma membrane
+O95822	Peroxisome|Mitochondrion
+O95825	Cytosol 
+O95831	Mitochondrion|Nucleus
+O95833	Nucleus
+O95847	Mitochondrion
+O95858	Plasma membrane
+O95863	Cytosol |Nucleus
+O95865	Cytosol 
+O95866	Golgi apparatus|Plasma membrane
+O95873	Cytosol 
+O95897	Nucleus
+O95900	Cytosol 
+O95905	Cytosol |Nucleus
+O95926	Nucleus
+O95931	Cytosol |Nucleus
+O95948	Actin cytoskeleton
+O95954	Cytosol |Plasma membrane
+O95971	Plasma membrane
+O95977	Mitochondrion
+O95980	Plasma membrane
+O95989	Cytosol 
+O95990	Actin cytoskeleton|Nucleus
+O95996	Cytosol |Golgi apparatus
+O95997	Cytosol |Nucleus
+O95999	Cytosol |Lysosome|Nucleus
+O96004	Nucleus
+O96007	Cytosol |Nucleus
+O96008	Cytosol |Mitochondrion
+O96009	Lysosome
+O96011	Peroxisome
+O96017	Golgi apparatus
+O96019	Nucleus|Plasma membrane
+O96028	Nucleus
+O96033	Cytosol 
+P00156	Mitochondrion
+P00167	Cytosol 
+P00325	Cytosol |Plasma membrane
+P00326	Cytosol |Plasma membrane
+P00338	Nucleus
+P00352	Cytosol 
+P00367	Mitochondrion
+P00374	Mitochondrion
+P00387	Endoplasmic reticulum|Mitochondrion
+P00403	Mitochondrion
+P00441	Cytosol |Peroxisome|Mitochondrion|Nucleus
+P00480	Mitochondrion
+P00491	Cytosol 
+P00492	Cytosol 
+P00505	Mitochondrion|Plasma membrane
+P00519	Cytosol |Nucleolus|Nucleus
+P00533	Nucleus|Plasma membrane
+P00568	Cytosol 
+P00813	Cytosol |Lysosome|Plasma membrane
+P00918	Plasma membrane
+P00966	Cytosol 
+P00973	Cytosol |Nucleus
+P01009	Golgi apparatus|Endoplasmic reticulum
+P01034	Golgi apparatus|Plasma membrane
+P01040	Cytosol |Nucleus
+P01100	Nucleus
+P01106	Nucleolus|Nucleus
+P01111	Golgi apparatus
+P01112	Golgi apparatus|Plasma membrane
+P01130	Golgi apparatus|Lysosome
+P01137	Nucleus
+P01213	Plasma membrane
+P01303	Golgi apparatus
+P01583	Cytosol 
+P01730	Plasma membrane
+P01732	Plasma membrane
+P01833	Plasma membrane
+P01889	Golgi apparatus|Endoplasmic reticulum
+P01903	Lysosome|Plasma membrane
+P02489	Cytosol |Nucleus
+P02511	Nucleus
+P02533	Nucleus
+P02538	Nucleus
+P02545	Nucleus
+P02649	Golgi apparatus|Endoplasmic reticulum|Nucleus
+P02654	Endoplasmic reticulum
+P02675	Endoplasmic reticulum
+P02708	Plasma membrane
+P02743	Nucleus
+P02748	Cytosol |Plasma membrane
+P02760	Plasma membrane
+P02765	Golgi apparatus
+P02768	Golgi apparatus|Endoplasmic reticulum|Nucleus
+P02788	Nucleus
+P02794	Nucleus
+P03372	Nucleus|Plasma membrane
+P03950	Nucleus
+P04004	Endoplasmic reticulum
+P04035	Endoplasmic reticulum
+P04040	Peroxisome
+P04049	Cytosol |Plasma membrane
+P04053	Cytosol |Nucleus
+P04054	Cytosol 
+P04070	Golgi apparatus|Endoplasmic reticulum
+P04075	Cytosol |Actin cytoskeleton|Nucleus
+P04080	Cytosol |Nucleolus
+P04083	Cytosol |Nucleus|Plasma membrane
+P04114	Cytosol 
+P04150	Cytosol |Nucleus
+P04156	Cytosol |Plasma membrane
+P04179	Mitochondrion
+P04181	Mitochondrion
+P04198	Nucleolus|Nucleus
+P04201	Plasma membrane
+P04216	Endoplasmic reticulum
+P04233	Nucleus|Plasma membrane
+P04264	Nucleus
+P04271	Nucleus
+P04275	Endoplasmic reticulum
+P04279	Nucleus
+P04350	Nucleus
+P04406	Cytosol |Nucleus|Plasma membrane
+P04554	Nucleus
+P04626	Cytosol |Nucleus|Plasma membrane
+P04629	Plasma membrane
+P04632	Cytosol 
+P04637	Cytosol |Nucleolus|Mitochondrion|Nucleus
+P04732	Nucleus
+P04733	Nucleus
+P04792	Nucleus
+P04818	Mitochondrion|Nucleus
+P04843	Cytosol |Endoplasmic reticulum
+P04899	Cytosol |Centrosome|Plasma membrane
+P04908	Nucleus
+P05023	Plasma membrane
+P05026	Plasma membrane
+P05067	Golgi apparatus|Mitochondrion|Plasma membrane
+P05089	Nucleus
+P05106	Nucleus|Plasma membrane
+P05109	Cytosol |Nucleus
+P05114	Nucleus
+P05141	Mitochondrion|Nucleus
+P05164	Nucleus
+P05187	Plasma membrane
+P05204	Nucleus
+P05230	Cytosol 
+P05388	Cytosol |Endoplasmic reticulum|Nucleus
+P05412	Nucleus
+P05423	Cytosol 
+P05455	Nucleus
+P05496	Mitochondrion
+P05549	Cytosol |Golgi apparatus|Centrosome|Nucleus
+P05556	Plasma membrane
+P05771	Cytosol |Nucleus|Plasma membrane
+P05783	Cytosol 
+P05787	Nucleus
+P05937	Nucleus
+P05981	Plasma membrane
+P06127	Plasma membrane
+P06132	Cytosol 
+P06239	Plasma membrane
+P06241	Cytosol |Plasma membrane
+P06396	Cytosol |Plasma membrane
+P06400	Nucleus
+P06454	Cytosol |Nucleus
+P06493	Cytosol |Centrosome|Nucleus
+P06576	Mitochondrion|Nucleus|Plasma membrane
+P06702	Cytosol |Nucleus
+P06703	Cytosol |Nucleus|Plasma membrane
+P06730	Cytosol 
+P06731	Plasma membrane
+P06733	Cytosol |Nucleus|Plasma membrane
+P06744	Cytosol |Plasma membrane
+P06746	Nucleus
+P06748	Nucleolus|Centrosome|Nucleus
+P06753	Cytosol |Actin cytoskeleton
+P06756	Cytosol |Plasma membrane
+P06870	Nucleus
+P06899	Cytosol |Nucleus
+P07093	Cytosol 
+P07108	Golgi apparatus
+P07148	Cytosol 
+P07195	Cytosol 
+P07203	Cytosol |Mitochondrion
+P07205	Nucleus
+P07237	Endoplasmic reticulum
+P07288	Nucleus
+P07305	Actin cytoskeleton|Golgi apparatus|Nucleus
+P07315	Nucleus
+P07327	Cytosol |Plasma membrane
+P07333	Plasma membrane
+P07339	Lysosome
+P07355	Nucleus|Plasma membrane
+P07359	Plasma membrane
+P07384	Cytosol |Plasma membrane
+P07437	Nucleus
+P07476	Cytosol |Centrosome
+P07550	Plasma membrane
+P07602	Lysosome
+P07711	Lysosome|Plasma membrane
+P07737	Cell cortex|Nucleus
+P07741	Cytosol 
+P07766	Plasma membrane
+P07814	Cytosol 
+P07858	Nucleolus|Lysosome
+P07864	Nucleus
+P07900	Nucleus
+P07902	Golgi apparatus
+P07910	Cytosol |Actin cytoskeleton|Nucleus
+P07919	Mitochondrion
+P07947	Cytosol |Golgi apparatus|Plasma membrane
+P07948	Golgi apparatus|Nucleus|Plasma membrane
+P07949	Cytosol |Plasma membrane
+P07954	Cytosol |Mitochondrion|Nucleus
+P07992	Cytosol 
+P08048	Nucleolus
+P08100	Golgi apparatus|Plasma membrane
+P08123	Endoplasmic reticulum
+P08138	Plasma membrane
+P08151	Cytosol |Nucleus
+P08172	Plasma membrane
+P08174	Plasma membrane
+P08195	Cytosol |Nucleus|Plasma membrane
+P08237	Nucleus
+P08238	Cytosol |Mitochondrion|Nucleus
+P08243	Cytosol 
+P08263	Cytosol 
+P08311	Nucleus|Plasma membrane
+P08319	Cytosol |Nucleus
+P08473	Plasma membrane
+P08559	Nucleolus|Mitochondrion|Nucleus
+P08571	Golgi apparatus
+P08574	Mitochondrion|Nucleus
+P08575	Plasma membrane
+P08579	Nucleus
+P08588	Plasma membrane
+P08621	Nucleus
+P08631	Lysosome|Plasma membrane
+P08648	Plasma membrane
+P08651	Nucleus
+P08670	Cytosol |Peroxisome
+P08727	Plasma membrane
+P08729	Nucleus
+P08754	Nucleolus|Centrosome|Nucleus|Plasma membrane
+P08779	Nucleus
+P08833	Golgi apparatus
+P08865	Plasma membrane
+P08F94	Centrosome
+P09001	Mitochondrion
+P09016	Nucleus
+P09017	Nucleus
+P09067	Cytosol |Nucleus
+P09086	Nucleus
+P09104	Cytosol |Plasma membrane
+P09110	Peroxisome
+P09132	Nucleolus
+P09172	Endoplasmic reticulum
+P09210	Cytosol 
+P09211	Cytosol |Mitochondrion
+P09327	Plasma membrane
+P09429	Nucleus
+P09455	Cytosol 
+P09488	Cytosol 
+P09493	Cytosol |Actin cytoskeleton
+P09497	Cytosol |Plasma membrane
+P09525	Nucleus|Plasma membrane
+P09543	Cytosol |Nucleus
+P09601	Endoplasmic reticulum
+P09619	Golgi apparatus
+P09622	Mitochondrion|Nucleus
+P09629	Cytosol 
+P09630	Cytosol 
+P09651	Nucleus
+P09661	Nucleus
+P09668	Cytosol |Lysosome
+P09669	Mitochondrion
+P09769	Plasma membrane
+P09874	Nucleolus|Mitochondrion|Nucleus
+P09884	Cytosol |Nucleolus|Nucleus
+P09912	Mitochondrion
+P09913	Endoplasmic reticulum
+P09914	Cytosol 
+P09917	Cytosol 
+P09923	Plasma membrane
+P09936	Cytosol 
+P09960	Cytosol |Nucleus
+P0C0E4	Mitochondrion
+P0C0S5	Nucleus
+P0C0S8	Nucleus
+P0C5Y9	Nucleus
+P0C5Z0	Nucleus
+P0C7P0	Mitochondrion
+P0C7T5	Nucleolus|Nucleus
+P0C869	Cytosol 
+P0C870	Nucleus
+P0CG30	Cytosol 
+P0CG47	Mitochondrion|Nucleus
+P0CG48	Nucleus
+P0DI81	Endoplasmic reticulum|Nucleus
+P0DI82	Endoplasmic reticulum
+P0DME0	Nucleus
+P0DML2	Endoplasmic reticulum
+P0DML3	Endoplasmic reticulum
+P10070	Nucleolus|Nucleus
+P10071	Cytosol |Nucleus
+P10074	Cytosol 
+P10109	Mitochondrion
+P10114	Plasma membrane
+P10124	Golgi apparatus
+P10147	Cytosol 
+P10155	Cytosol 
+P10253	Lysosome
+P10275	Nucleus
+P10276	Cytosol |Actin cytoskeleton|Nucleus
+P10323	Nucleus
+P10412	Nucleus
+P10415	Endoplasmic reticulum|Mitochondrion|Nucleus
+P10451	Golgi apparatus
+P10515	Mitochondrion
+P10588	Nucleus
+P10589	Cytosol |Nucleus
+P10599	Cytosol |Nucleus
+P10606	Mitochondrion
+P10620	Mitochondrion
+P10635	Mitochondrion
+P10636	Cytosol |Plasma membrane
+P10696	Plasma membrane
+P10721	Plasma membrane
+P10747	Plasma membrane
+P10809	Cytosol |Mitochondrion|Plasma membrane
+P10826	Nucleus
+P10827	Cytosol |Nucleus
+P10909	Cytosol |Mitochondrion|Nucleus
+P10912	Cytosol |Plasma membrane
+P11021	Cytosol |Endoplasmic reticulum|Mitochondrion
+P11117	Lysosome
+P11137	Cytosol |Nucleolus
+P11142	Cytosol |Nucleus
+P11166	Plasma membrane
+P11171	Cytosol |Plasma membrane
+P11172	Nucleus
+P11177	Mitochondrion|Nucleus
+P11182	Mitochondrion
+P11215	Plasma membrane
+P11233	Plasma membrane
+P11234	Plasma membrane
+P11277	Cytosol |Golgi apparatus
+P11279	Lysosome|Plasma membrane
+P11309	Cytosol |Nucleolus|Nucleus
+P11310	Mitochondrion|Nucleus
+P11362	Nucleolus|Plasma membrane
+P11387	Nucleolus|Nucleus
+P11388	Nucleolus|Nucleus
+P11413	Cytosol 
+P11441	Cytosol |Nucleus
+P11473	Nucleus
+P11474	Nucleus
+P11498	Mitochondrion
+P11511	Endoplasmic reticulum
+P11532	Nucleus
+P11586	Cytosol 
+P11717	Golgi apparatus
+P11802	Cytosol |Nucleolus|Nucleus
+P11831	Nucleus
+P11836	Nucleus|Plasma membrane
+P11940	Cytosol |Nucleus
+P12004	Centrosome|Nucleus
+P12074	Mitochondrion
+P12081	Cytosol 
+P12235	Mitochondrion
+P12236	Mitochondrion|Nucleus
+P12268	Cytosol |Nucleus
+P12270	Nucleus
+P12272	Cytosol |Golgi apparatus
+P12273	Nucleus
+P12277	Cytosol 
+P12314	Plasma membrane
+P12429	Cytosol |Plasma membrane
+P12524	Nucleus
+P12694	Mitochondrion
+P12755	Centrosome|Nucleus
+P12757	Nucleus
+P12821	Lysosome|Plasma membrane
+P12830	Actin cytoskeleton|Plasma membrane
+P12931	Cytosol |Mitochondrion|Lysosome|Plasma membrane
+P12955	Nucleus
+P12956	Nucleolus
+P13010	Nucleus|Plasma membrane
+P13073	Mitochondrion|Nucleus
+P13196	Cytosol |Mitochondrion
+P13284	Cytosol |Lysosome
+P13473	Lysosome
+P13489	Cytosol 
+P13569	Cytosol |Plasma membrane
+P13591	Cytosol |Plasma membrane
+P13612	Plasma membrane
+P13631	Nucleus
+P13637	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+P13639	Cytosol |Nucleus|Plasma membrane
+P13640	Nucleus
+P13645	Nucleus
+P13646	Nucleus
+P13647	Nucleus
+P13674	Endoplasmic reticulum|Mitochondrion
+P13682	Nucleus
+P13688	Plasma membrane
+P13693	Cytosol |Nucleus
+P13716	Nucleus
+P13747	Plasma membrane
+P13765	Lysosome
+P13796	Cytosol |Actin cytoskeleton|Plasma membrane
+P13797	Cytosol |Plasma membrane
+P13798	Cytosol 
+P13804	Mitochondrion
+P13861	Centrosome|Plasma membrane
+P13928	Cytosol |Plasma membrane
+P13929	Cytosol |Plasma membrane
+P13984	Nucleus
+P14061	Cytosol 
+P14174	Cytosol |Plasma membrane
+P14222	Cytosol 
+P14314	Endoplasmic reticulum
+P14316	Cytosol 
+P14317	Cytosol |Nucleus|Plasma membrane
+P14324	Cytosol 
+P14373	Nucleolus|Nucleus
+P14416	Plasma membrane
+P14555	Endoplasmic reticulum
+P14598	Cytosol |Plasma membrane
+P14618	Cytosol |Mitochondrion|Nucleus
+P14625	Cytosol |Endoplasmic reticulum|Nucleus
+P14635	Cytosol |Centrosome|Nucleus
+P14652	Cytosol |Nucleus
+P14672	Plasma membrane
+P14678	Cytosol |Nucleus
+P14735	Cytosol |Peroxisome|Mitochondrion|Nucleus
+P14859	Endoplasmic reticulum|Nucleus
+P14866	Nucleus
+P14868	Cytosol 
+P14920	Cytosol |Peroxisome
+P14921	Nucleus
+P14923	Plasma membrane
+P15018	Cytosol 
+P15036	Cytosol |Nucleus|Plasma membrane
+P15056	Cytosol 
+P15104	Cytosol |Mitochondrion|Nucleus|Plasma membrane
+P15121	Cytosol 
+P15144	Plasma membrane
+P15153	Cytosol 
+P15172	Cytosol 
+P15259	Nucleus
+P15291	Golgi apparatus
+P15309	Nucleus|Plasma membrane
+P15311	Cytosol |Actin cytoskeleton|Plasma membrane
+P15328	Nucleus
+P15336	Nucleus
+P15374	Cytosol |Nucleus
+P15382	Lysosome|Plasma membrane
+P15428	Cytosol 
+P15529	Plasma membrane
+P15531	Cytosol |Nucleus
+P15559	Cytosol 
+P15735	Cytosol 
+P15813	Endoplasmic reticulum
+P15822	Mitochondrion|Nucleus
+P15880	Nucleus
+P15884	Nucleus
+P15923	Nucleus
+P15924	Nucleus|Plasma membrane
+P15927	Nucleus
+P15954	Mitochondrion
+P15976	Nucleus
+P16050	Cytosol 
+P16070	Cytosol |Golgi apparatus|Plasma membrane
+P16083	Cytosol 
+P16104	Centrosome|Nucleus
+P16144	Plasma membrane
+P16157	Plasma membrane
+P16219	Mitochondrion|Nucleus
+P16220	Nucleus
+P16234	Nucleus|Plasma membrane
+P16260	Mitochondrion
+P16278	Golgi apparatus
+P16284	Plasma membrane
+P16333	Endoplasmic reticulum
+P16383	Cytosol |Nucleolus|Nucleus
+P16401	Nucleus
+P16403	Nucleus
+P16410	Golgi apparatus
+P16422	Plasma membrane
+P16444	Nucleus|Plasma membrane
+P16473	Plasma membrane
+P16591	Cytosol |Nucleus
+P16615	Endoplasmic reticulum
+P16671	Golgi apparatus|Plasma membrane
+P16870	Golgi apparatus
+P16885	Plasma membrane
+P16989	Cytosol 
+P17010	Nucleolus
+P17014	Centrosome|Nucleus
+P17020	Nucleolus|Nucleus
+P17026	Nucleus
+P17028	Nucleus
+P17066	Cytosol 
+P17081	Plasma membrane
+P17096	Nucleus
+P17152	Mitochondrion
+P17174	Cytosol |Nucleus
+P17252	Cytosol |Endoplasmic reticulum|Mitochondrion|Plasma membrane
+P17301	Plasma membrane
+P17302	Mitochondrion|Nucleus
+P17405	Lysosome|Plasma membrane
+P17480	Nucleolus|Nucleus
+P17482	Mitochondrion
+P17483	Centrosome|Nucleus
+P17535	Nucleus
+P17540	Mitochondrion
+P17542	Nucleus
+P17568	Mitochondrion
+P17612	Cytosol |Centrosome|Nucleus
+P17655	Cytosol |Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+P17676	Nucleus
+P17677	Plasma membrane
+P17693	Plasma membrane
+P17706	Cytosol |Endoplasmic reticulum|Nucleus
+P17844	Nucleolus|Nucleus
+P17858	Cytosol 
+P17861	Cytosol |Endoplasmic reticulum|Nucleus
+P17931	Nucleus
+P17936	Nucleus
+P17947	Nucleus
+P17948	Actin cytoskeleton|Plasma membrane
+P17980	Nucleus
+P17987	Centrosome
+P18031	Endoplasmic reticulum
+P18054	Cytosol 
+P18074	Cytosol |Nucleus
+P18085	Cytosol 
+P18124	Nucleolus|Nucleus
+P18146	Nucleus
+P18505	Plasma membrane
+P18564	Centrosome
+P18615	Plasma membrane
+P18621	Nucleus
+P18669	Cytosol 
+P18754	Nucleus
+P18846	Nucleus
+P18847	Nucleolus|Nucleus
+P18848	Nucleus
+P18850	Golgi apparatus|Endoplasmic reticulum|Nucleus
+P18859	Mitochondrion
+P18887	Nucleolus|Nucleus
+P19012	Nucleus
+P19022	Plasma membrane
+P19174	Cytosol |Plasma membrane
+P19224	Endoplasmic reticulum
+P19320	Golgi apparatus|Endoplasmic reticulum
+P19338	Cell cortex|Nucleolus|Nucleus
+P19367	Mitochondrion
+P19387	Cytosol |Nucleus
+P19388	Nucleus
+P19404	Mitochondrion
+P19419	Nucleus
+P19440	Plasma membrane
+P19474	Nucleus
+P19484	Nucleus
+P19525	Cytosol 
+P19532	Cytosol 
+P19544	Cytosol |Nucleus
+P19622	Nucleolus|Nucleus
+P19634	Plasma membrane
+P19784	Nucleus
+P19793	Nucleus
+P19801	Plasma membrane
+P19838	Cytosol |Mitochondrion|Nucleus
+P19878	Cytosol |Nucleolus
+P20020	Nucleus|Plasma membrane
+P20073	Nucleus
+P20138	Golgi apparatus|Peroxisome|Nucleus|Plasma membrane
+P20226	Nucleus
+P20248	Cytosol |Nucleus
+P20264	Nucleus
+P20265	Nucleus
+P20290	Cytosol 
+P20292	Endoplasmic reticulum
+P20309	Plasma membrane
+P20339	Cytosol 
+P20340	Cytosol |Golgi apparatus
+P20585	Nucleus
+P20591	Cytosol 
+P20594	Plasma membrane
+P20618	Nucleus
+P20671	Nucleus
+P20700	Nucleus
+P20719	Nucleus
+P20749	Cytosol |Nucleus|Plasma membrane
+P20794	Centrosome|Nucleus
+P20807	Nucleus
+P20810	Cytosol |Endoplasmic reticulum
+P20823	Nucleus
+P20839	Cytosol |Nucleus
+P20916	Plasma membrane
+P20930	Nucleus
+P20933	Endoplasmic reticulum|Lysosome
+P20963	Plasma membrane
+P21127	Nucleus
+P21145	Endoplasmic reticulum
+P21246	Endoplasmic reticulum
+P21266	Cytosol |Nucleus
+P21291	Nucleus
+P21333	Cytosol |Actin cytoskeleton|Nucleus|Plasma membrane
+P21397	Mitochondrion
+P21399	Cytosol |Golgi apparatus|Endoplasmic reticulum|Mitochondrion
+P21439	Cytosol |Actin cytoskeleton|Plasma membrane
+P21452	Plasma membrane
+P21506	Nucleus
+P21549	Peroxisome
+P21554	Plasma membrane
+P21580	Nucleus
+P21583	Plasma membrane
+P21589	Cytosol |Plasma membrane
+P21675	Nucleus
+P21728	Plasma membrane
+P21731	Plasma membrane
+P21796	Mitochondrion|Nucleus|Plasma membrane
+P21802	Cell cortex|Nucleus
+P21817	Cell cortex|Plasma membrane
+P21912	Mitochondrion|Plasma membrane
+P21917	Plasma membrane
+P21918	Plasma membrane
+P21980	Cytosol |Mitochondrion
+P22059	Cytosol |Golgi apparatus|Nucleolus|Nucleus
+P22061	Cytosol 
+P22087	Nucleolus|Nucleus
+P22090	Nucleus
+P22223	Plasma membrane
+P22303	Golgi apparatus
+P22307	Peroxisome
+P22309	Endoplasmic reticulum
+P22310	Endoplasmic reticulum
+P22314	Cytosol |Mitochondrion|Nucleus
+P22392	Nucleus
+P22413	Plasma membrane
+P22415	Nucleus
+P22455	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+P22460	Golgi apparatus|Plasma membrane
+P22492	Nucleus
+P22557	Mitochondrion
+P22570	Mitochondrion
+P22607	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+P22612	Cytosol 
+P22626	Nucleus
+P22676	Cytosol 
+P22681	Cytosol |Golgi apparatus|Plasma membrane
+P22694	Cytosol |Centrosome
+P22695	Mitochondrion
+P22736	Cytosol |Nucleus
+P22748	Golgi apparatus|Plasma membrane
+P22888	Plasma membrane
+P22897	Plasma membrane
+P23025	Nucleus
+P23141	Endoplasmic reticulum
+P23193	Nucleolus|Nucleus
+P23219	Golgi apparatus
+P23229	Plasma membrane
+P23246	Nucleus
+P23258	Centrosome
+P23284	Endoplasmic reticulum|Nucleus
+P23297	Nucleus
+P23368	Mitochondrion
+P23378	Mitochondrion|Nucleus|Plasma membrane
+P23381	Cytosol |Nucleus
+P23396	Cytosol |Endoplasmic reticulum|Nucleolus|Nucleus|Plasma membrane
+P23443	Mitochondrion|Nucleus
+P23458	Nucleus
+P23469	Nucleus|Plasma membrane
+P23471	Plasma membrane
+P23497	Nucleolus|Nucleus
+P23508	Cytosol |Nucleus|Plasma membrane
+P23511	Nucleus
+P23526	Cytosol 
+P23527	Cytosol |Nucleus
+P23560	Mitochondrion
+P23588	Cytosol 
+P23610	Nucleus
+P23634	Plasma membrane
+P23769	Nucleus
+P23771	Nucleus
+P23786	Nucleolus|Mitochondrion
+P23921	Cytosol 
+P23945	Plasma membrane
+P24071	Plasma membrane
+P24158	Cytosol |Plasma membrane
+P24385	Nucleus
+P24468	Cytosol |Nucleus
+P24522	Nucleus
+P24530	Plasma membrane
+P24539	Mitochondrion|Nucleus
+P24723	Plasma membrane
+P24752	Mitochondrion
+P24864	Nucleus
+P24928	Nucleus
+P24941	Centrosome|Nucleus
+P25054	Centrosome|Nucleus|Plasma membrane
+P25090	Plasma membrane
+P25103	Plasma membrane
+P25106	Plasma membrane
+P25116	Plasma membrane
+P25189	Plasma membrane
+P25205	Centrosome|Nucleus
+P25208	Nucleus
+P25311	Nucleus
+P25398	Cytosol |Golgi apparatus
+P25445	Cytosol |Plasma membrane
+P25490	Nucleus
+P25685	Cytosol |Nucleus
+P25686	Cytosol |Nucleus
+P25705	Mitochondrion|Plasma membrane
+P25774	Lysosome
+P25786	Centrosome|Nucleus
+P25787	Nucleus
+P25788	Nucleus
+P25789	Cytosol |Nucleus
+P25815	Nucleus
+P25874	Mitochondrion
+P25963	Cytosol |Nucleus|Plasma membrane
+P26006	Plasma membrane
+P26038	Cytosol |Nucleus|Plasma membrane
+P26196	Cytosol |Nucleus
+P26358	Nucleus
+P26367	Cytosol |Nucleus
+P26368	Nucleus
+P26373	Cytosol |Endoplasmic reticulum|Nucleolus|Nucleus
+P26374	Cytosol |Nucleus
+P26447	Nucleus
+P26583	Nucleolus|Nucleus
+P26639	Cytosol |Actin cytoskeleton
+P26640	Cytosol 
+P26641	Nucleus
+P26651	Cytosol |Nucleus
+P26678	Mitochondrion
+P26718	Plasma membrane
+P27105	Endoplasmic reticulum|Mitochondrion
+P27144	Mitochondrion
+P27216	Plasma membrane
+P27338	Mitochondrion
+P27448	Plasma membrane
+P27469	Mitochondrion
+P27487	Plasma membrane
+P27540	Nucleus
+P27544	Endoplasmic reticulum
+P27635	Cytosol |Endoplasmic reticulum|Nucleus
+P27694	Nucleus
+P27695	Nucleolus|Mitochondrion|Centrosome|Nucleus
+P27707	Nucleus
+P27708	Cytosol |Nucleus
+P27797	Cytosol |Endoplasmic reticulum|Nucleus
+P27815	Plasma membrane
+P27816	Cytosol |Plasma membrane
+P27824	Endoplasmic reticulum
+P28065	Cytosol 
+P28066	Cytosol |Nucleus
+P28069	Nucleus
+P28070	Nucleus
+P28072	Cytosol |Nucleus
+P28074	Centrosome|Nucleus
+P28161	Cytosol 
+P28222	Plasma membrane
+P28223	Plasma membrane
+P28288	Peroxisome
+P28290	Cytosol |Nucleus|Plasma membrane
+P28324	Cytosol 
+P28331	Mitochondrion
+P28335	Plasma membrane
+P28336	Cytosol |Plasma membrane
+P28340	Cytosol |Nucleus
+P28356	Nucleolus|Nucleus
+P28358	Cytosol 
+P28360	Nucleus
+P28370	Nucleus
+P28472	Plasma membrane
+P28482	Nucleus
+P28562	Nucleus
+P28676	Cytosol |Plasma membrane
+P28698	Nucleus
+P28702	Nucleus
+P28715	Nucleus
+P28799	Golgi apparatus|Endoplasmic reticulum|Lysosome|Plasma membrane
+P28827	Plasma membrane
+P28838	Cytosol |Nucleus
+P28906	Plasma membrane
+P29083	Cytosol |Nucleus
+P29084	Cytosol |Nucleus
+P29144	Cytosol 
+P29274	Plasma membrane
+P29317	Plasma membrane
+P29323	Nucleus|Plasma membrane
+P29350	Nucleolus|Nucleus
+P29353	Plasma membrane
+P29373	Cytosol 
+P29374	Cytosol |Nucleus|Plasma membrane
+P29375	Nucleus
+P29474	Golgi apparatus|Plasma membrane
+P29475	Plasma membrane
+P29508	Nucleus
+P29536	Cytosol 
+P29558	Cytosol 
+P29590	Nucleolus|Nucleus
+P29597	Nucleus
+P29692	Cytosol |Nucleus
+P29728	Cytosol 
+P29803	Nucleolus|Mitochondrion|Nucleus
+P29972	Nucleus|Plasma membrane
+P30040	Endoplasmic reticulum
+P30041	Nucleus
+P30043	Cytosol |Plasma membrane
+P30044	Cytosol |Peroxisome|Mitochondrion|Nucleus
+P30047	Nucleus
+P30048	Cytosol |Mitochondrion
+P30084	Mitochondrion
+P30085	Nucleolus|Nucleus
+P30086	Nucleus
+P30101	Endoplasmic reticulum|Nucleus
+P30153	Nucleus
+P30260	Centrosome|Nucleus
+P30279	Cytosol |Nucleolus|Nucleus
+P30291	Nucleolus
+P30301	Endoplasmic reticulum|Plasma membrane
+P30305	Centrosome
+P30307	Nucleus
+P30405	Mitochondrion
+P30411	Plasma membrane
+P30414	Cytosol |Mitochondrion|Plasma membrane
+P30419	Cytosol |Plasma membrane
+P30511	Endoplasmic reticulum|Plasma membrane
+P30519	Plasma membrane
+P30520	Cytosol |Plasma membrane
+P30533	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+P30542	Plasma membrane
+P30550	Plasma membrane
+P30556	Plasma membrane
+P30566	Cytosol 
+P30622	Centrosome
+P30626	Cytosol 
+P30711	Cytosol 
+P30793	Cytosol |Nucleus
+P30837	Mitochondrion
+P30838	Cytosol |Endoplasmic reticulum|Plasma membrane
+P30874	Cytosol 
+P30876	Nucleus
+P31040	Nucleolus|Mitochondrion
+P31146	Plasma membrane
+P31151	Cytosol |Endoplasmic reticulum|Nucleus
+P31260	Nucleus
+P31269	Nucleus
+P31323	Centrosome|Plasma membrane
+P31327	Nucleolus
+P31350	Cytosol 
+P31415	Endoplasmic reticulum|Mitochondrion
+P31483	Cytosol 
+P31644	Cytosol |Plasma membrane
+P31645	Plasma membrane
+P31689	Cytosol 
+P31749	Cytosol |Nucleus|Plasma membrane
+P31751	Cytosol |Nucleus
+P31930	Cytosol |Mitochondrion
+P31939	Cytosol |Plasma membrane
+P31941	Nucleus
+P31942	Nucleus
+P31943	Cytosol |Nucleus
+P31944	Cytosol |Mitochondrion|Nucleus
+P31946	Cytosol 
+P31947	Cytosol 
+P31949	Nucleus
+P31994	Plasma membrane
+P32004	Plasma membrane
+P32019	Cytosol 
+P32121	Nucleus|Plasma membrane
+P32243	Nucleus
+P32246	Plasma membrane
+P32248	Mitochondrion|Plasma membrane
+P32249	Plasma membrane
+P32314	Nucleus
+P32322	Mitochondrion
+P32418	Plasma membrane
+P32455	Cytosol |Actin cytoskeleton|Golgi apparatus
+P32456	Cytosol |Actin cytoskeleton|Golgi apparatus|Nucleus
+P32519	Nucleus
+P32856	Plasma membrane
+P32969	Nucleus
+P32970	Plasma membrane
+P33121	Mitochondrion
+P33151	Plasma membrane
+P33176	Cytosol 
+P33241	Plasma membrane
+P33527	Plasma membrane
+P33764	Cytosol |Nucleolus
+P33778	Cytosol |Nucleus
+P33897	Peroxisome
+P33908	Cytosol |Golgi apparatus
+P33993	Cytosol |Nucleus
+P34896	Cytosol |Nucleus
+P34897	Mitochondrion|Nucleus
+P34913	Cytosol |Peroxisome
+P34931	Cytosol 
+P34932	Cytosol 
+P34947	Cytosol |Plasma membrane
+P35052	Cytosol |Plasma membrane
+P35125	Plasma membrane
+P35221	Golgi apparatus|Plasma membrane
+P35222	Cell cortex|Cytosol |Centrosome|Nucleus|Plasma membrane
+P35226	Cytosol |Nucleus
+P35227	Nucleus
+P35228	Peroxisome
+P35232	Mitochondrion|Nucleus|Plasma membrane
+P35236	Cytosol 
+P35240	Cytosol |Nucleolus|Nucleus|Plasma membrane
+P35241	Plasma membrane
+P35251	Nucleus
+P35268	Nucleus
+P35269	Nucleus
+P35270	Cytosol 
+P35346	Plasma membrane
+P35348	Nucleus|Plasma membrane
+P35354	Endoplasmic reticulum
+P35367	Cytosol |Plasma membrane
+P35368	Nucleus|Plasma membrane
+P35398	Nucleus
+P35414	Plasma membrane
+P35453	Nucleus
+P35462	Plasma membrane
+P35498	Plasma membrane
+P35520	Cytosol |Nucleus
+P35527	Nucleus
+P35548	Cytosol 
+P35557	Cytosol 
+P35568	Cytosol |Nucleus|Plasma membrane
+P35579	Cytosol |Actin cytoskeleton|Nucleus|Plasma membrane
+P35580	Cell cortex|Nucleus
+P35610	Endoplasmic reticulum
+P35611	Nucleus|Plasma membrane
+P35613	Mitochondrion|Plasma membrane
+P35625	Nucleus
+P35637	Nucleus
+P35638	Nucleus
+P35658	Nucleus
+P35659	Nucleus
+P35670	Golgi apparatus
+P35680	Nucleus
+P35712	Nucleus
+P35713	Nucleus
+P35716	Nucleus
+P35813	Cytosol |Nucleus|Plasma membrane
+P35869	Cytosol |Nucleus
+P35900	Cytosol 
+P35908	Nucleus
+P35914	Peroxisome|Mitochondrion
+P35916	Plasma membrane
+P35968	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+P35998	Cytosol |Nucleus
+P36021	Plasma membrane
+P36402	Nucleus
+P36404	Cytosol |Golgi apparatus|Nucleolus|Centrosome|Nucleus
+P36405	Golgi apparatus|Centrosome|Nucleus
+P36507	Golgi apparatus|Endoplasmic reticulum
+P36544	Plasma membrane
+P36551	Cytosol |Mitochondrion
+P36578	Nucleolus|Nucleus
+P36639	Cytosol |Mitochondrion|Nucleus
+P36776	Cytosol |Mitochondrion|Nucleus
+P36871	Actin cytoskeleton
+P36873	Nucleolus|Mitochondrion|Nucleus
+P36888	Endoplasmic reticulum
+P36894	Plasma membrane
+P36896	Cytosol 
+P36897	Nucleus|Plasma membrane
+P36915	Nucleus
+P36941	Golgi apparatus
+P36954	Nucleus
+P36956	Endoplasmic reticulum|Nucleus
+P36957	Mitochondrion|Nucleus
+P36969	Mitochondrion|Nucleus
+P37023	Plasma membrane
+P37058	Endoplasmic reticulum
+P37108	Nucleus
+P37173	Plasma membrane
+P37198	Centrosome|Nucleus
+P37231	Nucleus
+P37268	Endoplasmic reticulum
+P37275	Cytosol |Nucleus
+P37837	Cytosol |Nucleus
+P37840	Cell cortex|Cytosol |Actin cytoskeleton|Nucleus|Plasma membrane
+P38117	Mitochondrion
+P38159	Nucleus
+P38398	Nucleus|Plasma membrane
+P38432	Nucleolus|Nucleus
+P38484	Endoplasmic reticulum|Plasma membrane
+P38646	Mitochondrion
+P38919	Nucleus
+P38935	Nucleus
+P38936	Nucleolus|Nucleus
+P39019	Cytosol |Nucleolus
+P39023	Cytosol |Nucleolus|Nucleus
+P39210	Mitochondrion
+P39656	Endoplasmic reticulum
+P39687	Endoplasmic reticulum|Nucleus
+P39748	Nucleolus|Mitochondrion|Nucleus
+P39880	Golgi apparatus|Nucleus
+P40121	Nucleolus|Nucleus
+P40227	Cytosol 
+P40238	Golgi apparatus
+P40259	Cytosol |Golgi apparatus|Plasma membrane
+P40394	Cytosol |Plasma membrane
+P40424	Nucleus
+P40425	Nucleus
+P40429	Nucleolus|Nucleus
+P40616	Golgi apparatus
+P40617	Cytosol |Nucleolus|Nucleus|Plasma membrane
+P40692	Nucleus
+P40763	Cytosol |Nucleus
+P40818	Cytosol 
+P40855	Cytosol |Peroxisome
+P40926	Mitochondrion|Nucleus
+P40933	Cytosol 
+P40939	Mitochondrion
+P40967	Golgi apparatus
+P41002	Centrosome|Nucleus
+P41134	Golgi apparatus
+P41145	Cytosol |Nucleus|Plasma membrane
+P41161	Nucleus
+P41181	Plasma membrane
+P41182	Golgi apparatus|Nucleus
+P41208	Centrosome
+P41212	Cytosol |Nucleolus
+P41214	Cytosol 
+P41218	Nucleolus
+P41220	Cytosol |Nucleus|Plasma membrane
+P41223	Nucleus
+P41227	Cytosol |Nucleolus|Nucleus
+P41229	Cytosol |Nucleus
+P41235	Nucleus
+P41247	Mitochondrion
+P41250	Cytosol 
+P41252	Cytosol 
+P41279	Cytosol 
+P41567	Nucleus
+P41595	Plasma membrane
+P41597	Plasma membrane
+P41743	Cytosol |Nucleus
+P41970	Mitochondrion
+P42025	Centrosome
+P42126	Mitochondrion
+P42166	Nucleus
+P42224	Cytosol |Nucleolus|Nucleus
+P42226	Cytosol 
+P42229	Cytosol 
+P42285	Nucleus
+P42330	Nucleus
+P42338	Nucleolus|Nucleus
+P42345	Lysosome
+P42566	Cytosol |Plasma membrane
+P42574	Cytosol |Nucleus
+P42677	Nucleus
+P42680	Plasma membrane
+P42681	Nucleus
+P42685	Cytosol |Nucleus
+P42696	Nucleolus|Nucleus
+P42701	Plasma membrane
+P42704	Mitochondrion|Nucleus
+P42765	Mitochondrion
+P42768	Cytosol |Nucleus
+P42771	Nucleus
+P42772	Nucleus
+P42773	Nucleus
+P42857	Endoplasmic reticulum
+P42858	Cytosol |Golgi apparatus|Endoplasmic reticulum|Nucleus
+P42892	Plasma membrane
+P43005	Plasma membrane
+P43007	Centrosome
+P43034	Cell cortex|Centrosome
+P43088	Plasma membrane
+P43119	Cytosol |Plasma membrane
+P43155	Peroxisome|Mitochondrion
+P43235	Lysosome
+P43246	Nucleus
+P43268	Nucleolus
+P43307	Endoplasmic reticulum
+P43351	Nucleus
+P43354	Nucleus
+P43355	Nucleus
+P43356	Nucleus
+P43357	Endoplasmic reticulum
+P43363	Cytosol 
+P43364	Cytosol 
+P43403	Plasma membrane
+P43405	Nucleus
+P43487	Cytosol 
+P43626	Plasma membrane
+P43657	Plasma membrane
+P43686	Cytosol |Nucleus
+P43694	Nucleus
+P43699	Nucleus
+P43897	Mitochondrion|Nucleus
+P45381	Cytosol 
+P45844	Golgi apparatus|Mitochondrion|Plasma membrane
+P45880	Mitochondrion|Nucleus
+P45954	Mitochondrion
+P45973	Nucleolus|Nucleus
+P45983	Nucleus
+P46013	Nucleolus|Nucleus
+P46060	Cytosol 
+P46063	Nucleus
+P46087	Nucleolus
+P46092	Endoplasmic reticulum
+P46109	Cytosol 
+P46199	Mitochondrion
+P46379	Cytosol |Nucleus
+P46439	Cytosol 
+P46459	Cytosol |Plasma membrane
+P46527	Nucleus
+P46695	Nucleus
+P46736	Nucleus
+P46776	Cytosol |Endoplasmic reticulum
+P46777	Cytosol |Endoplasmic reticulum|Nucleolus|Nucleus
+P46781	Nucleolus|Nucleus
+P46783	Cytosol |Nucleolus
+P46821	Cytosol |Plasma membrane
+P46934	Cell cortex|Golgi apparatus|Plasma membrane
+P46937	Nucleus
+P46939	Plasma membrane
+P46940	Nucleus|Plasma membrane
+P46952	Cytosol 
+P47712	Cytosol 
+P47736	Cytosol 
+P47870	Plasma membrane
+P47895	Cytosol |Nucleus|Plasma membrane
+P47897	Cytosol 
+P47928	Nucleus
+P47985	Mitochondrion
+P48023	Nucleus|Plasma membrane
+P48047	Mitochondrion|Nucleus|Plasma membrane
+P48051	Golgi apparatus|Plasma membrane
+P48147	Cytosol 
+P48431	Cytosol |Nucleus
+P48436	Nucleus
+P48539	Cytosol |Nucleus
+P48552	Nucleolus|Nucleus
+P48556	Nucleus
+P48634	Cytosol |Plasma membrane
+P48643	Cytosol |Nucleolus|Centrosome
+P48728	Mitochondrion
+P48729	Cytosol |Centrosome
+P48730	Golgi apparatus|Centrosome|Plasma membrane
+P48735	Mitochondrion
+P48736	Plasma membrane
+P48740	Cytosol 
+P48764	Plasma membrane
+P48788	Nucleus
+P48995	Plasma membrane
+P49006	Plasma membrane
+P49023	Cytosol |Plasma membrane
+P49069	Endoplasmic reticulum
+P49137	Centrosome|Nucleus
+P49184	Endoplasmic reticulum
+P49221	Golgi apparatus
+P49281	Mitochondrion|Lysosome|Nucleus|Plasma membrane
+P49326	Cytosol |Endoplasmic reticulum
+P49327	Cytosol |Golgi apparatus|Plasma membrane
+P49336	Nucleolus|Nucleus
+P49368	Cytosol |Plasma membrane
+P49406	Mitochondrion|Nucleus
+P49407	Nucleus
+P49411	Mitochondrion
+P49419	Cytosol |Mitochondrion
+P49427	Cytosol 
+P49448	Mitochondrion
+P49450	Nucleus
+P49454	Nucleus
+P49588	Cytosol 
+P49589	Cytosol 
+P49590	Mitochondrion
+P49591	Cytosol 
+P49593	Cytosol 
+P49662	Cytosol |Endoplasmic reticulum|Mitochondrion|Plasma membrane
+P49682	Plasma membrane
+P49685	Plasma membrane
+P49703	Plasma membrane
+P49711	Nucleolus|Nucleus
+P49715	Nucleolus|Nucleus
+P49720	Nucleus
+P49721	Nucleus
+P49736	Nucleus
+P49748	Cytosol |Nucleolus|Mitochondrion|Nucleus
+P49750	Cytosol |Nucleus
+P49753	Mitochondrion
+P49754	Cytosol 
+P49755	Golgi apparatus|Endoplasmic reticulum
+P49758	Cytosol 
+P49760	Nucleus
+P49761	Nucleus
+P49768	Golgi apparatus|Endoplasmic reticulum|Mitochondrion|Centrosome|Nucleus|Plasma membrane
+P49773	Cytosol |Nucleus|Plasma membrane
+P49789	Cytosol |Plasma membrane
+P49790	Cytosol |Nucleolus
+P49796	Cytosol 
+P49798	Nucleus
+P49802	Cytosol 
+P49810	Golgi apparatus|Endoplasmic reticulum|Centrosome
+P49815	Cytosol |Golgi apparatus|Lysosome|Nucleus
+P49821	Cytosol |Mitochondrion
+P49841	Centrosome|Nucleus|Plasma membrane
+P49848	Cytosol |Nucleus
+P49888	Cytosol 
+P49903	Plasma membrane
+P49914	Cytosol 
+P49915	Cytosol 
+P49916	Mitochondrion|Nucleus
+P49917	Nucleus
+P49918	Nucleus
+P50213	Mitochondrion|Nucleus
+P50219	Cytosol |Nucleolus|Nucleus
+P50222	Nucleus
+P50281	Cytosol |Plasma membrane
+P50402	Endoplasmic reticulum
+P50416	Mitochondrion
+P50440	Mitochondrion
+P50452	Cytosol 
+P50453	Cytosol |Golgi apparatus|Nucleus
+P50454	Endoplasmic reticulum
+P50479	Nucleus
+P50502	Cytosol 
+P50539	Cytosol |Nucleolus|Nucleus
+P50542	Cytosol |Golgi apparatus|Peroxisome
+P50548	Cytosol 
+P50552	Cytosol |Plasma membrane
+P50553	Nucleus
+P50570	Cytosol |Golgi apparatus
+P50579	Cytosol |Plasma membrane
+P50607	Nucleus
+P50613	Nucleus
+P50747	Cytosol 
+P50748	Cytosol |Actin cytoskeleton|Plasma membrane
+P50749	Cytosol |Golgi apparatus|Nucleus|Plasma membrane
+P50876	Golgi apparatus
+P50897	Golgi apparatus|Lysosome|Nucleus
+P50990	Cytosol |Centrosome
+P50991	Cytosol |Centrosome
+P50993	Plasma membrane
+P50995	Cytosol 
+P51114	Cytosol 
+P51116	Cytosol 
+P51149	Lysosome
+P51151	Lysosome
+P51153	Cytosol |Plasma membrane
+P51159	Lysosome
+P51170	Plasma membrane
+P51172	Actin cytoskeleton|Plasma membrane
+P51398	Mitochondrion
+P51449	Nucleus
+P51452	Cytosol |Nucleus
+P51513	Nucleolus|Nucleus
+P51530	Mitochondrion|Nucleus
+P51531	Nucleus
+P51532	Nucleolus|Nucleus
+P51553	Nucleolus|Mitochondrion
+P51572	Endoplasmic reticulum
+P51587	Cytosol |Centrosome|Nucleus
+P51608	Nucleus
+P51610	Nucleus
+P51617	Cytosol |Nucleus
+P51636	Plasma membrane
+P51648	Peroxisome
+P51649	Mitochondrion
+P51659	Peroxisome
+P51665	Nucleus
+P51688	Lysosome
+P51690	Golgi apparatus
+P51693	Plasma membrane
+P51784	Cytosol |Nucleus
+P51787	Endoplasmic reticulum|Lysosome|Plasma membrane
+P51788	Plasma membrane
+P51790	Golgi apparatus|Plasma membrane
+P51795	Cytosol |Golgi apparatus|Plasma membrane
+P51805	Nucleus|Plasma membrane
+P51809	Plasma membrane
+P51810	Golgi apparatus|Plasma membrane
+P51813	Plasma membrane
+P51817	Nucleus
+P51826	Cytosol |Nucleus
+P51843	Nucleus
+P51857	Cytosol 
+P51948	Cytosol 
+P51955	Centrosome
+P51957	Cytosol 
+P51965	Nucleus
+P51970	Mitochondrion
+P51991	Nucleus
+P52209	Nucleus
+P52292	Cytosol 
+P52294	Cytosol |Nucleus
+P52298	Nucleus
+P52306	Cytosol |Endoplasmic reticulum|Mitochondrion
+P52429	Cytosol |Nucleus
+P52434	Nucleus
+P52435	Nucleus
+P52564	Cytosol |Nucleus
+P52566	Cytosol 
+P52569	Plasma membrane
+P52597	Cytosol 
+P52630	Cytosol |Plasma membrane
+P52655	Cytosol 
+P52701	Cytosol |Golgi apparatus|Nucleus
+P52732	Cytosol 
+P52756	Nucleus
+P52758	Nucleus
+P52799	Plasma membrane
+P52815	Mitochondrion
+P52824	Cytosol |Nucleus|Plasma membrane
+P52926	Nucleus
+P52952	Nucleus
+P53004	Cytosol 
+P53007	Nucleus
+P53041	Cytosol 
+P53350	Centrosome|Nucleus
+P53355	Actin cytoskeleton|Plasma membrane
+P53365	Cell cortex
+P53367	Cytosol 
+P53384	Cytosol |Plasma membrane
+P53396	Cytosol |Plasma membrane
+P53539	Nucleus
+P53597	Cytosol |Mitochondrion|Plasma membrane
+P53602	Cytosol 
+P53618	Cytosol |Golgi apparatus
+P53634	Centrosome
+P53667	Cytosol 
+P53701	Mitochondrion
+P53708	Endoplasmic reticulum
+P53801	Nucleus
+P53803	Nucleus
+P53804	Cytosol |Nucleolus|Nucleus
+P53985	Centrosome|Plasma membrane
+P53990	Cytosol |Centrosome
+P53992	Cytosol 
+P53999	Nucleolus|Nucleus
+P54105	Cytosol |Nucleus
+P54132	Cytosol |Nucleolus|Nucleus
+P54136	Cytosol |Nucleus
+P54198	Nucleus
+P54252	Cytosol |Nucleolus|Nucleus|Plasma membrane
+P54253	Cytosol |Nucleolus|Nucleus
+P54259	Nucleus
+P54274	Nucleolus|Nucleus
+P54277	Nucleus
+P54278	Cytosol |Nucleus|Plasma membrane
+P54296	Mitochondrion
+P54577	Cytosol 
+P54578	Cytosol 
+P54646	Golgi apparatus
+P54652	Cytosol |Nucleus
+P54709	Plasma membrane
+P54725	Cytosol |Nucleus
+P54727	Cytosol 
+P54756	Plasma membrane
+P54762	Cytosol |Endoplasmic reticulum|Plasma membrane
+P54826	Plasma membrane
+P54845	Cytosol |Nucleus
+P54849	Plasma membrane
+P54851	Plasma membrane
+P54852	Plasma membrane
+P54868	Mitochondrion
+P54886	Cytosol |Mitochondrion
+P55008	Cytosol |Nucleus
+P55010	Cytosol |Plasma membrane
+P55036	Cytosol 
+P55039	Cytosol |Nucleus
+P55055	Nucleus
+P55060	Cytosol 
+P55061	Endoplasmic reticulum
+P55072	Cytosol |Endoplasmic reticulum|Nucleus
+P55081	Nucleus
+P55084	Endoplasmic reticulum|Mitochondrion
+P55085	Plasma membrane
+P55087	Plasma membrane
+P55145	Nucleus
+P55157	Endoplasmic reticulum
+P55160	Cytosol 
+P55196	Cytosol |Plasma membrane
+P55197	Cytosol |Nucleus
+P55201	Cytosol |Nucleus|Plasma membrane
+P55210	Cytosol |Nucleus
+P55211	Cytosol 
+P55212	Cytosol 
+P55263	Cytosol 
+P55265	Nucleolus|Nucleus
+P55273	Cytosol |Nucleus
+P55283	Plasma membrane
+P55290	Plasma membrane
+P55291	Cytosol |Golgi apparatus
+P55317	Nucleus
+P55318	Actin cytoskeleton
+P55327	Endoplasmic reticulum
+P55345	Cytosol |Nucleus
+P55769	Nucleolus|Nucleus
+P55786	Cytosol 
+P55789	Cytosol |Mitochondrion
+P55795	Cytosol 
+P55809	Mitochondrion
+P55822	Cytosol 
+P55851	Mitochondrion
+P55854	Nucleus
+P55957	Cytosol 
+P56134	Mitochondrion|Nucleus
+P56177	Nucleus
+P56181	Mitochondrion
+P56182	Nucleolus
+P56192	Cytosol |Nucleolus
+P56277	Mitochondrion
+P56377	Golgi apparatus
+P56385	Mitochondrion
+P56524	Cytosol |Nucleus
+P56537	Nucleus
+P56539	Endoplasmic reticulum|Plasma membrane
+P56545	Nucleus
+P56557	Endoplasmic reticulum|Plasma membrane
+P56559	Cytosol |Plasma membrane
+P56589	Endoplasmic reticulum|Peroxisome
+P56645	Nucleus
+P56693	Nucleus
+P56747	Plasma membrane
+P56748	Endoplasmic reticulum|Plasma membrane
+P56749	Plasma membrane
+P56750	Plasma membrane
+P56817	Golgi apparatus|Lysosome|Plasma membrane
+P56915	Nucleus
+P56962	Mitochondrion
+P57052	Nucleus
+P57053	Cytosol |Nucleus
+P57059	Nucleus
+P57071	Nucleus
+P57073	Nucleus
+P57075	Cytosol |Golgi apparatus
+P57076	Cytosol |Nucleus
+P57077	Cytosol |Nucleus
+P57081	Cytosol |Nucleus
+P57086	Nucleus
+P57088	Endoplasmic reticulum
+P57105	Mitochondrion
+P57678	Cytosol 
+P57721	Cytosol |Nucleus
+P57723	Cytosol 
+P57727	Endoplasmic reticulum
+P57729	Mitochondrion|Lysosome
+P57796	Cytosol 
+P58012	Nucleus
+P58215	Nucleus
+P58340	Nucleus
+P58557	Nucleus
+P58753	Plasma membrane
+P58876	Cytosol |Nucleus
+P60033	Plasma membrane
+P60174	Nucleus
+P60201	Plasma membrane
+P60228	Cytosol |Nucleus
+P60321	Nucleus
+P60323	Nucleus
+P60468	Endoplasmic reticulum
+P60484	Cytosol |Nucleus|Plasma membrane
+P60510	Cytosol |Nucleus|Plasma membrane
+P60602	Mitochondrion
+P60604	Cytosol 
+P60709	Actin cytoskeleton|Nucleus
+P60893	Endoplasmic reticulum|Plasma membrane
+P60900	Nucleus
+P60953	Plasma membrane
+P61006	Centrosome
+P61009	Endoplasmic reticulum
+P61011	Cytosol |Nucleus
+P61019	Nucleus
+P61026	Golgi apparatus
+P61073	Lysosome|Plasma membrane
+P61088	Nucleus
+P61158	Nucleus
+P61160	Nucleus
+P61163	Centrosome
+P61165	Endoplasmic reticulum
+P61218	Nucleus
+P61221	Cytosol |Mitochondrion
+P61224	Cytosol 
+P61225	Cytosol |Plasma membrane
+P61244	Nucleus
+P61247	Cytosol |Endoplasmic reticulum|Nucleolus|Nucleus
+P61254	Nucleolus
+P61266	Centrosome|Nucleus
+P61289	Cytosol |Nucleus
+P61313	Nucleus
+P61326	Nucleus
+P61328	Nucleus
+P61353	Nucleus
+P61457	Cytosol |Nucleus
+P61513	Nucleus
+P61586	Cell cortex|Cytosol 
+P61599	Cytosol |Nucleus
+P61604	Mitochondrion
+P61758	Cytosol 
+P61764	Cytosol |Plasma membrane
+P61769	Cytosol |Golgi apparatus|Plasma membrane
+P61916	Lysosome
+P61956	Nucleus
+P61960	Nucleus
+P61962	Cytosol 
+P61964	Nucleus
+P61966	Golgi apparatus
+P61970	Cytosol 
+P62072	Mitochondrion
+P62079	Plasma membrane
+P62081	Nucleolus|Nucleus
+P62136	Cytosol |Nucleus|Plasma membrane
+P62140	Cytosol |Nucleus|Plasma membrane
+P62166	Plasma membrane
+P62191	Cytosol |Nucleus
+P62195	Nucleus
+P62241	Cytosol |Endoplasmic reticulum|Nucleus
+P62258	Nucleus
+P62263	Nucleolus
+P62266	Cytosol |Endoplasmic reticulum
+P62269	Cytosol |Nucleus
+P62277	Nucleolus|Nucleus
+P62280	Nucleolus
+P62304	Cytosol |Nucleus
+P62306	Cytosol |Nucleus
+P62308	Cytosol |Nucleus
+P62310	Nucleus
+P62312	Nucleus
+P62314	Cytosol |Nucleus
+P62316	Cytosol |Nucleus
+P62318	Cytosol |Nucleus
+P62324	Nucleus
+P62328	Cytosol |Nucleus
+P62330	Cell cortex|Plasma membrane
+P62333	Nucleus
+P62424	Nucleolus|Nucleus
+P62487	Nucleus
+P62491	Golgi apparatus
+P62745	Plasma membrane
+P62750	Nucleolus|Nucleus
+P62753	Cytosol |Endoplasmic reticulum|Nucleolus|Nucleus
+P62805	Nucleus
+P62807	Cytosol |Nucleus
+P62820	Golgi apparatus
+P62826	Nucleolus|Nucleus
+P62829	Nucleolus
+P62847	Nucleus
+P62851	Nucleolus|Nucleus
+P62875	Nucleus
+P62888	Nucleus
+P62906	Nucleus
+P62913	Nucleolus
+P62937	Cytosol |Nucleus
+P62942	Cytosol 
+P62979	Nucleolus|Nucleus
+P62987	Cytosol |Endoplasmic reticulum|Nucleus|Plasma membrane
+P62993	Nucleolus|Nucleus
+P62995	Nucleus
+P63000	Plasma membrane
+P63092	Cytosol 
+P63096	Nucleolus|Centrosome|Nucleus|Plasma membrane
+P63104	Nucleus
+P63146	Nucleus
+P63165	Nucleolus|Nucleus|Plasma membrane
+P63167	Centrosome|Nucleus
+P63208	Nucleus
+P63241	Nucleus
+P63244	Cytosol |Nucleus
+P63261	Nucleus
+P63272	Nucleus
+P63279	Cytosol |Nucleus
+P67809	Cytosol 
+P67870	Nucleus
+P68036	Nucleus
+P68104	Cytosol |Nucleolus|Nucleus|Plasma membrane
+P68371	Nucleus
+P68400	Nucleus
+P68402	Cytosol |Nucleolus|Plasma membrane
+P68431	Nucleus
+P78310	Plasma membrane
+P78316	Nucleolus|Nucleus
+P78317	Nucleus
+P78337	Nucleolus|Nucleus
+P78344	Cytosol 
+P78345	Nucleolus
+P78347	Nucleus
+P78348	Golgi apparatus|Plasma membrane
+P78362	Cytosol |Nucleolus|Nucleus
+P78363	Endoplasmic reticulum
+P78364	Nucleus
+P78369	Plasma membrane
+P78371	Cytosol 
+P78380	Plasma membrane
+P78381	Golgi apparatus|Endoplasmic reticulum|Nucleus
+P78406	Nucleus
+P78410	Plasma membrane
+P78504	Plasma membrane
+P78527	Nucleolus|Nucleus
+P78536	Cytosol |Actin cytoskeleton
+P78537	Cytosol 
+P78545	Cytosol |Golgi apparatus
+P78549	Nucleus
+P78563	Cytosol |Nucleolus|Nucleus
+P80217	Nucleus
+P80297	Nucleus
+P80404	Mitochondrion
+P80723	Nucleus|Plasma membrane
+P81274	Cell cortex|Cytosol |Centrosome
+P82094	Golgi apparatus
+P82650	Mitochondrion
+P82663	Mitochondrion
+P82675	Mitochondrion
+P82909	Mitochondrion
+P82912	Mitochondrion
+P82914	Nucleolus|Mitochondrion|Nucleus
+P82930	Mitochondrion
+P82933	Nucleolus|Mitochondrion
+P82970	Nucleus
+P83111	Cytosol |Mitochondrion
+P83369	Nucleus
+P83436	Golgi apparatus|Nucleolus
+P83731	Cytosol |Endoplasmic reticulum
+P83876	Cytosol |Nucleus
+P83881	Cytosol |Endoplasmic reticulum|Plasma membrane
+P83916	Nucleus
+P84022	Cytosol |Nucleus
+P84243	Nucleus
+P84996	Cytosol 
+P85037	Nucleus
+P86790	Cytosol 
+P86791	Cytosol 
+P98082	Plasma membrane
+P98161	Plasma membrane
+P98170	Nucleus
+P98172	Plasma membrane
+P98175	Nucleus
+P98177	Cytosol |Nucleus
+P98179	Nucleolus
+P98194	Golgi apparatus
+P98196	Endoplasmic reticulum
+P98198	Golgi apparatus|Plasma membrane
+P99999	Cytosol |Mitochondrion|Nucleus
+Q00013	Cytosol 
+Q00059	Mitochondrion|Nucleus
+Q00325	Mitochondrion
+Q00341	Cytosol 
+Q00403	Nucleus
+Q00534	Cytosol |Centrosome|Nucleus
+Q00535	Cytosol |Nucleus|Plasma membrane
+Q00536	Cytosol |Plasma membrane
+Q00577	Nucleus
+Q00597	Cytosol 
+Q00610	Lysosome
+Q00613	Cytosol |Centrosome|Nucleus
+Q00653	Cytosol |Nucleus
+Q00839	Centrosome|Nucleus
+Q00978	Cytosol 
+Q00987	Nucleolus|Nucleus
+Q00994	Cytosol 
+Q01082	Nucleolus
+Q01094	Centrosome|Nucleus
+Q01105	Endoplasmic reticulum|Nucleus
+Q01130	Cytosol |Nucleus
+Q01167	Nucleus
+Q01196	Cytosol |Nucleus
+Q01201	Cytosol |Nucleus
+Q01433	Cytosol 
+Q01453	Plasma membrane
+Q01469	Nucleus
+Q01484	Plasma membrane
+Q01538	Cytosol 
+Q01543	Cytosol |Nucleus
+Q01546	Nucleus
+Q01628	Plasma membrane
+Q01650	Cytosol |Plasma membrane
+Q01658	Nucleus
+Q01664	Mitochondrion|Nucleus
+Q01726	Plasma membrane
+Q01780	Cytosol |Nucleolus|Nucleus
+Q01813	Nucleus
+Q01814	Plasma membrane
+Q01826	Nucleus
+Q01831	Nucleolus|Mitochondrion|Nucleus|Plasma membrane
+Q01844	Nucleolus|Nucleus
+Q01860	Cytosol |Mitochondrion|Nucleus
+Q01955	Endoplasmic reticulum
+Q01959	Plasma membrane
+Q01968	Nucleus|Plasma membrane
+Q01973	Plasma membrane
+Q02040	Cytosol |Nucleus
+Q02078	Cytosol |Nucleus
+Q02083	Lysosome
+Q02086	Nucleus
+Q02094	Plasma membrane
+Q02127	Cytosol |Mitochondrion
+Q02156	Cytosol |Endoplasmic reticulum|Plasma membrane
+Q02218	Mitochondrion|Nucleus
+Q02224	Cytosol 
+Q02241	Centrosome|Nucleus
+Q02252	Mitochondrion
+Q02318	Mitochondrion
+Q02338	Mitochondrion
+Q02363	Cytosol |Nucleus
+Q02383	Nucleus
+Q02410	Golgi apparatus
+Q02446	Cytosol 
+Q02487	Plasma membrane
+Q02548	Cytosol 
+Q02556	Nucleus
+Q02643	Plasma membrane
+Q02750	Cytosol |Endoplasmic reticulum|Plasma membrane
+Q02763	Plasma membrane
+Q02790	Cytosol 
+Q02878	Nucleus
+Q02880	Cytosol |Nucleus
+Q02952	Cytosol |Plasma membrane
+Q02962	Golgi apparatus|Nucleolus|Nucleus
+Q02978	Mitochondrion|Nucleus
+Q03001	Cytosol |Actin cytoskeleton|Nucleus
+Q03013	Cytosol 
+Q03014	Nucleus
+Q03111	Cytosol 
+Q03112	Nucleus
+Q03135	Endoplasmic reticulum|Plasma membrane
+Q03164	Cytosol |Nucleus
+Q03188	Cytosol 
+Q03393	Mitochondrion
+Q03405	Plasma membrane
+Q03426	Cytosol 
+Q03468	Nucleolus|Nucleus
+Q03518	Endoplasmic reticulum
+Q03519	Endoplasmic reticulum
+Q03923	Nucleus
+Q03989	Nucleolus|Nucleus
+Q04206	Cytosol |Nucleus
+Q04323	Cytosol |Endoplasmic reticulum
+Q04609	Plasma membrane
+Q04637	Cytosol 
+Q04656	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q04721	Nucleus|Plasma membrane
+Q04724	Nucleus
+Q04725	Nucleus
+Q04727	Nucleus
+Q04741	Nucleolus|Nucleus
+Q04760	Cytosol |Nucleus|Plasma membrane
+Q04828	Cytosol 
+Q04837	Mitochondrion|Nucleus
+Q04900	Lysosome|Plasma membrane
+Q04917	Plasma membrane
+Q04941	Plasma membrane
+Q05066	Nucleus
+Q05084	Cytosol 
+Q05193	Nucleus
+Q05195	Cytosol |Mitochondrion
+Q05397	Cytosol |Nucleus|Plasma membrane
+Q05469	Cytosol 
+Q05481	Nucleus
+Q05513	Cytosol |Plasma membrane
+Q05516	Nucleus
+Q05586	Plasma membrane
+Q05655	Cytosol |Endoplasmic reticulum|Nucleus|Plasma membrane
+Q05682	Actin cytoskeleton|Plasma membrane
+Q05923	Nucleus
+Q05925	Nucleus
+Q05932	Cytosol |Mitochondrion
+Q06124	Nucleus
+Q06136	Endoplasmic reticulum
+Q06187	Cytosol |Plasma membrane
+Q06265	Nucleolus|Nucleus
+Q06278	Cytosol 
+Q06330	Nucleolus|Nucleus
+Q06413	Nucleus
+Q06481	Nucleus
+Q06495	Plasma membrane
+Q06520	Cytosol 
+Q06546	Nucleus
+Q06547	Nucleus
+Q06587	Cytosol |Nucleus
+Q06609	Cytosol |Nucleolus|Mitochondrion|Nucleus
+Q06710	Nucleus
+Q06787	Cytosol |Nucleolus|Nucleus
+Q06830	Nucleus
+Q06945	Mitochondrion|Nucleus
+Q07001	Cytosol |Plasma membrane
+Q07020	Cytosol |Endoplasmic reticulum|Nucleolus|Nucleus
+Q07021	Cytosol |Mitochondrion|Nucleus|Plasma membrane
+Q07065	Cytosol |Endoplasmic reticulum
+Q07075	Plasma membrane
+Q07157	Cytosol |Plasma membrane
+Q07352	Nucleus
+Q07617	Cytosol 
+Q07666	Nucleus
+Q07812	Cytosol |Endoplasmic reticulum|Mitochondrion|Nucleus
+Q07817	Mitochondrion|Centrosome
+Q07820	Mitochondrion|Nucleus
+Q07864	Nucleus|Plasma membrane
+Q07869	Nucleus
+Q07912	Nucleus|Plasma membrane
+Q07955	Nucleus
+Q07973	Mitochondrion|Nucleus|Plasma membrane
+Q08116	Cytosol 
+Q08117	Nucleus
+Q08174	Nucleolus|Nucleus
+Q08209	Cytosol 
+Q08211	Actin cytoskeleton|Centrosome|Nucleus
+Q08257	Cytosol 
+Q08378	Cytosol |Golgi apparatus|Nucleolus|Nucleus
+Q08379	Golgi apparatus
+Q08426	Peroxisome
+Q08495	Cytosol |Plasma membrane
+Q08499	Cytosol |Plasma membrane
+Q08752	Cytosol |Nucleolus|Nucleus
+Q08828	Plasma membrane
+Q08999	Cytosol |Nucleolus|Nucleus
+Q08AD1	Cytosol 
+Q08AE8	Cytosol 
+Q08AG7	Centrosome
+Q08J23	Nucleolus
+Q09028	Cytosol |Nucleus
+Q09161	Cytosol |Mitochondrion|Nucleus
+Q09472	Cytosol |Nucleus
+Q09666	Cytosol |Actin cytoskeleton|Plasma membrane
+Q0GE19	Endoplasmic reticulum
+Q0P6D6	Centrosome
+Q0PNE2	Cytosol |Nucleus
+Q0VAQ4	Plasma membrane
+Q0VD86	Nucleus
+Q0VDF9	Cytosol 
+Q0VG06	Cytosol 
+Q0VGL1	Lysosome
+Q10469	Golgi apparatus
+Q10471	Golgi apparatus
+Q10567	Cytosol |Golgi apparatus
+Q10589	Cytosol |Golgi apparatus|Plasma membrane
+Q10713	Mitochondrion
+Q12765	Nucleus
+Q12772	Endoplasmic reticulum|Mitochondrion|Nucleus
+Q12774	Cytosol |Nucleus|Plasma membrane
+Q12778	Nucleus
+Q12788	Nucleolus|Nucleus
+Q12789	Nucleolus|Nucleus
+Q12792	Cytosol 
+Q12794	Lysosome
+Q12797	Endoplasmic reticulum|Plasma membrane
+Q12798	Centrosome
+Q12800	Cytosol |Nucleus
+Q12802	Cell cortex|Cytosol 
+Q12809	Plasma membrane
+Q12824	Nucleolus|Nucleus
+Q12830	Nucleus
+Q12834	Cytosol |Nucleus
+Q12837	Nucleus
+Q12846	Plasma membrane
+Q12849	Mitochondrion
+Q12857	Nucleus
+Q12873	Nucleolus|Centrosome|Nucleus
+Q12874	Nucleus
+Q12879	Plasma membrane
+Q12882	Cytosol 
+Q12884	Plasma membrane
+Q12887	Cytosol |Nucleolus|Mitochondrion
+Q12888	Nucleus
+Q12891	Cytosol |Lysosome
+Q12893	Golgi apparatus|Nucleus
+Q12894	Nucleus
+Q12904	Cytosol 
+Q12905	Nucleolus|Nucleus
+Q12906	Nucleolus|Mitochondrion|Nucleus
+Q12907	Golgi apparatus
+Q12913	Plasma membrane
+Q12923	Nucleus|Plasma membrane
+Q12931	Mitochondrion
+Q12933	Cytosol 
+Q12947	Nucleus
+Q12948	Cytosol |Nucleus
+Q12951	Nucleolus
+Q12955	Plasma membrane
+Q12959	Golgi apparatus|Endoplasmic reticulum|Nucleus
+Q12962	Nucleus
+Q12967	Cytosol |Nucleus
+Q12968	Cytosol |Nucleus
+Q12981	Endoplasmic reticulum
+Q12983	Mitochondrion
+Q12986	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q12988	Nucleus
+Q13009	Cytosol |Plasma membrane
+Q13015	Cytosol 
+Q13017	Cytosol |Endoplasmic reticulum
+Q13021	Plasma membrane
+Q13029	Golgi apparatus|Nucleus
+Q13033	Golgi apparatus|Nucleus|Plasma membrane
+Q13042	Centrosome
+Q13043	Cytosol |Nucleus
+Q13045	Cytosol 
+Q13057	Cytosol 
+Q13061	Cytosol |Plasma membrane
+Q13084	Cytosol |Mitochondrion
+Q13085	Cytosol |Actin cytoskeleton
+Q13094	Cytosol 
+Q13099	Centrosome
+Q13107	Cytosol |Nucleus|Plasma membrane
+Q13115	Nucleus
+Q13123	Nucleus
+Q13126	Cytosol 
+Q13127	Nucleus
+Q13131	Cytosol 
+Q13133	Nucleus
+Q13136	Cytosol 
+Q13137	Cytosol 
+Q13144	Cytosol 
+Q13145	Plasma membrane
+Q13148	Nucleus
+Q13153	Cytosol |Plasma membrane
+Q13155	Cytosol 
+Q13156	Nucleus
+Q13158	Cytosol |Plasma membrane
+Q13162	Nucleus
+Q13164	Cytosol |Nucleus
+Q13177	Cytosol 
+Q13185	Nucleus
+Q13190	Golgi apparatus
+Q13191	Cytosol 
+Q13207	Nucleus
+Q13216	Nucleus
+Q13224	Plasma membrane
+Q13227	Cytosol |Mitochondrion|Nucleus
+Q13228	Nucleolus
+Q13242	Nucleolus
+Q13243	Cytosol |Nucleolus|Nucleus
+Q13257	Cytosol |Nucleus
+Q13258	Plasma membrane
+Q13263	Nucleus
+Q13268	Mitochondrion|Nucleus
+Q13277	Plasma membrane
+Q13283	Cytosol 
+Q13285	Nucleus
+Q13286	Golgi apparatus|Endoplasmic reticulum|Lysosome|Nucleus|Plasma membrane
+Q13287	Cytosol 
+Q13309	Cytosol |Nucleolus|Nucleus
+Q13310	Cytosol |Nucleus
+Q13315	Nucleolus|Nucleus
+Q13325	Actin cytoskeleton|Plasma membrane
+Q13330	Cytosol |Nucleus
+Q13332	Plasma membrane
+Q13351	Nucleus
+Q13356	Nucleus|Plasma membrane
+Q13362	Cytosol |Golgi apparatus|Nucleus
+Q13363	Nucleus
+Q13393	Golgi apparatus
+Q13402	Cytosol 
+Q13405	Mitochondrion
+Q13409	Centrosome
+Q13415	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q13416	Centrosome|Nucleus
+Q13418	Cytosol 
+Q13422	Nucleus
+Q13423	Mitochondrion
+Q13426	Cytosol |Nucleus
+Q13427	Cytosol 
+Q13428	Cytosol |Nucleolus|Nucleus
+Q13432	Centrosome
+Q13433	Plasma membrane
+Q13435	Nucleus
+Q13438	Endoplasmic reticulum
+Q13439	Cytosol |Golgi apparatus
+Q13442	Cytosol |Plasma membrane
+Q13445	Golgi apparatus|Endoplasmic reticulum
+Q13449	Cytosol 
+Q13459	Cell cortex|Cytosol 
+Q13469	Cytosol |Nucleus
+Q13485	Cytosol |Centrosome|Nucleus
+Q13487	Cytosol 
+Q13489	Cytosol |Nucleus
+Q13490	Nucleus
+Q13492	Nucleus|Plasma membrane
+Q13495	Golgi apparatus|Centrosome
+Q13496	Cytosol |Plasma membrane
+Q13501	Cytosol 
+Q13509	Nucleus
+Q13510	Lysosome|Nucleus
+Q13526	Nucleus
+Q13535	Golgi apparatus
+Q13541	Cytosol 
+Q13546	Cytosol |Mitochondrion
+Q13547	Cytosol |Nucleus
+Q13561	Cytosol |Centrosome
+Q13562	Nucleus
+Q13563	Endoplasmic reticulum|Plasma membrane
+Q13568	Nucleus
+Q13569	Nucleus|Plasma membrane
+Q13573	Nucleus
+Q13574	Nucleus
+Q13585	Plasma membrane
+Q13586	Endoplasmic reticulum|Plasma membrane
+Q13595	Nucleolus|Nucleus
+Q13596	Lysosome
+Q13601	Nucleolus|Nucleus
+Q13608	Cytosol |Peroxisome
+Q13610	Golgi apparatus|Nucleolus
+Q13614	Cytosol |Nucleus
+Q13620	Cytosol 
+Q13625	Cytosol |Nucleus
+Q13627	Nucleus
+Q13635	Plasma membrane
+Q13637	Endoplasmic reticulum|Mitochondrion
+Q13642	Cytosol |Nucleus|Plasma membrane
+Q13651	Plasma membrane
+Q13671	Plasma membrane
+Q13685	Cytosol 
+Q13686	Mitochondrion
+Q13698	Plasma membrane
+Q13702	Cytosol |Centrosome|Plasma membrane
+Q13724	Endoplasmic reticulum
+Q13761	Cytosol |Nucleolus|Nucleus
+Q13769	Nucleus
+Q13794	Cytosol |Mitochondrion|Nucleus
+Q13795	Golgi apparatus
+Q13823	Nucleolus
+Q13829	Nucleolus
+Q13835	Nucleus|Plasma membrane
+Q13838	Nucleus
+Q13867	Nucleus
+Q13868	Nucleolus|Nucleus
+Q13873	Plasma membrane
+Q13882	Cytosol |Nucleus|Plasma membrane
+Q13885	Nucleus
+Q13886	Cytosol |Nucleus|Plasma membrane
+Q13887	Golgi apparatus
+Q13888	Nucleus
+Q13889	Nucleus
+Q13895	Nucleolus|Nucleus
+Q13901	Nucleolus|Nucleus
+Q13907	Peroxisome
+Q13936	Plasma membrane
+Q13939	Nucleus
+Q13948	Golgi apparatus
+Q13950	Nucleus
+Q13952	Nucleus
+Q13976	Plasma membrane
+Q14003	Plasma membrane
+Q14004	Cytosol |Golgi apparatus
+Q14005	Cytosol |Plasma membrane
+Q14008	Nucleolus|Centrosome|Plasma membrane
+Q14011	Nucleolus|Nucleus
+Q14032	Cytosol |Peroxisome
+Q14093	Nucleus
+Q14106	Cytosol 
+Q14112	Plasma membrane
+Q14118	Plasma membrane
+Q14126	Plasma membrane
+Q14137	Nucleolus|Nucleus
+Q14140	Cytosol |Nucleus
+Q14145	Cytosol 
+Q14146	Nucleolus
+Q14152	Cytosol |Nucleolus|Nucleus
+Q14153	Nucleus
+Q14154	Mitochondrion
+Q14156	Cytosol |Plasma membrane
+Q14160	Plasma membrane
+Q14164	Nucleus
+Q14181	Cytosol 
+Q14183	Nucleolus|Nucleus
+Q14185	Cytosol |Nucleus
+Q14186	Cytosol 
+Q14191	Nucleolus|Centrosome
+Q14194	Cytosol |Centrosome
+Q14197	Mitochondrion
+Q14203	Cell cortex|Cytosol |Centrosome
+Q14204	Centrosome
+Q14207	Nucleus
+Q14232	Plasma membrane
+Q14242	Plasma membrane
+Q14244	Cytosol 
+Q14247	Cell cortex|Cytosol |Golgi apparatus|Plasma membrane
+Q14257	Endoplasmic reticulum|Nucleolus
+Q14258	Cytosol 
+Q14289	Nucleus
+Q14315	Cytosol |Plasma membrane
+Q14318	Cytosol |Endoplasmic reticulum|Mitochondrion
+Q14320	Nucleus
+Q14332	Plasma membrane
+Q14344	Cytosol |Nucleus
+Q14435	Golgi apparatus
+Q14449	Plasma membrane
+Q14451	Cytosol 
+Q14457	Endoplasmic reticulum
+Q14469	Nucleus
+Q14493	Cytosol |Nucleolus|Nucleus
+Q14494	Cytosol |Nucleus
+Q14511	Cytosol |Plasma membrane
+Q14517	Nucleus|Plasma membrane
+Q14524	Endoplasmic reticulum|Plasma membrane
+Q14526	Cytosol 
+Q14527	Nucleus
+Q14562	Nucleus
+Q14565	Nucleus
+Q14566	Nucleus
+Q14571	Endoplasmic reticulum|Nucleus|Plasma membrane
+Q14573	Plasma membrane
+Q14574	Plasma membrane
+Q14587	Cytosol |Actin cytoskeleton|Nucleus
+Q14596	Cytosol 
+Q14623	Plasma membrane
+Q14653	Cytosol |Nucleus
+Q14654	Plasma membrane
+Q14657	Nucleus
+Q14669	Nucleus
+Q14671	Cytosol |Nucleus
+Q14674	Centrosome
+Q14676	Nucleus
+Q14677	Golgi apparatus
+Q14678	Nucleus|Plasma membrane
+Q14680	Cell cortex|Plasma membrane
+Q14683	Cytosol |Nucleus
+Q14684	Cytosol |Nucleolus|Nucleus
+Q14686	Cytosol |Nucleus
+Q14690	Nucleus
+Q14691	Nucleus
+Q14692	Nucleolus|Nucleus
+Q14694	Cytosol |Nucleus
+Q14699	Plasma membrane
+Q14721	Plasma membrane
+Q14722	Cytosol 
+Q14739	Nucleus
+Q14749	Cytosol 
+Q14761	Plasma membrane
+Q14764	Cytosol |Nucleus
+Q14781	Nucleus
+Q14789	Golgi apparatus
+Q14790	Cytosol 
+Q147X3	Cytosol |Nucleus
+Q14807	Cytosol 
+Q14814	Nucleus
+Q14831	Cell cortex
+Q14839	Centrosome|Nucleus
+Q14894	Cytosol 
+Q14934	Cytosol |Nucleus
+Q14954	Plasma membrane
+Q14974	Cytosol 
+Q14978	Nucleolus
+Q14980	Cell cortex|Cytosol |Centrosome|Nucleus
+Q14990	Nucleus
+Q14995	Nucleus
+Q14997	Nucleus
+Q14999	Golgi apparatus|Centrosome
+Q14C86	Cytosol 
+Q14CB8	Plasma membrane
+Q14CW9	Nucleus
+Q14CX7	Cytosol |Golgi apparatus
+Q14CZ7	Mitochondrion|Nucleus
+Q15003	Cytosol |Nucleus
+Q15004	Centrosome|Nucleus
+Q15006	Endoplasmic reticulum
+Q15007	Nucleus
+Q15011	Endoplasmic reticulum
+Q15012	Golgi apparatus
+Q15013	Nucleolus|Nucleus
+Q15014	Nucleolus|Nucleus|Plasma membrane
+Q15019	Nucleus
+Q15020	Nucleus
+Q15021	Cytosol 
+Q15022	Nucleolus|Nucleus
+Q15025	Cytosol 
+Q15029	Cytosol |Nucleus
+Q15034	Cytosol 
+Q15036	Cytosol |Golgi apparatus
+Q15042	Golgi apparatus
+Q15043	Plasma membrane
+Q15046	Cytosol |Mitochondrion|Nucleus
+Q15047	Cytosol |Nucleus|Plasma membrane
+Q15049	Endoplasmic reticulum|Plasma membrane
+Q15050	Nucleolus|Nucleus
+Q15051	Centrosome
+Q15054	Nucleus
+Q15058	Cytosol 
+Q15061	Nucleolus
+Q15067	Nucleolus|Peroxisome|Nucleus|Plasma membrane
+Q15070	Mitochondrion
+Q15072	Cytosol |Nucleolus
+Q15075	Cytosol 
+Q15080	Cytosol 
+Q15084	Cytosol |Endoplasmic reticulum
+Q15109	Plasma membrane
+Q15118	Nucleolus|Mitochondrion|Nucleus
+Q15119	Cytosol |Mitochondrion
+Q15120	Nucleolus|Mitochondrion
+Q15121	Cytosol |Nucleus
+Q15125	Endoplasmic reticulum
+Q15126	Cytosol |Peroxisome
+Q15139	Cytosol |Golgi apparatus|Plasma membrane
+Q15149	Cytosol 
+Q15154	Cytosol |Centrosome
+Q15165	Plasma membrane
+Q15172	Cytosol |Centrosome
+Q15185	Cytosol |Nucleus
+Q15208	Cytosol |Nucleus
+Q15233	Nucleus
+Q15256	Cytosol |Plasma membrane
+Q15257	Nucleus
+Q15262	Plasma membrane
+Q15286	Plasma membrane
+Q15287	Nucleus
+Q15291	Nucleolus|Nucleus
+Q15293	Endoplasmic reticulum
+Q15303	Mitochondrion|Nucleus
+Q15319	Nucleus
+Q15326	Nucleus
+Q15327	Cytosol |Nucleus
+Q15329	Nucleolus|Nucleus
+Q15349	Nucleus
+Q15361	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q15363	Golgi apparatus|Endoplasmic reticulum
+Q15365	Cytosol 
+Q15366	Cytosol |Nucleus
+Q15388	Mitochondrion
+Q15389	Plasma membrane
+Q15390	Cytosol |Mitochondrion|Plasma membrane
+Q15392	Endoplasmic reticulum|Nucleus
+Q15393	Nucleolus|Nucleus
+Q15397	Endoplasmic reticulum|Nucleolus
+Q15398	Cytosol |Mitochondrion|Nucleus
+Q15399	Golgi apparatus
+Q15417	Cytosol |Actin cytoskeleton
+Q15418	Cytosol |Nucleus
+Q15427	Nucleus
+Q15428	Nucleus
+Q15435	Nucleus
+Q15436	Cytosol 
+Q15437	Endoplasmic reticulum
+Q15438	Plasma membrane
+Q15459	Nucleus
+Q15464	Cytosol 
+Q15466	Nucleus
+Q15468	Centrosome
+Q15475	Nucleolus|Nucleus
+Q15527	Nucleolus|Nucleus|Plasma membrane
+Q15542	Actin cytoskeleton|Nucleus
+Q15543	Nucleolus|Nucleus
+Q15544	Golgi apparatus
+Q15545	Golgi apparatus
+Q15546	Golgi apparatus
+Q15554	Nucleus
+Q15561	Nucleus
+Q15562	Cytosol 
+Q15572	Nucleolus|Nucleus
+Q15599	Plasma membrane
+Q155Q3	Cytosol 
+Q15628	Plasma membrane
+Q15629	Endoplasmic reticulum
+Q15643	Golgi apparatus|Nucleus
+Q15646	Cytosol |Nucleolus
+Q15648	Nucleolus|Nucleus
+Q15649	Nucleus
+Q15650	Nucleus
+Q15651	Cytosol 
+Q15654	Cytosol |Plasma membrane
+Q15672	Nucleus
+Q15678	Nucleus
+Q15691	Centrosome
+Q15697	Cytosol |Actin cytoskeleton|Plasma membrane
+Q15699	Golgi apparatus|Nucleus
+Q15717	Cytosol |Nucleus
+Q15723	Cytosol 
+Q15738	Endoplasmic reticulum
+Q15744	Nucleus
+Q15746	Actin cytoskeleton|Plasma membrane
+Q15750	Cytosol 
+Q15758	Plasma membrane
+Q15768	Plasma membrane
+Q15785	Cytosol |Nucleus
+Q15788	Cytosol |Plasma membrane
+Q15796	Nucleus
+Q15797	Nucleus
+Q15811	Plasma membrane
+Q15814	Cytosol 
+Q15819	Nucleus
+Q15831	Cytosol |Mitochondrion|Nucleus
+Q15833	Cytosol |Plasma membrane
+Q15834	Centrosome|Nucleus
+Q15836	Cytosol 
+Q15843	Cytosol 
+Q15847	Cytosol |Nucleus
+Q15853	Nucleus
+Q15910	Nucleus
+Q15911	Nucleus
+Q15915	Nucleus
+Q15916	Mitochondrion|Nucleus
+Q15942	Cytosol |Nucleus
+Q16082	Nucleus
+Q16181	Nucleus
+Q16186	Cytosol |Plasma membrane
+Q16204	Cytosol 
+Q16222	Cytosol |Plasma membrane
+Q16236	Cytosol |Golgi apparatus|Centrosome|Nucleus|Plasma membrane
+Q16385	Nucleus
+Q16394	Golgi apparatus|Endoplasmic reticulum
+Q16478	Nucleus|Plasma membrane
+Q16512	Nucleus
+Q16513	Cytosol |Centrosome|Nucleus|Plasma membrane
+Q16514	Nucleus
+Q16526	Nucleus
+Q16531	Nucleus
+Q16533	Nucleolus|Nucleus
+Q16534	Nucleus
+Q16537	Cytosol 
+Q16540	Mitochondrion
+Q16543	Cytosol 
+Q16555	Cytosol |Plasma membrane
+Q16560	Nucleolus|Nucleus
+Q16576	Cytosol |Nucleus
+Q16584	Centrosome
+Q16587	Actin cytoskeleton
+Q16594	Nucleus
+Q16595	Cytosol |Mitochondrion
+Q16602	Endoplasmic reticulum|Lysosome|Plasma membrane
+Q16611	Mitochondrion
+Q16613	Cytosol 
+Q16623	Plasma membrane
+Q16625	Plasma membrane
+Q16630	Nucleus
+Q16635	Mitochondrion
+Q16637	Cytosol |Nucleus
+Q16647	Endoplasmic reticulum|Nucleus
+Q16650	Nucleus
+Q16651	Plasma membrane
+Q16655	Golgi apparatus
+Q16656	Cytosol 
+Q16658	Cytosol |Actin cytoskeleton
+Q16659	Cytosol 
+Q16665	Cytosol |Nucleus
+Q16666	Cytosol |Nucleolus|Nucleus
+Q16667	Cytosol 
+Q16670	Cytosol 
+Q16695	Nucleus
+Q16698	Cytosol |Mitochondrion|Nucleus
+Q16719	Cytosol |Mitochondrion
+Q16720	Golgi apparatus|Plasma membrane
+Q16740	Mitochondrion
+Q16760	Cytosol |Plasma membrane
+Q16762	Mitochondrion
+Q16772	Cytosol 
+Q16773	Cytosol 
+Q16777	Nucleus
+Q16778	Cytosol |Nucleus
+Q16787	Endoplasmic reticulum
+Q16790	Plasma membrane
+Q16795	Mitochondrion|Nucleus
+Q16799	Endoplasmic reticulum
+Q16822	Mitochondrion
+Q16829	Cytosol 
+Q16831	Nucleus
+Q16832	Actin cytoskeleton|Plasma membrane
+Q16836	Mitochondrion
+Q16849	Nucleus
+Q16850	Endoplasmic reticulum
+Q16851	Nucleus
+Q16853	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q16854	Nucleus
+Q16873	Endoplasmic reticulum
+Q16891	Mitochondrion
+Q17RP2	Nucleus
+Q17RS7	Centrosome
+Q17RY0	Nucleus
+Q18PE1	Mitochondrion|Nucleus
+Q19T08	Cytosol |Plasma membrane
+Q1HG43	Endoplasmic reticulum|Plasma membrane
+Q1MSJ5	Centrosome
+Q1W6H9	Cell cortex
+Q29RF7	Plasma membrane
+Q2KHM9	Cytosol |Centrosome
+Q2KHT3	Cytosol |Golgi apparatus
+Q2M1K9	Nucleus
+Q2M2Z5	Centrosome
+Q2M3C6	Cytosol |Plasma membrane
+Q2M3R5	Plasma membrane
+Q2NKJ3	Nucleus
+Q2NKQ1	Cytosol 
+Q2PPJ7	Cytosol |Plasma membrane
+Q2QL34	Peroxisome
+Q2T9J0	Peroxisome
+Q2TAK8	Cytosol |Nucleus
+Q2TAY7	Nucleus
+Q2TAZ0	Cytosol |Nucleus
+Q2TB90	Mitochondrion
+Q309B1	Cytosol |Plasma membrane
+Q32M45	Plasma membrane
+Q32M88	Cytosol 
+Q32MQ0	Nucleus
+Q32MZ4	Cytosol |Plasma membrane
+Q32P28	Endoplasmic reticulum|Nucleus
+Q330K2	Nucleus
+Q38SD2	Cytosol |Mitochondrion
+Q3B820	Centrosome
+Q3B8N2	Cytosol 
+Q3I5F7	Cytosol 
+Q3KNV8	Nucleus
+Q3KQU3	Cytosol 
+Q3KR16	Centrosome
+Q3KR37	Plasma membrane
+Q3LXA3	Nucleus
+Q3MUY2	Plasma membrane
+Q3SXM5	Mitochondrion
+Q3SY69	Mitochondrion|Nucleus
+Q3SYC2	Endoplasmic reticulum
+Q3T8J9	Nucleus
+Q3T906	Golgi apparatus
+Q3V6T2	Cytosol |Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q3YBR2	Nucleus
+Q3YEC7	Cytosol |Centrosome|Nucleus
+Q3ZAQ7	Lysosome
+Q3ZCQ8	Mitochondrion
+Q3ZCT1	Cytosol 
+Q401N2	Plasma membrane
+Q460N5	Cytosol 
+Q494U1	Mitochondrion
+Q49A26	Cytosol |Golgi apparatus
+Q49A88	Centrosome
+Q49AM1	Mitochondrion
+Q49AN0	Cytosol 
+Q49B96	Cytosol |Mitochondrion
+Q49MI3	Cytosol |Golgi apparatus|Endoplasmic reticulum|Nucleolus|Nucleus
+Q4AC94	Centrosome
+Q4ADV7	Cytosol 
+Q4FZB7	Nucleus
+Q4G0J3	Cytosol 
+Q4G0N4	Mitochondrion
+Q4G176	Mitochondrion
+Q4KMP7	Plasma membrane
+Q4KMQ2	Cytosol |Plasma membrane
+Q4U2R6	Mitochondrion
+Q4V328	Cytosol 
+Q4VC44	Cytosol 
+Q4VCS5	Nucleus
+Q504T8	Nucleus
+Q52LJ0	Nucleus
+Q53EL6	Cytosol 
+Q53EU6	Endoplasmic reticulum
+Q53EZ4	Centrosome|Plasma membrane
+Q53F19	Nucleus
+Q53F39	Golgi apparatus
+Q53FT3	Cytosol |Nucleus
+Q53FV1	Endoplasmic reticulum
+Q53GL7	Cytosol |Nucleolus|Nucleus
+Q53GS7	Cytosol |Nucleolus
+Q53GS9	Nucleus
+Q53GT1	Cytosol |Centrosome
+Q53H12	Mitochondrion
+Q53H47	Nucleolus|Nucleus
+Q53H80	Nucleus
+Q53H96	Cytosol 
+Q53HC0	Centrosome
+Q53HL2	Nucleolus|Nucleus
+Q53HV7	Nucleolus
+Q53QV2	Nucleus
+Q53R12	Plasma membrane
+Q53R41	Mitochondrion
+Q53S33	Mitochondrion
+Q53T59	Endoplasmic reticulum|Mitochondrion
+Q562E7	Cytosol |Mitochondrion
+Q569K4	Nucleus
+Q56NI9	Golgi apparatus|Nucleus
+Q56P03	Nucleus
+Q58WW2	Cytosol |Nucleus
+Q59H18	Nucleus
+Q5BJF2	Cytosol |Lysosome|Plasma membrane
+Q5BJF6	Centrosome|Nucleus
+Q5BKX8	Plasma membrane
+Q5C9Z4	Nucleolus|Nucleus
+Q5D1E8	Nucleus
+Q5D862	Nucleus
+Q5EBL4	Cytosol |Plasma membrane
+Q5EBL8	Cytosol 
+Q5FBB7	Cytosol |Centrosome
+Q5FVE4	Cytosol |Mitochondrion
+Q5FWF4	Nucleus
+Q5GLZ8	Cytosol 
+Q5H8A4	Endoplasmic reticulum
+Q5H9F3	Plasma membrane
+Q5H9R7	Cytosol |Plasma membrane
+Q5H9S7	Cytosol 
+Q5HY98	Nucleus
+Q5HYA8	Centrosome
+Q5HYJ1	Endoplasmic reticulum
+Q5HYK7	Cytosol |Plasma membrane
+Q5I7T1	Endoplasmic reticulum
+Q5JPH6	Mitochondrion
+Q5JPI3	Nucleus
+Q5JQC9	Nucleus
+Q5JR59	Nucleus
+Q5JRX3	Mitochondrion
+Q5JSH3	Golgi apparatus
+Q5JTC6	Plasma membrane
+Q5JTD0	Golgi apparatus
+Q5JTH9	Nucleolus
+Q5JTV8	Nucleus
+Q5JTW2	Centrosome
+Q5JTZ9	Mitochondrion
+Q5JU67	Cytosol |Plasma membrane
+Q5JVF3	Nucleus
+Q5JVL4	Centrosome
+Q5JVS0	Nucleolus|Nucleus
+Q5JWF2	Cytosol 
+Q5JX71	Nucleus
+Q5JY77	Cytosol 
+Q5K4L6	Endoplasmic reticulum
+Q5K651	Cytosol 
+Q5M7Z0	Endoplasmic reticulum
+Q5MIZ7	Centrosome
+Q5MJ70	Nucleus
+Q5MNZ6	Lysosome
+Q5PRF9	Cytosol 
+Q5QJE6	Nucleolus|Nucleus
+Q5QNW6	Cytosol |Nucleus
+Q5R372	Golgi apparatus|Nucleus
+Q5RI15	Mitochondrion
+Q5S007	Cytosol |Golgi apparatus|Endoplasmic reticulum|Mitochondrion|Nucleus|Plasma membrane
+Q5SQI0	Cytosol |Golgi apparatus
+Q5SRI9	Golgi apparatus
+Q5SRN2	Nucleus
+Q5SSJ5	Nucleus
+Q5SW79	Cytosol |Centrosome|Plasma membrane
+Q5SW96	Cytosol 
+Q5SXM8	Mitochondrion
+Q5SY16	Nucleolus
+Q5SZQ8	Nucleus
+Q5T0N5	Cytosol 
+Q5T0T0	Lysosome
+Q5T197	Plasma membrane
+Q5T1C6	Cytosol |Mitochondrion
+Q5T230	Nucleus
+Q5T2N8	Mitochondrion
+Q5T3F8	Actin cytoskeleton|Plasma membrane
+Q5T3J3	Nucleus
+Q5T440	Mitochondrion
+Q5T4F4	Cytosol |Endoplasmic reticulum
+Q5T4S7	Cytosol |Centrosome
+Q5T5C0	Cytosol 
+Q5T5U3	Actin cytoskeleton|Golgi apparatus|Plasma membrane
+Q5T5X7	Nucleolus
+Q5T653	Mitochondrion
+Q5T6F0	Centrosome
+Q5T7N3	Cytosol 
+Q5T7V8	Cytosol |Golgi apparatus|Nucleolus|Nucleus
+Q5T8D3	Peroxisome|Nucleus
+Q5T9A4	Mitochondrion
+Q5T9C9	Cytosol 
+Q5T9G4	Nucleus
+Q5T9L3	Golgi apparatus|Plasma membrane
+Q5TA31	Cytosol |Nucleus
+Q5TA45	Cytosol |Nucleus
+Q5TA50	Cytosol 
+Q5TAP6	Cytosol |Nucleolus
+Q5TAQ9	Cytosol |Mitochondrion|Nucleus
+Q5TAX3	Cytosol |Nucleolus
+Q5TB30	Nucleus
+Q5TB80	Centrosome
+Q5TBB1	Nucleus
+Q5TCS8	Nucleus
+Q5TCY1	Cytosol 
+Q5TDH0	Cytosol 
+Q5TEU4	Mitochondrion
+Q5TGZ0	Mitochondrion
+Q5TYM5	Cytosol 
+Q5TYW2	Plasma membrane
+Q5TZA2	Cytosol |Actin cytoskeleton|Centrosome|Plasma membrane
+Q5UIP0	Nucleus|Plasma membrane
+Q5VIR6	Cytosol |Golgi apparatus
+Q5VSL9	Cytosol |Nucleus
+Q5VST9	Cytosol |Plasma membrane
+Q5VT06	Centrosome
+Q5VT66	Mitochondrion
+Q5VTD9	Nucleus
+Q5VTR2	Nucleolus|Nucleus
+Q5VU43	Golgi apparatus|Centrosome|Nucleus
+Q5VUA4	Cytosol 
+Q5VUB5	Plasma membrane
+Q5VUG0	Nucleus
+Q5VV43	Plasma membrane
+Q5VVJ2	Nucleus|Plasma membrane
+Q5VW38	Golgi apparatus
+Q5VWG9	Nucleus
+Q5VWN6	Cytosol |Nucleus
+Q5VWP2	Nucleus
+Q5VWQ8	Plasma membrane
+Q5VWZ2	Cytosol 
+Q5VY09	Nucleus
+Q5VYK3	Endoplasmic reticulum|Centrosome|Nucleus
+Q5VYS8	Cytosol 
+Q5VZK9	Cytosol |Nucleus|Plasma membrane
+Q5VZM2	Lysosome
+Q5VZV1	Nucleus
+Q5W0Z9	Plasma membrane
+Q5XG87	Golgi apparatus|Nucleus
+Q5XKP0	Mitochondrion
+Q5XPI4	Cytosol 
+Q5XXA6	Plasma membrane
+Q63HK5	Nucleus
+Q63HN8	Cytosol |Nucleolus
+Q63HQ0	Golgi apparatus
+Q63ZY3	Mitochondrion
+Q641Q2	Cytosol |Nucleolus
+Q643R3	Endoplasmic reticulum
+Q659A1	Cytosol 
+Q659C4	Nucleus
+Q66GS9	Centrosome
+Q66K74	Cytosol |Nucleolus|Nucleus
+Q674X7	Cytosol 
+Q684P5	Cytosol |Centrosome
+Q687X5	Golgi apparatus
+Q68CJ9	Endoplasmic reticulum|Nucleus
+Q68CP9	Plasma membrane
+Q68CQ4	Nucleolus
+Q68CR1	Nucleus
+Q68CZ1	Cytosol |Centrosome|Plasma membrane
+Q68CZ2	Cytosol 
+Q68CZ6	Mitochondrion|Centrosome
+Q68DK2	Centrosome
+Q68E01	Nucleolus|Nucleus
+Q68EM7	Cytosol |Nucleus
+Q69YH5	Cytosol 
+Q69YI7	Cytosol |Nucleus|Plasma membrane
+Q69YN4	Cytosol 
+Q69YQ0	Cytosol |Actin cytoskeleton
+Q6AWC2	Cytosol 
+Q6AZY7	Endoplasmic reticulum
+Q6AZZ1	Cytosol |Golgi apparatus|Nucleolus|Nucleus
+Q6BCY4	Nucleus
+Q6DD88	Endoplasmic reticulum
+Q6DKI2	Cytosol 
+Q6DKI7	Plasma membrane
+Q6DKK2	Mitochondrion
+Q6DN12	Cytosol 
+Q6DN90	Nucleolus
+Q6DT37	Cytosol 
+Q6EKJ0	Nucleus
+Q6EMB2	Cytosol |Centrosome|Plasma membrane
+Q6F5E8	Actin cytoskeleton|Plasma membrane
+Q6FHJ7	Nucleus
+Q6FI13	Nucleus
+Q6FI81	Nucleolus|Mitochondrion
+Q6GPH4	Mitochondrion|Nucleus
+Q6GQQ9	Nucleus
+Q6GTX8	Plasma membrane
+Q6H8Q1	Actin cytoskeleton
+Q6I9Y2	Cytosol |Nucleus
+Q6IA69	Cytosol 
+Q6IA86	Cytosol 
+Q6IAA8	Lysosome
+Q6IB77	Mitochondrion
+Q6IBW4	Nucleus
+Q6IC98	Mitochondrion
+Q6ICL3	Golgi apparatus
+Q6IE81	Cytosol |Nucleus|Plasma membrane
+Q6IEG0	Cytosol 
+Q6IMN6	Cytosol |Mitochondrion|Centrosome|Nucleus
+Q6IN84	Mitochondrion
+Q6IPR1	Mitochondrion
+Q6IPU0	Nucleolus|Nucleus
+Q6IQ19	Centrosome
+Q6IQ20	Cytosol |Golgi apparatus
+Q6IQ23	Cytosol |Centrosome|Nucleus
+Q6IQ49	Nucleus
+Q6IQ55	Cytosol |Nucleus
+Q6ISB3	Nucleus
+Q6IV72	Nucleus
+Q6IWH7	Endoplasmic reticulum|Plasma membrane
+Q6J272	Nucleus
+Q6J9G0	Plasma membrane
+Q6KC79	Nucleus
+Q6L9T8	Cytosol 
+Q6N022	Plasma membrane
+Q6N069	Cytosol 
+Q6NS38	Nucleus
+Q6NSJ5	Plasma membrane
+Q6NSX1	Plasma membrane
+Q6NT76	Cytosol |Nucleus
+Q6NTF7	Nucleus
+Q6NTF9	Golgi apparatus|Nucleus
+Q6NUK1	Mitochondrion
+Q6NUP7	Cytosol 
+Q6NUQ1	Endoplasmic reticulum
+Q6NUQ4	Cytosol |Golgi apparatus|Endoplasmic reticulum
+Q6NUS6	Nucleus
+Q6NUT2	Nucleus
+Q6NXE6	Cytosol 
+Q6NXG1	Nucleus
+Q6NXR4	Cytosol |Centrosome
+Q6NXT4	Golgi apparatus
+Q6NXT6	Centrosome
+Q6NYC1	Nucleolus|Nucleus
+Q6NZ67	Cytosol |Centrosome
+Q6NZI2	Mitochondrion|Nucleus|Plasma membrane
+Q6NZY4	Nucleus
+Q6P050	Cytosol |Nucleolus
+Q6P161	Mitochondrion
+Q6P1J9	Cytosol |Nucleus
+Q6P1K1	Plasma membrane
+Q6P1K2	Golgi apparatus
+Q6P1L8	Mitochondrion
+Q6P1M3	Cytosol 
+Q6P1N0	Cytosol |Plasma membrane
+Q6P1Q0	Mitochondrion
+Q6P2C8	Cytosol |Nucleolus|Nucleus
+Q6P2D8	Nucleus
+Q6P2E9	Nucleus
+Q6P2H3	Cytosol |Golgi apparatus|Nucleolus|Mitochondrion|Centrosome
+Q6P2H8	Nucleus
+Q6P2Q9	Nucleus
+Q6P387	Cytosol |Nucleus
+Q6P3S1	Cytosol 
+Q6P4A7	Mitochondrion
+Q6P4E1	Golgi apparatus
+Q6P4F1	Golgi apparatus|Endoplasmic reticulum
+Q6P4H8	Mitochondrion
+Q6P4R8	Nucleus
+Q6P582	Cytosol |Centrosome
+Q6P587	Cytosol |Mitochondrion
+Q6P5W5	Plasma membrane
+Q6P6C2	Cytosol |Golgi apparatus|Nucleus
+Q6P996	Golgi apparatus
+Q6P9B9	Nucleus
+Q6P9F7	Plasma membrane
+Q6P9H5	Cytosol 
+Q6PCB7	Cytosol |Mitochondrion|Plasma membrane
+Q6PCD5	Nucleus
+Q6PD74	Cytosol 
+Q6PEY2	Nucleus
+Q6PF06	Cytosol 
+Q6PF18	Nucleus
+Q6PFW1	Cytosol 
+Q6PGN9	Cytosol 
+Q6PGP7	Cytosol |Nucleus
+Q6PHW0	Plasma membrane
+Q6PI26	Cytosol 
+Q6PI48	Mitochondrion|Nucleus
+Q6PI77	Cytosol 
+Q6PI78	Plasma membrane
+Q6PII3	Nucleus
+Q6PIL6	Plasma membrane
+Q6PIZ9	Plasma membrane
+Q6PJ69	Cytosol |Nucleus
+Q6PJF5	Plasma membrane
+Q6PJG6	Nucleus
+Q6PJT7	Nucleolus|Nucleus
+Q6PJW8	Plasma membrane
+Q6PK04	Nucleolus
+Q6PML9	Endoplasmic reticulum|Nucleus
+Q6Q0C0	Plasma membrane
+Q6QNK2	Plasma membrane
+Q6QNY1	Mitochondrion|Centrosome|Nucleus
+Q6R6M4	Nucleus
+Q6RFH5	Nucleolus|Nucleus
+Q6RW13	Cytosol 
+Q6SJ96	Nucleus
+Q6STE5	Nucleus
+Q6SZW1	Mitochondrion
+Q6T4R5	Golgi apparatus
+Q6TCH7	Golgi apparatus
+Q6U7Q0	Cytosol |Centrosome|Nucleus
+Q6UB28	Mitochondrion
+Q6UB35	Mitochondrion
+Q6UB98	Cytosol 
+Q6UB99	Cytosol |Nucleus|Plasma membrane
+Q6ULP2	Cytosol |Golgi apparatus|Nucleus
+Q6UUV7	Cytosol 
+Q6UUV9	Cytosol |Nucleus|Plasma membrane
+Q6UVJ0	Cytosol |Centrosome
+Q6UVM3	Plasma membrane
+Q6UWE0	Cytosol 
+Q6UWH4	Golgi apparatus
+Q6UWP7	Cytosol |Endoplasmic reticulum
+Q6UWR7	Plasma membrane
+Q6UWU4	Nucleolus|Plasma membrane
+Q6UWV6	Golgi apparatus
+Q6UWZ7	Nucleus
+Q6UX01	Plasma membrane
+Q6UX04	Nucleus
+Q6UX06	Plasma membrane
+Q6UX65	Golgi apparatus|Lysosome
+Q6UX72	Golgi apparatus
+Q6UX73	Cytosol 
+Q6UXG2	Plasma membrane
+Q6UXN9	Nucleolus
+Q6UXS9	Endoplasmic reticulum
+Q6UXU6	Nucleus
+Q6UXV4	Mitochondrion
+Q6V1X1	Cytosol 
+Q6VMQ6	Cytosol |Nucleus
+Q6VVB1	Nucleus
+Q6W0C5	Nucleus
+Q6W2J9	Nucleus
+Q6WBX8	Nucleus
+Q6WCQ1	Cytosol |Actin cytoskeleton
+Q6WKZ4	Cytosol 
+Q6X4W1	Nucleus
+Q6X784	Nucleus
+Q6XQN6	Cytosol 
+Q6Y1H2	Endoplasmic reticulum
+Q6Y7W6	Cytosol |Golgi apparatus|Endoplasmic reticulum
+Q6YN16	Peroxisome|Mitochondrion
+Q6ZMT4	Nucleolus
+Q6ZMZ0	Cytosol |Endoplasmic reticulum
+Q6ZN04	Cytosol 
+Q6ZN17	Cytosol |Nucleolus|Nucleus
+Q6ZN18	Nucleus
+Q6ZN28	Mitochondrion
+Q6ZNA4	Cytosol |Nucleus
+Q6ZNJ1	Endoplasmic reticulum
+Q6ZRI6	Cytosol 
+Q6ZRP7	Golgi apparatus
+Q6ZRQ5	Cytosol 
+Q6ZRS2	Golgi apparatus|Nucleus
+Q6ZS17	Golgi apparatus
+Q6ZSB9	Cytosol |Nucleus
+Q6ZSZ5	Cytosol |Plasma membrane
+Q6ZTN6	Plasma membrane
+Q6ZTW0	Centrosome
+Q6ZUM4	Cytosol |Nucleus
+Q6ZVD7	Cytosol |Centrosome|Nucleus
+Q6ZW49	Nucleus
+Q6ZWK4	Plasma membrane
+Q6ZXV5	Endoplasmic reticulum
+Q709C8	Cytosol 
+Q709F0	Nucleus
+Q70CQ4	Nucleus
+Q70E73	Cytosol |Plasma membrane
+Q70EL2	Nucleus
+Q70HW3	Mitochondrion
+Q70IA6	Cytosol |Nucleolus|Nucleus
+Q70J99	Cytosol |Lysosome
+Q70SY1	Endoplasmic reticulum|Nucleus
+Q70UQ0	Endoplasmic reticulum
+Q70YC4	Centrosome
+Q719H9	Nucleus
+Q71DI3	Nucleus
+Q71F23	Nucleus
+Q71RC2	Cytosol 
+Q71RH2	Endoplasmic reticulum
+Q71U36	Nucleus
+Q71UI9	Nucleus
+Q71UM5	Nucleus
+Q75V66	Plasma membrane
+Q75WM6	Nucleus
+Q76EJ3	Golgi apparatus
+Q76FK4	Nucleolus
+Q76KD6	Centrosome
+Q76N32	Cytosol |Centrosome|Nucleus
+Q76N89	Cytosol 
+Q7KZF4	Cytosol 
+Q7KZI7	Plasma membrane
+Q7KZN9	Mitochondrion|Nucleus
+Q7L014	Nucleus
+Q7L099	Cytosol 
+Q7L0J3	Endoplasmic reticulum
+Q7L0Y3	Mitochondrion
+Q7L1T6	Endoplasmic reticulum
+Q7L1W4	Plasma membrane
+Q7L266	Nucleus
+Q7L2E3	Cytosol |Mitochondrion
+Q7L2Z9	Actin cytoskeleton
+Q7L3B6	Cytosol 
+Q7L3S4	Nucleolus|Nucleus
+Q7L3V2	Mitochondrion
+Q7L523	Lysosome|Nucleus
+Q7L590	Nucleolus|Nucleus
+Q7L592	Mitochondrion
+Q7L5A3	Nucleus
+Q7L5D6	Cytosol |Nucleolus
+Q7L5N7	Endoplasmic reticulum
+Q7L5Y9	Nucleus
+Q7L622	Cytosol 
+Q7L8A9	Endoplasmic reticulum
+Q7L8L6	Mitochondrion
+Q7L8W6	Nucleolus|Nucleus
+Q7L9L4	Cytosol |Nucleolus|Nucleus
+Q7LBR1	Nucleus
+Q7LC44	Plasma membrane
+Q7LDG7	Cytosol |Plasma membrane
+Q7LFL8	Cytosol 
+Q7LG56	Cytosol 
+Q7RTN6	Cytosol |Nucleus
+Q7RTP6	Cytosol |Nucleus|Plasma membrane
+Q7RTR2	Cytosol 
+Q7RTS9	Golgi apparatus
+Q7RTU7	Nucleus
+Q7RTV0	Nucleus
+Q7RTV2	Cytosol 
+Q7RTY0	Golgi apparatus
+Q7Z2E3	Nucleolus|Nucleus
+Q7Z2H8	Endoplasmic reticulum
+Q7Z2W4	Cytosol 
+Q7Z2W7	Plasma membrane
+Q7Z2W9	Mitochondrion
+Q7Z2Z1	Nucleus
+Q7Z304	Endoplasmic reticulum
+Q7Z333	Nucleus
+Q7Z392	Golgi apparatus
+Q7Z3B3	Nucleus
+Q7Z3E1	Nucleus
+Q7Z3I7	Nucleus
+Q7Z3K3	Cytosol |Nucleus
+Q7Z3K6	Nucleus
+Q7Z3T8	Cytosol 
+Q7Z3V5	Nucleus
+Q7Z3Z3	Nucleus
+Q7Z3Z4	Nucleus
+Q7Z403	Golgi apparatus|Endoplasmic reticulum
+Q7Z412	Peroxisome
+Q7Z417	Cytosol |Nucleus
+Q7Z418	Plasma membrane
+Q7Z434	Mitochondrion
+Q7Z443	Plasma membrane
+Q7Z460	Cell cortex|Golgi apparatus|Centrosome
+Q7Z465	Cytosol |Nucleus
+Q7Z4H7	Cytosol |Centrosome
+Q7Z4S6	Cytosol |Plasma membrane
+Q7Z4W1	Nucleus
+Q7Z569	Cytosol 
+Q7Z570	Nucleus|Plasma membrane
+Q7Z591	Cytosol |Centrosome
+Q7Z5A9	Endoplasmic reticulum
+Q7Z5J4	Mitochondrion|Nucleus
+Q7Z5K2	Nucleus
+Q7Z5L9	Nucleus
+Q7Z5Q1	Nucleus
+Q7Z5Q5	Nucleus
+Q7Z5R6	Cytosol |Plasma membrane
+Q7Z5W3	Cytosol |Nucleus
+Q7Z601	Cytosol |Plasma membrane
+Q7Z624	Nucleus
+Q7Z699	Cytosol |Nucleus
+Q7Z6B0	Golgi apparatus
+Q7Z6G3	Plasma membrane
+Q7Z6G8	Cytosol |Plasma membrane
+Q7Z6J0	Cytosol 
+Q7Z6K1	Nucleus
+Q7Z6L0	Plasma membrane
+Q7Z6M4	Cytosol |Mitochondrion
+Q7Z6Z7	Cytosol 
+Q7Z7A1	Cytosol |Centrosome
+Q7Z7A4	Cytosol |Nucleus|Plasma membrane
+Q7Z7B0	Actin cytoskeleton|Nucleolus|Plasma membrane
+Q7Z7C8	Nucleus
+Q7Z7F0	Nucleus
+Q7Z7F7	Mitochondrion
+Q7Z7H3	Actin cytoskeleton|Nucleus|Plasma membrane
+Q7Z7H8	Mitochondrion
+Q7Z7J5	Nucleus
+Q7Z7K0	Mitochondrion
+Q7Z7K6	Nucleus
+Q7Z7L1	Cytosol |Nucleus
+Q7Z7N9	Nucleolus
+Q86SE8	Nucleus
+Q86SE9	Nucleolus|Centrosome|Nucleus
+Q86SG2	Cytosol |Actin cytoskeleton
+Q86SQ0	Cytosol |Plasma membrane
+Q86SQ4	Plasma membrane
+Q86SQ7	Centrosome
+Q86SU0	Cytosol |Plasma membrane
+Q86SX6	Mitochondrion
+Q86T24	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q86T26	Plasma membrane
+Q86T82	Nucleus
+Q86TG7	Cytosol |Nucleus
+Q86TI2	Cytosol 
+Q86TJ5	Nucleolus|Nucleus
+Q86TM6	Endoplasmic reticulum
+Q86TP1	Cytosol 
+Q86TS9	Mitochondrion
+Q86TV6	Cytosol |Plasma membrane
+Q86TX2	Cytosol 
+Q86U42	Nucleus
+Q86U44	Nucleus
+Q86UA6	Nucleus
+Q86UD0	Cytosol |Nucleolus|Nucleus
+Q86UD3	Lysosome
+Q86UE4	Endoplasmic reticulum|Nucleus
+Q86UE6	Endoplasmic reticulum
+Q86UE8	Nucleus
+Q86UF1	Plasma membrane
+Q86UK5	Nucleus
+Q86UL3	Endoplasmic reticulum
+Q86UL8	Nucleus|Plasma membrane
+Q86UP2	Endoplasmic reticulum
+Q86UQ0	Nucleus
+Q86UQ8	Nucleus
+Q86US8	Cytosol |Nucleolus|Nucleus
+Q86UT6	Mitochondrion|Plasma membrane
+Q86UU0	Nucleolus|Nucleus
+Q86UV5	Cytosol |Mitochondrion
+Q86UV6	Cytosol 
+Q86UV7	Cytosol 
+Q86UW1	Plasma membrane
+Q86V15	Cytosol 
+Q86V20	Nucleus
+Q86V86	Cytosol 
+Q86VB7	Plasma membrane
+Q86VD7	Mitochondrion|Nucleus
+Q86VE9	Plasma membrane
+Q86VI4	Lysosome|Plasma membrane
+Q86VN1	Cytosol 
+Q86VP3	Endoplasmic reticulum|Mitochondrion
+Q86VP6	Cytosol |Golgi apparatus|Nucleus
+Q86VR7	Nucleus
+Q86VZ6	Cytosol |Nucleus
+Q86W42	Nucleus
+Q86W50	Nucleus
+Q86W54	Cytosol |Nucleus
+Q86W56	Cytosol |Nucleus
+Q86WA8	Peroxisome
+Q86WA9	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q86WB0	Nucleus
+Q86WB7	Plasma membrane
+Q86WH2	Cytosol |Plasma membrane
+Q86WI3	Cytosol |Centrosome|Nucleus
+Q86WJ1	Cytosol |Nucleus|Plasma membrane
+Q86WP2	Cytosol |Plasma membrane
+Q86WT6	Nucleus
+Q86WV1	Cytosol |Nucleus|Plasma membrane
+Q86WV5	Nucleus
+Q86WX3	Cytosol |Nucleolus|Nucleus
+Q86X24	Nucleus
+Q86X51	Cytosol |Nucleus
+Q86X55	Cytosol |Nucleus
+Q86X76	Nucleus
+Q86X95	Nucleus
+Q86XA0	Nucleus
+Q86XD5	Cytosol 
+Q86XF0	Mitochondrion
+Q86XJ1	Actin cytoskeleton
+Q86XK2	Cytosol |Nucleolus|Nucleus
+Q86XK3	Nucleus
+Q86XN8	Nucleus
+Q86XP3	Cytosol |Nucleus
+Q86XR7	Endoplasmic reticulum|Plasma membrane
+Q86XR8	Golgi apparatus|Centrosome
+Q86XT4	Cytosol 
+Q86XZ4	Cytosol 
+Q86Y01	Cytosol 
+Q86Y07	Endoplasmic reticulum|Nucleus
+Q86Y25	Cytosol 
+Q86Y39	Mitochondrion
+Q86Y46	Nucleus
+Q86Y91	Cytosol |Nucleus
+Q86YD1	Nucleus
+Q86YF9	Cytosol |Nucleus
+Q86YH6	Cytosol 
+Q86YI8	Nucleus
+Q86YJ7	Plasma membrane
+Q86YL7	Cytosol |Plasma membrane
+Q86YN6	Nucleus
+Q86YP4	Nucleus
+Q86YR5	Plasma membrane
+Q86YS6	Golgi apparatus
+Q86YS7	Cell cortex|Cytosol |Plasma membrane
+Q86YT5	Plasma membrane
+Q86YT6	Centrosome
+Q86YT9	Plasma membrane
+Q86YW0	Nucleus
+Q86YZ3	Nucleus
+Q86Z02	Cytosol |Centrosome|Nucleus
+Q8HWS3	Nucleolus|Nucleus
+Q8IU68	Golgi apparatus|Endoplasmic reticulum
+Q8IU80	Plasma membrane
+Q8IU85	Nucleus
+Q8IUD2	Centrosome
+Q8IUE6	Nucleus
+Q8IUF8	Cytosol |Nucleolus|Nucleus
+Q8IUH3	Nucleus
+Q8IUH4	Endoplasmic reticulum
+Q8IUH5	Golgi apparatus
+Q8IUI8	Cytosol |Plasma membrane
+Q8IUR6	Nucleus
+Q8IUR7	Nucleus
+Q8IUW5	Plasma membrane
+Q8IUX1	Mitochondrion
+Q8IV04	Plasma membrane
+Q8IV20	Peroxisome
+Q8IV36	Cytosol |Golgi apparatus
+Q8IV48	Nucleolus
+Q8IV63	Nucleolus|Nucleus
+Q8IV76	Nucleus
+Q8IVE3	Cytosol |Plasma membrane
+Q8IVF2	Cytosol |Plasma membrane
+Q8IVF7	Cytosol |Golgi apparatus|Plasma membrane
+Q8IVJ1	Plasma membrane
+Q8IVL5	Golgi apparatus|Endoplasmic reticulum
+Q8IVM0	Cytosol 
+Q8IVQ6	Golgi apparatus|Plasma membrane
+Q8IVS2	Mitochondrion
+Q8IVS8	Cytosol |Golgi apparatus
+Q8IVT2	Plasma membrane
+Q8IVT5	Endoplasmic reticulum
+Q8IVU3	Cytosol |Nucleus
+Q8IW19	Nucleus
+Q8IW35	Cytosol |Centrosome
+Q8IW41	Cytosol 
+Q8IWA0	Nucleolus
+Q8IWA4	Mitochondrion
+Q8IWB7	Cytosol |Nucleus
+Q8IWE2	Cytosol |Golgi apparatus|Nucleus
+Q8IWJ2	Golgi apparatus
+Q8IWL3	Cytosol |Mitochondrion|Nucleus
+Q8IWL8	Nucleus
+Q8IWQ3	Endoplasmic reticulum|Centrosome
+Q8IWS0	Nucleolus|Nucleus
+Q8IWT3	Cytosol 
+Q8IWT6	Plasma membrane
+Q8IWU2	Golgi apparatus
+Q8IWU4	Plasma membrane
+Q8IWU5	Endoplasmic reticulum
+Q8IWU6	Endoplasmic reticulum
+Q8IWV1	Cytosol |Golgi apparatus|Plasma membrane
+Q8IWY9	Cytosol |Nucleus|Plasma membrane
+Q8IWZ6	Centrosome
+Q8IX03	Cytosol |Nucleus
+Q8IX05	Cell cortex
+Q8IX15	Cytosol |Nucleolus|Nucleus
+Q8IX21	Nucleus
+Q8IXB1	Endoplasmic reticulum
+Q8IXF0	Cytosol 
+Q8IXH6	Cytosol |Nucleus
+Q8IXH8	Plasma membrane
+Q8IXI1	Cytosol 
+Q8IXJ6	Cytosol |Nucleolus|Centrosome|Nucleus|Plasma membrane
+Q8IXK0	Nucleus
+Q8IXL6	Golgi apparatus
+Q8IXL7	Endoplasmic reticulum|Mitochondrion
+Q8IXM2	Cytosol 
+Q8IXM3	Mitochondrion
+Q8IXQ5	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q8IXQ6	Cytosol |Mitochondrion|Nucleus
+Q8IXV7	Cytosol 
+Q8IXW5	Cytosol |Nucleolus|Nucleus
+Q8IXZ2	Nucleus
+Q8IY18	Nucleus
+Q8IY21	Cytosol 
+Q8IY22	Cytosol 
+Q8IY31	Centrosome
+Q8IY57	Cytosol |Nucleus
+Q8IY81	Nucleolus|Nucleus
+Q8IY92	Cytosol 
+Q8IY95	Lysosome
+Q8IYA6	Cytosol |Centrosome
+Q8IYB4	Cytosol 
+Q8IYB8	Mitochondrion|Nucleus
+Q8IYH5	Nucleolus|Nucleus
+Q8IYI6	Cytosol 
+Q8IYJ3	Plasma membrane
+Q8IYL3	Nucleus
+Q8IYM9	Golgi apparatus|Nucleus
+Q8IYR6	Plasma membrane
+Q8IYT2	Nucleus
+Q8IYU2	Endoplasmic reticulum
+Q8IYW5	Cytosol |Nucleus
+Q8IYX3	Centrosome
+Q8IYX4	Nucleus
+Q8IZ07	Plasma membrane
+Q8IZ08	Plasma membrane
+Q8IZ26	Cytosol 
+Q8IZC4	Nucleus
+Q8IZD2	Nucleus
+Q8IZD4	Cytosol 
+Q8IZD9	Cytosol 
+Q8IZE3	Golgi apparatus
+Q8IZH2	Cytosol |Plasma membrane
+Q8IZL2	Nucleus
+Q8IZL8	Nucleolus|Nucleus
+Q8IZN3	Endoplasmic reticulum
+Q8IZQ1	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q8IZQ8	Nucleus
+Q8IZT6	Nucleus
+Q8IZU3	Nucleus
+Q8IZY2	Golgi apparatus|Plasma membrane
+Q8N0T1	Nucleolus
+Q8N0U4	Cytosol 
+Q8N0U8	Endoplasmic reticulum
+Q8N0V5	Golgi apparatus
+Q8N0W4	Plasma membrane
+Q8N0X7	Cytosol |Plasma membrane
+Q8N0Z2	Plasma membrane
+Q8N0Z3	Centrosome
+Q8N108	Nucleus
+Q8N122	Cytosol |Lysosome
+Q8N137	Cytosol |Centrosome
+Q8N138	Endoplasmic reticulum
+Q8N140	Nucleolus|Nucleus
+Q8N157	Centrosome
+Q8N163	Nucleus
+Q8N183	Mitochondrion
+Q8N1B4	Golgi apparatus
+Q8N1G0	Cytosol 
+Q8N1G2	Cytosol |Nucleus
+Q8N1I0	Cytosol |Golgi apparatus|Nucleolus|Plasma membrane
+Q8N1N5	Endoplasmic reticulum|Nucleus|Plasma membrane
+Q8N257	Cytosol |Nucleus
+Q8N2F6	Endoplasmic reticulum|Mitochondrion
+Q8N2I9	Cytosol 
+Q8N2M8	Nucleus
+Q8N2W9	Nucleus
+Q8N335	Plasma membrane
+Q8N336	Cytosol 
+Q8N344	Nucleus
+Q8N357	Cytosol |Mitochondrion
+Q8N371	Cytosol |Nucleus
+Q8N392	Cytosol |Plasma membrane
+Q8N393	Nucleus
+Q8N394	Endoplasmic reticulum
+Q8N3C0	Cytosol |Nucleus
+Q8N3J5	Mitochondrion
+Q8N3J9	Nucleus
+Q8N3S3	Endoplasmic reticulum
+Q8N3V7	Actin cytoskeleton
+Q8N3Y1	Cytosol |Golgi apparatus
+Q8N3Y7	Nucleus
+Q8N3Z3	Mitochondrion
+Q8N3Z6	Cytosol |Nucleolus
+Q8N441	Golgi apparatus|Plasma membrane
+Q8N474	Cytosol 
+Q8N488	Nucleus
+Q8N490	Mitochondrion
+Q8N4C6	Nucleolus|Centrosome|Nucleus
+Q8N4C8	Golgi apparatus
+Q8N4H5	Mitochondrion
+Q8N4J0	Cytosol |Nucleus
+Q8N4N8	Nucleolus
+Q8N4Q1	Mitochondrion
+Q8N4T4	Plasma membrane
+Q8N4X5	Cytosol |Plasma membrane
+Q8N511	Endoplasmic reticulum
+Q8N543	Cytosol |Nucleus
+Q8N556	Cytosol |Actin cytoskeleton
+Q8N5A5	Nucleus|Plasma membrane
+Q8N5F7	Cytosol 
+Q8N5I2	Plasma membrane
+Q8N5I3	Endoplasmic reticulum
+Q8N5J2	Nucleus
+Q8N5K1	Endoplasmic reticulum
+Q8N5M1	Cytosol 
+Q8N5M9	Endoplasmic reticulum
+Q8N5N7	Mitochondrion
+Q8N653	Golgi apparatus
+Q8N668	Cytosol |Nucleus
+Q8N682	Lysosome
+Q8N684	Nucleus
+Q8N693	Nucleus
+Q8N6H7	Cytosol |Golgi apparatus|Plasma membrane
+Q8N6N3	Nucleus
+Q8N6Q3	Plasma membrane
+Q8N6S4	Endoplasmic reticulum
+Q8N6T7	Nucleus
+Q8N720	Nucleolus|Nucleus
+Q8N726	Nucleolus|Nucleus
+Q8N752	Cytosol 
+Q8N7J2	Plasma membrane
+Q8N865	Centrosome
+Q8N884	Cytosol |Nucleus|Plasma membrane
+Q8N895	Nucleus
+Q8N8E2	Nucleus
+Q8N8E3	Centrosome
+Q8N8F7	Cytosol 
+Q8N8J7	Golgi apparatus
+Q8N8N0	Lysosome
+Q8N8Q3	Nucleolus
+Q8N8R3	Mitochondrion
+Q8N8R7	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q8N8S7	Cytosol |Plasma membrane
+Q8N960	Centrosome
+Q8N961	Nucleus
+Q8N966	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q8N983	Mitochondrion
+Q8N987	Cytosol |Nucleus
+Q8N9A8	Cytosol 
+Q8N9F0	Mitochondrion
+Q8N9L9	Peroxisome
+Q8N9N2	Nucleus
+Q8N9R8	Nucleus
+Q8N9T8	Nucleolus
+Q8NA42	Nucleus
+Q8NA58	Endoplasmic reticulum
+Q8NA72	Cytosol |Centrosome|Nucleus
+Q8NAP3	Nucleus
+Q8NAT1	Endoplasmic reticulum
+Q8NAV1	Nucleus
+Q8NB16	Plasma membrane
+Q8NB49	Endoplasmic reticulum|Plasma membrane
+Q8NBF2	Cytosol 
+Q8NBJ4	Golgi apparatus
+Q8NBJ7	Endoplasmic reticulum
+Q8NBJ9	Lysosome|Plasma membrane
+Q8NBK3	Endoplasmic reticulum
+Q8NBM4	Endoplasmic reticulum
+Q8NBP7	Golgi apparatus|Endoplasmic reticulum|Lysosome|Plasma membrane
+Q8NBT0	Centrosome
+Q8NBT2	Nucleolus|Nucleus
+Q8NBW4	Lysosome
+Q8NBX0	Mitochondrion|Nucleus
+Q8NBZ0	Nucleolus|Nucleus
+Q8NC51	Cytosol |Nucleus
+Q8NC60	Mitochondrion
+Q8NCC5	Cytosol 
+Q8NCD3	Cytosol |Nucleolus|Mitochondrion|Nucleus
+Q8NCE0	Cytosol |Centrosome
+Q8NCG7	Nucleus|Plasma membrane
+Q8NCK7	Plasma membrane
+Q8NCL4	Golgi apparatus
+Q8NCM8	Golgi apparatus
+Q8NCN4	Nucleus
+Q8NCR0	Endoplasmic reticulum
+Q8NCR6	Nucleus
+Q8NCT1	Plasma membrane
+Q8NCW5	Cytosol 
+Q8NCY6	Nucleus
+Q8ND25	Cytosol 
+Q8ND56	Cytosol 
+Q8ND76	Nucleus|Plasma membrane
+Q8ND90	Nucleolus
+Q8NDF8	Nucleolus
+Q8NDG6	Nucleus
+Q8NDH3	Nucleus
+Q8NDI1	Cytosol |Plasma membrane
+Q8NDL9	Cytosol |Nucleus
+Q8NDV3	Cytosol 
+Q8NDV7	Golgi apparatus
+Q8NDX5	Nucleus
+Q8NE09	Nucleus
+Q8NE35	Nucleus
+Q8NE71	Cytosol 
+Q8NE79	Plasma membrane
+Q8NE86	Mitochondrion
+Q8NEB7	Nucleus
+Q8NEC7	Nucleus
+Q8NEJ0	Nucleus
+Q8NEJ9	Nucleolus|Mitochondrion|Nucleus
+Q8NEP3	Cytosol |Plasma membrane
+Q8NEQ6	Nucleus
+Q8NEU8	Nucleus|Plasma membrane
+Q8NEW0	Golgi apparatus
+Q8NEX9	Cytosol |Nucleolus
+Q8NEY8	Cytosol |Golgi apparatus
+Q8NEZ2	Cytosol |Centrosome
+Q8NEZ4	Nucleus
+Q8NF37	Endoplasmic reticulum
+Q8NF64	Mitochondrion|Nucleus
+Q8NF91	Golgi apparatus|Nucleolus|Nucleus
+Q8NF99	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q8NFA0	Cytosol |Golgi apparatus
+Q8NFD5	Cytosol |Plasma membrane
+Q8NFF5	Cytosol |Plasma membrane
+Q8NFG4	Cytosol |Nucleus|Plasma membrane
+Q8NFH4	Nucleus
+Q8NFH5	Plasma membrane
+Q8NFJ5	Nucleolus|Plasma membrane
+Q8NFJ9	Centrosome
+Q8NFM7	Golgi apparatus
+Q8NFN8	Plasma membrane
+Q8NFP7	Cytosol 
+Q8NFQ8	Endoplasmic reticulum
+Q8NFT2	Cytosol |Plasma membrane
+Q8NFT6	Nucleus
+Q8NFT8	Plasma membrane
+Q8NFU5	Nucleolus|Nucleus
+Q8NFW8	Nucleus
+Q8NFY4	Golgi apparatus|Plasma membrane
+Q8NFZ0	Nucleus
+Q8NFZ5	Cytosol |Nucleus
+Q8NG08	Nucleus
+Q8NG11	Plasma membrane
+Q8NG31	Cytosol |Nucleus
+Q8NG50	Cytosol |Nucleolus
+Q8NG66	Nucleolus
+Q8NHG8	Plasma membrane
+Q8NHH9	Endoplasmic reticulum
+Q8NHM5	Nucleus
+Q8NHQ1	Cytosol |Centrosome
+Q8NHQ9	Cytosol |Nucleolus|Nucleus
+Q8NHS0	Cytosol |Nucleus
+Q8NHU3	Golgi apparatus
+Q8NHV1	Cytosol 
+Q8NHV4	Centrosome
+Q8NHV9	Nucleus
+Q8NHW3	Nucleus
+Q8NHX9	Lysosome
+Q8NI35	Cytosol |Centrosome
+Q8NI36	Nucleolus
+Q8NI60	Mitochondrion
+Q8NI77	Nucleus
+Q8TA86	Cytosol |Nucleus
+Q8TAA3	Nucleus
+Q8TAA5	Mitochondrion
+Q8TAC9	Plasma membrane
+Q8TAD4	Golgi apparatus|Nucleolus|Nucleus
+Q8TAD8	Cytosol |Nucleus
+Q8TAE7	Endoplasmic reticulum|Plasma membrane
+Q8TAE8	Mitochondrion
+Q8TAF3	Nucleus
+Q8TAK5	Nucleus
+Q8TAM2	Centrosome
+Q8TAM6	Cell cortex
+Q8TAP6	Centrosome
+Q8TAP9	Golgi apparatus|Centrosome|Nucleus
+Q8TAS1	Golgi apparatus|Nucleus
+Q8TAT5	Nucleus
+Q8TAT6	Nucleus
+Q8TAX0	Nucleus
+Q8TB36	Cytosol |Mitochondrion|Nucleus
+Q8TB37	Mitochondrion|Plasma membrane
+Q8TB61	Golgi apparatus
+Q8TB72	Cytosol 
+Q8TB92	Cytosol |Endoplasmic reticulum
+Q8TBA6	Golgi apparatus
+Q8TBC4	Nucleus
+Q8TBE7	Golgi apparatus|Plasma membrane
+Q8TBH0	Plasma membrane
+Q8TBK2	Cytosol |Nucleus
+Q8TBM8	Endoplasmic reticulum
+Q8TBP0	Cytosol 
+Q8TBR7	Plasma membrane
+Q8TBZ5	Nucleus
+Q8TBZ6	Cytosol |Actin cytoskeleton|Nucleolus|Nucleus
+Q8TC05	Cytosol |Centrosome|Nucleus
+Q8TC44	Centrosome
+Q8TC56	Nucleus
+Q8TC59	Nucleus
+Q8TC76	Cytosol |Mitochondrion
+Q8TC84	Cytosol |Nucleus
+Q8TC92	Plasma membrane
+Q8TCC3	Mitochondrion
+Q8TCD5	Cytosol |Nucleus
+Q8TCG1	Cytosol |Plasma membrane
+Q8TCJ0	Nucleus
+Q8TCJ2	Endoplasmic reticulum
+Q8TCQ1	Lysosome|Plasma membrane
+Q8TCS8	Cytosol |Mitochondrion
+Q8TCT0	Plasma membrane
+Q8TCT6	Plasma membrane
+Q8TCT7	Actin cytoskeleton|Centrosome|Plasma membrane
+Q8TCT8	Plasma membrane
+Q8TCT9	Endoplasmic reticulum
+Q8TCU4	Centrosome
+Q8TCU6	Cytosol 
+Q8TCX1	Centrosome
+Q8TCY5	Endoplasmic reticulum|Plasma membrane
+Q8TCY9	Cytosol 
+Q8TD06	Endoplasmic reticulum
+Q8TD08	Golgi apparatus|Nucleus
+Q8TD10	Nucleus
+Q8TD16	Cytosol |Golgi apparatus|Plasma membrane
+Q8TD22	Mitochondrion
+Q8TD23	Nucleus
+Q8TD31	Cytosol 
+Q8TD43	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q8TD46	Plasma membrane
+Q8TDB4	Mitochondrion
+Q8TDB6	Cytosol |Lysosome|Nucleus
+Q8TDB8	Nucleus
+Q8TDC3	Nucleus
+Q8TDD1	Golgi apparatus|Nucleolus|Nucleus
+Q8TDD2	Nucleus
+Q8TDG2	Nucleus
+Q8TDI0	Cytosol |Nucleus
+Q8TDN1	Plasma membrane
+Q8TDN4	Cytosol 
+Q8TDN6	Nucleolus|Nucleus
+Q8TDQ7	Nucleus
+Q8TDR2	Nucleus
+Q8TDR4	Nucleus
+Q8TDW0	Plasma membrane
+Q8TDX5	Cytosol 
+Q8TDY2	Cytosol |Lysosome
+Q8TDY4	Cytosol 
+Q8TE02	Cytosol |Nucleus
+Q8TE04	Cytosol |Nucleus
+Q8TE68	Cytosol 
+Q8TE85	Nucleus
+Q8TE99	Golgi apparatus
+Q8TEA8	Cytosol |Nucleolus
+Q8TEB9	Endoplasmic reticulum
+Q8TEC5	Nucleus
+Q8TED0	Endoplasmic reticulum|Nucleolus
+Q8TEH3	Cytosol 
+Q8TEK3	Nucleus
+Q8TEQ6	Cytosol 
+Q8TES7	Centrosome
+Q8TEU7	Cytosol |Centrosome|Plasma membrane
+Q8TEY5	Golgi apparatus|Endoplasmic reticulum|Mitochondrion
+Q8TEY7	Golgi apparatus|Centrosome
+Q8TF01	Cytosol 
+Q8TF30	Cytosol 
+Q8TF46	Cytosol |Centrosome|Plasma membrane
+Q8TF74	Plasma membrane
+Q8TF76	Centrosome|Nucleus
+Q8WTP8	Nucleolus|Nucleus
+Q8WTQ4	Nucleus
+Q8WTS6	Nucleolus
+Q8WTT2	Nucleolus|Mitochondrion|Nucleus
+Q8WTV0	Plasma membrane
+Q8WTW3	Golgi apparatus
+Q8WTX7	Cytosol 
+Q8WTX9	Endoplasmic reticulum
+Q8WU10	Nucleus
+Q8WU17	Endoplasmic reticulum
+Q8WU90	Cytosol |Nucleolus
+Q8WUA2	Cytosol 
+Q8WUB8	Nucleus
+Q8WUF5	Cytosol 
+Q8WUF8	Endoplasmic reticulum
+Q8WUI4	Cytosol |Nucleus
+Q8WUJ0	Nucleus
+Q8WUJ3	Endoplasmic reticulum|Plasma membrane
+Q8WUK0	Nucleus
+Q8WUM4	Cytosol 
+Q8WUQ7	Cytosol |Nucleus
+Q8WUU5	Nucleus
+Q8WUX9	Cytosol |Nucleus
+Q8WV24	Nucleolus|Nucleus
+Q8WV28	Plasma membrane
+Q8WV37	Cytosol 
+Q8WV41	Cytosol 
+Q8WV44	Nucleolus
+Q8WV60	Mitochondrion
+Q8WV93	Mitochondrion
+Q8WVB6	Cytosol 
+Q8WVC0	Centrosome
+Q8WVD3	Nucleus
+Q8WVJ9	Nucleolus|Nucleus
+Q8WVM7	Nucleus
+Q8WVR3	Plasma membrane
+Q8WVT3	Nucleus
+Q8WVX9	Peroxisome
+Q8WVY7	Nucleolus|Nucleus
+Q8WVZ1	Endoplasmic reticulum
+Q8WW12	Nucleus
+Q8WW22	Cytosol 
+Q8WW24	Nucleus
+Q8WW32	Nucleus
+Q8WW59	Nucleus
+Q8WWB7	Cytosol |Lysosome|Nucleus
+Q8WWH5	Cytosol |Nucleus
+Q8WWI1	Nucleus
+Q8WWI5	Mitochondrion
+Q8WWK9	Cytosol |Centrosome
+Q8WWM7	Cytosol 
+Q8WWP7	Endoplasmic reticulum
+Q8WWQ8	Cytosol 
+Q8WWR8	Lysosome
+Q8WWT9	Plasma membrane
+Q8WWY3	Nucleus
+Q8WWY8	Plasma membrane
+Q8WX93	Cytosol |Actin cytoskeleton|Nucleus|Plasma membrane
+Q8WXC3	Cytosol |Nucleus
+Q8WXC6	Nucleus
+Q8WXD5	Cytosol 
+Q8WXE1	Nucleus
+Q8WXE9	Cytosol |Nucleolus
+Q8WXF7	Endoplasmic reticulum
+Q8WXF8	Nucleolus
+Q8WXG1	Endoplasmic reticulum|Mitochondrion
+Q8WXG6	Cytosol |Plasma membrane
+Q8WXH0	Mitochondrion|Nucleus
+Q8WXH4	Endoplasmic reticulum
+Q8WXI3	Nucleus
+Q8WXI4	Cytosol 
+Q8WXS3	Cytosol |Nucleus
+Q8WXU2	Cytosol |Nucleus|Plasma membrane
+Q8WXW3	Centrosome|Nucleus
+Q8WXX0	Cytosol 
+Q8WXX5	Cytosol |Nucleus|Plasma membrane
+Q8WY22	Mitochondrion
+Q8WY36	Cytosol 
+Q8WY54	Nucleolus|Nucleus
+Q8WYA1	Nucleolus|Nucleus
+Q8WYA6	Nucleus
+Q8WYH8	Nucleus
+Q8WYL5	Plasma membrane
+Q8WYP5	Nucleus
+Q8WYQ3	Mitochondrion
+Q8WYQ5	Nucleus
+Q8WYR1	Cytosol 
+Q8WYR4	Cytosol |Nucleus
+Q8WZ19	Nucleus
+Q8WZ59	Nucleus
+Q8WZ73	Plasma membrane
+Q92481	Nucleus
+Q92482	Nucleus|Plasma membrane
+Q92499	Cytosol |Nucleus
+Q92503	Cytosol 
+Q92504	Endoplasmic reticulum
+Q92508	Endoplasmic reticulum
+Q92520	Golgi apparatus
+Q92522	Nucleolus|Nucleus
+Q92523	Mitochondrion
+Q92526	Cytosol 
+Q92530	Cytosol |Endoplasmic reticulum
+Q92536	Plasma membrane
+Q92538	Golgi apparatus
+Q92540	Cytosol |Nucleus
+Q92542	Golgi apparatus|Endoplasmic reticulum
+Q92544	Golgi apparatus
+Q92546	Cytosol |Plasma membrane
+Q92547	Actin cytoskeleton|Nucleus
+Q92551	Cytosol |Nucleus
+Q92552	Mitochondrion
+Q92556	Plasma membrane
+Q92560	Cytosol |Nucleus
+Q92564	Nucleus
+Q92565	Nucleus
+Q92574	Cell cortex|Cytosol 
+Q92575	Cytosol |Endoplasmic reticulum
+Q92581	Plasma membrane
+Q92585	Nucleus
+Q92597	Cytosol |Centrosome|Nucleus|Plasma membrane
+Q92598	Cytosol 
+Q92609	Golgi apparatus
+Q92611	Endoplasmic reticulum
+Q92615	Cytosol |Nucleolus
+Q92616	Cytosol 
+Q92622	Cytosol 
+Q92625	Cytosol 
+Q92626	Endoplasmic reticulum
+Q92630	Cytosol |Nucleus
+Q92633	Plasma membrane
+Q92664	Nucleus
+Q92665	Nucleolus|Mitochondrion
+Q92667	Mitochondrion
+Q92673	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q92674	Cytosol 
+Q92688	Nucleus
+Q92730	Actin cytoskeleton|Plasma membrane
+Q92731	Mitochondrion|Nucleus
+Q92733	Nucleus
+Q92738	Plasma membrane
+Q92743	Plasma membrane
+Q92754	Mitochondrion|Nucleus
+Q92759	Nucleus
+Q92769	Nucleus
+Q92772	Centrosome|Nucleus
+Q92785	Cytosol |Centrosome|Nucleus
+Q92786	Nucleus
+Q92791	Endoplasmic reticulum
+Q92793	Nucleus
+Q92794	Cytosol |Nucleolus|Nucleus
+Q92797	Cytosol |Plasma membrane
+Q92802	Nucleus
+Q92804	Nucleus
+Q92805	Golgi apparatus
+Q92817	Cytosol 
+Q92820	Nucleus
+Q92824	Golgi apparatus
+Q92830	Centrosome|Nucleus
+Q92831	Centrosome|Nucleus
+Q92833	Mitochondrion|Nucleus
+Q92834	Golgi apparatus|Centrosome
+Q92835	Cytosol 
+Q92837	Cytosol 
+Q92841	Nucleus
+Q92844	Cytosol 
+Q92845	Centrosome
+Q92859	Golgi apparatus|Plasma membrane
+Q92879	Nucleus
+Q92888	Cytosol |Plasma membrane
+Q92889	Nucleus
+Q92890	Endoplasmic reticulum|Nucleus
+Q92896	Golgi apparatus
+Q92900	Nucleus
+Q92905	Cytosol |Nucleus
+Q92908	Nucleus
+Q92911	Nucleus
+Q92913	Cytosol |Nucleus
+Q92917	Nucleus
+Q92922	Nucleus
+Q92934	Cytosol |Mitochondrion
+Q92947	Mitochondrion
+Q92949	Nucleus
+Q92956	Plasma membrane
+Q92966	Nucleolus|Nucleus
+Q92968	Peroxisome
+Q92979	Nucleolus|Nucleus
+Q92985	Cytosol |Nucleus
+Q92989	Cytosol |Nucleus
+Q92993	Nucleolus|Nucleus
+Q92997	Cytosol 
+Q93008	Cytosol 
+Q93009	Cytosol |Nucleus
+Q93015	Cytosol 
+Q93038	Plasma membrane
+Q93050	Cytosol |Golgi apparatus|Plasma membrane
+Q93052	Cytosol 
+Q93062	Cytosol 
+Q93063	Golgi apparatus
+Q93074	Nucleus
+Q93075	Cytosol |Nucleus
+Q93077	Nucleus
+Q93079	Cytosol |Nucleus
+Q93084	Endoplasmic reticulum
+Q93086	Cytosol 
+Q93088	Cytosol 
+Q95460	Endoplasmic reticulum|Plasma membrane
+Q969F0	Endoplasmic reticulum
+Q969F2	Plasma membrane
+Q969F8	Plasma membrane
+Q969G3	Nucleus
+Q969H0	Nucleolus|Nucleus
+Q969H4	Cell cortex
+Q969H6	Nucleolus
+Q969H8	Golgi apparatus|Endoplasmic reticulum
+Q969J2	Cytosol 
+Q969K3	Nucleus|Plasma membrane
+Q969K4	Cytosol |Nucleolus|Plasma membrane
+Q969L4	Nucleus
+Q969M3	Golgi apparatus|Endoplasmic reticulum
+Q969P5	Cytosol 
+Q969P6	Mitochondrion|Nucleus
+Q969Q0	Cytosol |Endoplasmic reticulum|Nucleus|Plasma membrane
+Q969Q6	Cytosol |Golgi apparatus|Centrosome|Nucleus
+Q969R5	Nucleus
+Q969S0	Golgi apparatus|Endoplasmic reticulum
+Q969S2	Nucleus
+Q969S3	Cytosol |Golgi apparatus|Nucleolus|Nucleus
+Q969S6	Endoplasmic reticulum
+Q969S8	Nucleus
+Q969T9	Nucleus
+Q969U7	Nucleus
+Q969V4	Nucleus
+Q969V5	Peroxisome|Mitochondrion
+Q969V6	Cytosol |Nucleus
+Q969W0	Endoplasmic reticulum
+Q969X0	Cytosol 
+Q969X1	Golgi apparatus
+Q969X6	Nucleolus
+Q969Y2	Mitochondrion|Nucleus
+Q969Z0	Mitochondrion
+Q969Z3	Mitochondrion
+Q969Z4	Nucleus
+Q96A08	Nucleus
+Q96A26	Cytosol |Mitochondrion
+Q96A29	Golgi apparatus
+Q96A33	Endoplasmic reticulum
+Q96A35	Mitochondrion
+Q96A44	Cytosol 
+Q96A49	Cytosol |Golgi apparatus
+Q96A54	Plasma membrane
+Q96A56	Cytosol |Nucleus
+Q96A57	Endoplasmic reticulum
+Q96A58	Cytosol |Nucleus
+Q96A70	Nucleus
+Q96A72	Nucleus
+Q96AA8	Golgi apparatus
+Q96AB3	Nucleus
+Q96AC1	Nucleus
+Q96AE4	Nucleus
+Q96AE7	Cytosol |Actin cytoskeleton|Plasma membrane
+Q96AG3	Mitochondrion
+Q96AG4	Endoplasmic reticulum
+Q96AH0	Cytosol |Nucleus
+Q96AH8	Golgi apparatus|Lysosome
+Q96AJ9	Golgi apparatus
+Q96AN5	Mitochondrion
+Q96AQ7	Cytosol 
+Q96AZ1	Centrosome
+Q96AZ6	Nucleolus|Nucleus
+Q96B01	Nucleus
+Q96B26	Nucleus
+Q96B36	Cytosol 
+Q96B49	Mitochondrion
+Q96B67	Plasma membrane
+Q96B77	Mitochondrion
+Q96B86	Endoplasmic reticulum
+Q96BA8	Endoplasmic reticulum|Nucleus
+Q96BD6	Cytosol 
+Q96BF6	Nucleolus|Mitochondrion|Nucleus
+Q96BH1	Cytosol |Nucleus
+Q96BI3	Golgi apparatus|Endoplasmic reticulum
+Q96BK5	Nucleolus
+Q96BN2	Cytosol |Nucleus
+Q96BP2	Cytosol |Mitochondrion
+Q96BR5	Mitochondrion|Nucleus
+Q96BS2	Cytosol |Nucleus|Plasma membrane
+Q96BT3	Nucleus
+Q96BT7	Cytosol |Nucleus
+Q96BU1	Cytosol |Nucleus
+Q96BY2	Cytosol |Mitochondrion
+Q96BY6	Cytosol |Nucleus
+Q96BY9	Endoplasmic reticulum
+Q96BZ9	Endoplasmic reticulum
+Q96C03	Mitochondrion
+Q96C12	Cytosol 
+Q96C24	Cytosol 
+Q96C36	Mitochondrion
+Q96C86	Cytosol |Mitochondrion|Nucleus
+Q96C92	Centrosome
+Q96CA5	Cytosol |Golgi apparatus|Nucleus
+Q96CB8	Nucleus
+Q96CN5	Cytosol |Centrosome|Plasma membrane
+Q96CN9	Cytosol |Golgi apparatus|Plasma membrane
+Q96CP7	Plasma membrane
+Q96CQ1	Mitochondrion
+Q96CS2	Cytosol |Centrosome
+Q96CS3	Endoplasmic reticulum
+Q96CT7	Cytosol |Plasma membrane
+Q96CU9	Mitochondrion
+Q96CV9	Cytosol |Golgi apparatus
+Q96CW1	Plasma membrane
+Q96CW5	Centrosome
+Q96CW9	Cytosol |Plasma membrane
+Q96D15	Endoplasmic reticulum
+Q96D31	Plasma membrane
+Q96D46	Nucleolus|Nucleus
+Q96D53	Mitochondrion
+Q96D59	Endoplasmic reticulum
+Q96D71	Plasma membrane
+Q96DA2	Golgi apparatus
+Q96DA6	Mitochondrion
+Q96DB2	Nucleus|Plasma membrane
+Q96DC9	Nucleus
+Q96DE0	Nucleolus|Nucleus
+Q96DE5	Cytosol 
+Q96DI7	Cytosol 
+Q96DN5	Centrosome
+Q96DN6	Nucleus
+Q96DU3	Plasma membrane
+Q96DV4	Mitochondrion
+Q96DZ5	Plasma membrane
+Q96E14	Cytosol 
+Q96E29	Mitochondrion
+Q96EA4	Nucleus
+Q96EB6	Cytosol |Nucleolus|Mitochondrion|Nucleus
+Q96EC8	Endoplasmic reticulum
+Q96ED9	Cytosol |Centrosome
+Q96EG1	Endoplasmic reticulum|Lysosome
+Q96EH3	Cytosol |Mitochondrion
+Q96EK5	Mitochondrion
+Q96EL1	Nucleus
+Q96EL3	Mitochondrion
+Q96EP1	Nucleus
+Q96EP5	Cytosol 
+Q96EU6	Nucleolus|Nucleus
+Q96EX3	Cytosol 
+Q96EY1	Mitochondrion|Nucleus
+Q96EY4	Nucleolus|Nucleus
+Q96EY5	Cytosol |Golgi apparatus|Centrosome
+Q96EY7	Cytosol |Mitochondrion|Plasma membrane
+Q96EZ8	Nucleolus|Nucleus
+Q96F44	Cytosol |Nucleus
+Q96F85	Plasma membrane
+Q96FC9	Nucleolus|Centrosome|Nucleus
+Q96FI4	Nucleus
+Q96FJ2	Centrosome|Nucleus
+Q96FQ6	Cytosol |Nucleolus|Plasma membrane
+Q96FV9	Cytosol |Nucleus
+Q96FX2	Cytosol |Nucleus
+Q96G01	Cytosol |Golgi apparatus
+Q96G21	Nucleolus
+Q96G30	Endoplasmic reticulum|Plasma membrane
+Q96G61	Cytosol 
+Q96G75	Cytosol 
+Q96GA3	Cytosol 
+Q96GC5	Mitochondrion
+Q96GC9	Endoplasmic reticulum|Nucleolus
+Q96GD0	Cytosol 
+Q96GD4	Nucleus
+Q96GE4	Centrosome
+Q96GF1	Endoplasmic reticulum
+Q96GG9	Cytosol |Nucleus
+Q96GN5	Cytosol |Nucleolus|Nucleus
+Q96GQ7	Nucleolus
+Q96GR4	Golgi apparatus|Endoplasmic reticulum
+Q96GS6	Plasma membrane
+Q96GX5	Centrosome|Nucleus
+Q96GZ6	Plasma membrane
+Q96H20	Cytosol |Nucleus|Plasma membrane
+Q96H22	Nucleus
+Q96H55	Cytosol |Mitochondrion
+Q96H72	Golgi apparatus
+Q96H79	Cytosol 
+Q96HA9	Peroxisome
+Q96HC4	Actin cytoskeleton
+Q96HE7	Endoplasmic reticulum
+Q96HE9	Nucleus
+Q96HJ9	Mitochondrion
+Q96HP0	Cytosol 
+Q96HR3	Nucleus
+Q96HR8	Nucleus
+Q96HR9	Endoplasmic reticulum|Nucleus
+Q96HS1	Mitochondrion
+Q96HU1	Cytosol 
+Q96HU8	Plasma membrane
+Q96HW7	Nucleus
+Q96HY6	Endoplasmic reticulum|Nucleolus
+Q96HY7	Mitochondrion
+Q96I24	Nucleus
+Q96I36	Mitochondrion
+Q96I59	Cytosol |Mitochondrion
+Q96I99	Mitochondrion|Plasma membrane
+Q96IC2	Nucleolus
+Q96IF1	Cytosol |Golgi apparatus|Nucleus
+Q96II8	Cytosol 
+Q96IK1	Centrosome
+Q96IU4	Cytosol |Nucleolus|Nucleus
+Q96IX5	Mitochondrion
+Q96IZ0	Nucleus
+Q96J02	Plasma membrane
+Q96J84	Plasma membrane
+Q96JA3	Golgi apparatus
+Q96JB2	Cytosol |Golgi apparatus|Plasma membrane
+Q96JB3	Nucleus
+Q96JB5	Cytosol |Nucleolus|Centrosome|Nucleus
+Q96JB8	Cytosol |Actin cytoskeleton
+Q96JF6	Nucleus
+Q96JI7	Cytosol |Nucleolus|Plasma membrane
+Q96JJ3	Cytosol 
+Q96JK9	Nucleus
+Q96JM3	Nucleus
+Q96JM7	Nucleolus|Nucleus
+Q96JP0	Cytosol 
+Q96JP5	Nucleolus|Nucleus
+Q96JX3	Endoplasmic reticulum|Mitochondrion
+Q96K21	Centrosome
+Q96K30	Centrosome|Nucleus
+Q96K37	Golgi apparatus
+Q96K83	Nucleus
+Q96KB5	Nucleus
+Q96KG7	Plasma membrane
+Q96KG9	Cytosol |Golgi apparatus
+Q96KN1	Plasma membrane
+Q96KN2	Cytosol 
+Q96KN3	Nucleus
+Q96KP4	Cytosol 
+Q96KQ4	Cytosol |Nucleus|Plasma membrane
+Q96KQ7	Nucleus
+Q96KR4	Cytosol 
+Q96KS0	Nucleus
+Q96KX0	Nucleus
+Q96L08	Plasma membrane
+Q96L21	Cytosol |Endoplasmic reticulum|Nucleus
+Q96L34	Centrosome
+Q96L42	Plasma membrane
+Q96L92	Cytosol 
+Q96LA8	Nucleolus|Nucleus
+Q96LB4	Cytosol |Plasma membrane
+Q96LC7	Plasma membrane
+Q96LD4	Cytosol 
+Q96LI5	Cytosol |Nucleus
+Q96LJ7	Endoplasmic reticulum
+Q96LK0	Centrosome
+Q96LP2	Nucleus
+Q96LR9	Cytosol 
+Q96LT4	Cytosol |Endoplasmic reticulum
+Q96LT7	Lysosome|Nucleus
+Q96LT9	Nucleus
+Q96LW4	Nucleus
+Q96LW7	Mitochondrion
+Q96LZ7	Cytosol |Golgi apparatus
+Q96M02	Cytosol |Actin cytoskeleton|Centrosome|Plasma membrane
+Q96M11	Cytosol |Centrosome|Nucleus|Plasma membrane
+Q96M29	Nucleus
+Q96M94	Nucleus
+Q96M98	Cytosol |Nucleus
+Q96MB7	Cytosol |Plasma membrane
+Q96ME7	Nucleus
+Q96MF2	Cytosol 
+Q96MF7	Nucleus
+Q96MH2	Cytosol 
+Q96MP8	Plasma membrane
+Q96MS3	Cytosol 
+Q96MT3	Cytosol |Nucleus
+Q96MT8	Centrosome
+Q96MU7	Nucleus|Plasma membrane
+Q96MV8	Golgi apparatus
+Q96MW1	Cytosol 
+Q96MW5	Golgi apparatus
+Q96MY1	Cytosol 
+Q96N21	Golgi apparatus
+Q96N64	Nucleus
+Q96N77	Cytosol 
+Q96N95	Nucleus
+Q96N96	Cytosol 
+Q96NA2	Lysosome
+Q96NB1	Centrosome|Nucleus
+Q96NB2	Mitochondrion
+Q96NC0	Nucleus
+Q96NL6	Centrosome
+Q96NL8	Cytosol |Plasma membrane
+Q96NN9	Cytosol |Endoplasmic reticulum|Mitochondrion
+Q96NT0	Endoplasmic reticulum
+Q96NT5	Plasma membrane
+Q96NW4	Lysosome|Plasma membrane
+Q96NY8	Plasma membrane
+Q96P11	Nucleolus|Nucleus
+Q96P26	Nucleus
+Q96P48	Cytosol |Golgi apparatus|Plasma membrane
+Q96P71	Golgi apparatus
+Q96PD7	Endoplasmic reticulum
+Q96PF2	Nucleus
+Q96PH1	Endoplasmic reticulum
+Q96PK6	Nucleus
+Q96PL5	Plasma membrane
+Q96PM5	Cytosol |Nucleus
+Q96PN6	Nucleus
+Q96PN7	Cytosol |Nucleolus|Nucleus
+Q96PP8	Golgi apparatus
+Q96PQ6	Nucleus
+Q96PU4	Nucleus
+Q96PV7	Nucleus
+Q96PY6	Centrosome|Nucleus
+Q96PZ0	Nucleus
+Q96PZ2	Nucleus
+Q96Q06	Cytosol |Plasma membrane
+Q96Q11	Mitochondrion
+Q96Q15	Nucleus
+Q96Q42	Cytosol |Centrosome
+Q96Q83	Cytosol |Mitochondrion|Nucleus
+Q96Q89	Nucleolus|Centrosome|Nucleus
+Q96QB1	Cytosol |Nucleus
+Q96QE5	Mitochondrion
+Q96QF0	Cytosol |Centrosome|Nucleus
+Q96QK1	Cytosol |Lysosome
+Q96QK8	Endoplasmic reticulum
+Q96QP1	Cytosol 
+Q96QR8	Nucleus
+Q96QT6	Nucleus
+Q96QU8	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q96QV6	Nucleus
+Q96RD7	Endoplasmic reticulum|Plasma membrane
+Q96RE7	Nucleus
+Q96RG2	Cytosol |Nucleus
+Q96RK4	Cytosol |Centrosome
+Q96RL1	Nucleus
+Q96RN1	Plasma membrane
+Q96RN5	Nucleus
+Q96RQ1	Nucleolus|Nucleus
+Q96RQ3	Mitochondrion
+Q96RR4	Cytosol 
+Q96RS0	Cytosol |Nucleus
+Q96RS6	Cytosol 
+Q96RT1	Nucleus|Plasma membrane
+Q96RT7	Centrosome
+Q96RT8	Cytosol |Centrosome
+Q96RU8	Nucleus
+Q96RY7	Centrosome
+Q96S16	Endoplasmic reticulum|Nucleus
+Q96S37	Plasma membrane
+Q96S44	Nucleus
+Q96S55	Nucleus
+Q96S59	Nucleus
+Q96S66	Endoplasmic reticulum
+Q96S90	Nucleus
+Q96S94	Nucleus
+Q96S95	Centrosome|Nucleus
+Q96S97	Plasma membrane
+Q96S99	Lysosome
+Q96SB3	Plasma membrane
+Q96SB4	Cytosol |Nucleus|Plasma membrane
+Q96SB8	Nucleus
+Q96SD1	Golgi apparatus
+Q96SI9	Nucleus
+Q96SL4	Endoplasmic reticulum
+Q96SN8	Golgi apparatus|Centrosome
+Q96SQ7	Nucleus
+Q96SQ9	Endoplasmic reticulum
+Q96ST2	Nucleus
+Q96ST3	Nucleus
+Q96ST8	Cytosol |Centrosome|Plasma membrane
+Q96SU4	Cytosol |Golgi apparatus
+Q96SW2	Nucleolus|Nucleus
+Q96T23	Nucleus
+Q96T49	Nucleus|Plasma membrane
+Q96T51	Cytosol |Nucleus
+Q96T60	Nucleolus|Nucleus
+Q96T66	Mitochondrion
+Q96T68	Cytosol |Nucleus
+Q96T76	Cytosol |Nucleus
+Q96T88	Nucleus
+Q96TA1	Cytosol |Nucleus|Plasma membrane
+Q96TA2	Mitochondrion
+Q96TC7	Mitochondrion
+Q99081	Nucleus
+Q99417	Nucleus
+Q99418	Plasma membrane
+Q99424	Cytosol |Peroxisome
+Q99426	Cytosol 
+Q99436	Cytosol |Nucleus
+Q99459	Nucleus
+Q99489	Cytosol 
+Q99490	Nucleolus|Mitochondrion|Nucleus
+Q99496	Nucleus
+Q99497	Cytosol |Mitochondrion|Nucleus
+Q99500	Plasma membrane
+Q99502	Nucleus
+Q99504	Centrosome|Nucleus
+Q99519	Lysosome
+Q99523	Cytosol |Golgi apparatus|Lysosome|Plasma membrane
+Q99525	Nucleus
+Q99543	Cytosol |Nucleus
+Q99547	Nucleolus|Nucleus
+Q99549	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q99550	Golgi apparatus
+Q99551	Cytosol |Mitochondrion
+Q99558	Cytosol |Nucleus
+Q99569	Plasma membrane
+Q99571	Plasma membrane
+Q99572	Plasma membrane
+Q99575	Nucleolus
+Q99578	Nucleus|Plasma membrane
+Q99583	Nucleus
+Q99584	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q99590	Nucleolus|Nucleus
+Q99592	Nucleus
+Q99593	Nucleus
+Q99595	Mitochondrion
+Q99608	Cytosol 
+Q99612	Cytosol |Nucleolus|Nucleus
+Q99614	Cytosol 
+Q99615	Cytosol 
+Q99619	Cytosol 
+Q99623	Mitochondrion|Nucleus
+Q99624	Plasma membrane
+Q99627	Cytosol 
+Q99638	Nucleus
+Q99640	Golgi apparatus|Nucleolus|Nucleus
+Q99653	Plasma membrane
+Q99675	Endoplasmic reticulum
+Q99677	Plasma membrane
+Q99684	Nucleus
+Q99689	Golgi apparatus
+Q99697	Nucleus
+Q99700	Cytosol |Golgi apparatus
+Q99704	Cytosol |Nucleus
+Q99707	Cytosol 
+Q99714	Mitochondrion
+Q99717	Cytosol 
+Q99719	Plasma membrane
+Q99720	Endoplasmic reticulum
+Q99728	Nucleus
+Q99732	Cytosol |Golgi apparatus
+Q99733	Nucleus
+Q99735	Plasma membrane
+Q99741	Nucleus
+Q99743	Cytosol |Nucleus
+Q99747	Mitochondrion
+Q99755	Cytosol |Nucleus|Plasma membrane
+Q99757	Nucleolus|Mitochondrion
+Q99758	Plasma membrane
+Q99797	Mitochondrion
+Q99798	Mitochondrion
+Q99801	Nucleus
+Q99807	Mitochondrion|Nucleus
+Q99816	Cytosol |Nucleolus|Plasma membrane
+Q99819	Cytosol |Plasma membrane
+Q99828	Centrosome|Nucleus|Plasma membrane
+Q99829	Cytosol |Nucleus
+Q99835	Plasma membrane
+Q99836	Nucleus
+Q99848	Nucleolus|Nucleus
+Q99856	Cytosol 
+Q99865	Cytosol 
+Q99871	Centrosome
+Q99873	Nucleus
+Q99877	Cytosol |Nucleus
+Q99878	Nucleus
+Q99879	Cytosol |Nucleus
+Q99880	Cytosol |Nucleus
+Q99929	Nucleus
+Q99933	Nucleus
+Q99941	Nucleolus|Nucleus
+Q99942	Endoplasmic reticulum
+Q99943	Endoplasmic reticulum
+Q99958	Nucleus
+Q99959	Plasma membrane
+Q99961	Cytosol 
+Q99966	Cytosol |Nucleus
+Q99967	Nucleus
+Q99972	Golgi apparatus
+Q99986	Cytosol |Nucleolus|Nucleus
+Q99988	Golgi apparatus|Nucleus
+Q99990	Nucleus
+Q99996	Golgi apparatus|Centrosome
+Q9BPU9	Centrosome
+Q9BPX1	Cytosol 
+Q9BPX6	Mitochondrion
+Q9BPY8	Nucleus
+Q9BPZ2	Cytosol 
+Q9BPZ7	Cytosol |Golgi apparatus|Plasma membrane
+Q9BQ04	Cytosol 
+Q9BQ15	Cytosol |Nucleus
+Q9BQ31	Cytosol |Golgi apparatus|Plasma membrane
+Q9BQ39	Nucleolus|Plasma membrane
+Q9BQ48	Mitochondrion
+Q9BQ52	Mitochondrion|Nucleus
+Q9BQ65	Nucleus
+Q9BQ67	Cytosol |Nucleolus|Nucleus
+Q9BQ69	Nucleus
+Q9BQ70	Nucleus
+Q9BQ95	Cytosol |Mitochondrion|Nucleus
+Q9BQA1	Cytosol |Golgi apparatus|Nucleus
+Q9BQA5	Nucleus
+Q9BQA9	Endoplasmic reticulum
+Q9BQB6	Endoplasmic reticulum
+Q9BQC6	Mitochondrion
+Q9BQE3	Nucleus
+Q9BQE4	Endoplasmic reticulum
+Q9BQF6	Nucleus
+Q9BQG0	Nucleolus|Nucleus
+Q9BQG2	Peroxisome|Nucleus
+Q9BQI0	Actin cytoskeleton
+Q9BQI5	Plasma membrane
+Q9BQI6	Nucleus
+Q9BQL6	Cytosol 
+Q9BQP7	Mitochondrion
+Q9BQQ3	Golgi apparatus
+Q9BQS6	Nucleus
+Q9BQS8	Golgi apparatus|Lysosome
+Q9BR39	Nucleus
+Q9BR76	Cytosol |Plasma membrane
+Q9BR77	Centrosome
+Q9BRA0	Nucleus
+Q9BRA2	Cytosol 
+Q9BRC7	Cytosol |Plasma membrane
+Q9BRD0	Nucleus
+Q9BRF8	Cytosol |Plasma membrane
+Q9BRG1	Cytosol |Nucleus
+Q9BRJ7	Nucleus
+Q9BRK4	Cytosol |Plasma membrane
+Q9BRK5	Golgi apparatus
+Q9BRL6	Cytosol |Nucleus
+Q9BRP8	Cytosol |Nucleolus|Nucleus
+Q9BRQ6	Cytosol |Mitochondrion
+Q9BRQ8	Cytosol |Mitochondrion
+Q9BRR0	Cytosol |Nucleus
+Q9BRR6	Endoplasmic reticulum
+Q9BRS2	Cytosol 
+Q9BRS8	Nucleus
+Q9BRT2	Mitochondrion
+Q9BRT3	Cytosol 
+Q9BRT6	Nucleolus
+Q9BRU2	Nucleus
+Q9BRV3	Golgi apparatus|Plasma membrane
+Q9BS31	Nucleus
+Q9BS86	Nucleus
+Q9BSA9	Lysosome
+Q9BSC4	Nucleolus
+Q9BSD3	Nucleus
+Q9BSF8	Nucleus
+Q9BSH4	Mitochondrion|Nucleus
+Q9BSJ2	Centrosome
+Q9BSJ6	Nucleolus|Nucleus
+Q9BSJ8	Endoplasmic reticulum
+Q9BSL1	Cytosol |Golgi apparatus|Plasma membrane
+Q9BSM1	Nucleus
+Q9BSQ5	Mitochondrion
+Q9BSR8	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q9BSV6	Nucleus
+Q9BT25	Centrosome
+Q9BT40	Cytosol |Endoplasmic reticulum|Nucleus|Plasma membrane
+Q9BT43	Nucleus
+Q9BT49	Nucleus
+Q9BT78	Nucleus
+Q9BT81	Nucleus
+Q9BT92	Cytosol |Mitochondrion|Centrosome|Plasma membrane
+Q9BTC8	Nucleus
+Q9BTE1	Centrosome
+Q9BTE3	Cytosol |Nucleus|Plasma membrane
+Q9BTE6	Nucleus
+Q9BTK6	Nucleus
+Q9BTL3	Nucleus
+Q9BTL4	Nucleus
+Q9BTT0	Nucleus
+Q9BTT6	Cytosol 
+Q9BTV4	Golgi apparatus
+Q9BTW9	Centrosome
+Q9BTX1	Actin cytoskeleton|Plasma membrane
+Q9BTZ2	Peroxisome|Nucleus
+Q9BU19	Nucleolus|Nucleus
+Q9BU61	Nucleus
+Q9BUA6	Mitochondrion
+Q9BUB7	Mitochondrion
+Q9BUF5	Nucleus
+Q9BUH6	Nucleus
+Q9BUJ2	Nucleus
+Q9BUL8	Cytosol |Golgi apparatus
+Q9BUN5	Centrosome
+Q9BUN8	Endoplasmic reticulum
+Q9BUP3	Cytosol 
+Q9BUQ8	Nucleolus|Nucleus
+Q9BUR4	Cytosol 
+Q9BUR5	Cytosol |Mitochondrion
+Q9BUT1	Cytosol 
+Q9BUT9	Nucleus
+Q9BUU2	Nucleolus|Nucleus
+Q9BUX1	Cytosol 
+Q9BUZ4	Nucleus
+Q9BV20	Cytosol 
+Q9BV35	Mitochondrion
+Q9BV40	Cytosol |Plasma membrane
+Q9BV44	Cytosol |Nucleolus
+Q9BV47	Golgi apparatus|Nucleus
+Q9BV57	Nucleus|Plasma membrane
+Q9BV68	Cytosol |Nucleus
+Q9BV73	Centrosome
+Q9BV79	Mitochondrion
+Q9BV86	Cytosol |Nucleus
+Q9BV90	Cytosol |Nucleus
+Q9BV94	Endoplasmic reticulum
+Q9BVA0	Cytosol |Nucleus|Plasma membrane
+Q9BVA1	Nucleus
+Q9BVG8	Centrosome
+Q9BVI0	Cytosol 
+Q9BVI4	Nucleolus|Nucleus
+Q9BVJ6	Cytosol |Nucleolus
+Q9BVK6	Golgi apparatus|Endoplasmic reticulum
+Q9BVL4	Mitochondrion
+Q9BVM2	Nucleus
+Q9BVN2	Cytosol 
+Q9BVP2	Nucleolus
+Q9BVS5	Mitochondrion
+Q9BVT8	Cytosol 
+Q9BVV6	Centrosome
+Q9BVW5	Nucleus
+Q9BW04	Cytosol |Plasma membrane
+Q9BW27	Cytosol |Nucleus
+Q9BW60	Endoplasmic reticulum
+Q9BW71	Nucleolus|Nucleus
+Q9BWC9	Cytosol |Nucleus
+Q9BWD1	Cytosol |Nucleolus|Nucleus
+Q9BWE0	Nucleus
+Q9BWF3	Cytosol |Nucleolus|Nucleus
+Q9BWH2	Mitochondrion|Nucleus
+Q9BWJ5	Nucleus
+Q9BWK5	Nucleus
+Q9BWM7	Mitochondrion
+Q9BWS9	Lysosome|Nucleus
+Q9BWT1	Cytosol |Nucleus
+Q9BWT3	Cytosol |Nucleus
+Q9BWU0	Plasma membrane
+Q9BWX1	Cytosol |Golgi apparatus|Nucleus|Plasma membrane
+Q9BWX5	Nucleus
+Q9BX46	Cytosol 
+Q9BX63	Nucleus
+Q9BX66	Centrosome|Nucleus|Plasma membrane
+Q9BX67	Golgi apparatus
+Q9BX68	Nucleolus|Mitochondrion
+Q9BX82	Nucleus
+Q9BX95	Nucleus
+Q9BXA6	Nucleus
+Q9BXB4	Golgi apparatus
+Q9BXF3	Nucleus
+Q9BXF9	Nucleus
+Q9BXH1	Mitochondrion
+Q9BXI6	Plasma membrane
+Q9BXJ9	Cytosol |Nucleus
+Q9BXL7	Plasma membrane
+Q9BXL8	Cytosol |Plasma membrane
+Q9BXM0	Nucleus
+Q9BXM7	Cytosol |Mitochondrion|Nucleus
+Q9BXN6	Nucleus
+Q9BXS1	Peroxisome
+Q9BXS4	Lysosome
+Q9BXS9	Plasma membrane
+Q9BXU7	Nucleus
+Q9BXV9	Nucleus
+Q9BXW9	Cytosol |Nucleolus|Nucleus
+Q9BXY0	Nucleolus
+Q9BY08	Endoplasmic reticulum
+Q9BY12	Cytosol |Nucleus
+Q9BY32	Cytosol 
+Q9BY41	Nucleus|Plasma membrane
+Q9BY43	Nucleus
+Q9BY49	Peroxisome
+Q9BY64	Endoplasmic reticulum
+Q9BY67	Plasma membrane
+Q9BYC2	Mitochondrion
+Q9BYC5	Cytosol 
+Q9BYC8	Mitochondrion
+Q9BYC9	Mitochondrion
+Q9BYD1	Mitochondrion
+Q9BYD2	Mitochondrion
+Q9BYD3	Mitochondrion
+Q9BYD6	Mitochondrion
+Q9BYE7	Nucleus
+Q9BYF1	Plasma membrane
+Q9BYG3	Nucleolus
+Q9BYG5	Cytosol |Plasma membrane
+Q9BYG8	Mitochondrion
+Q9BYI3	Cytosol |Plasma membrane
+Q9BYN0	Cytosol 
+Q9BYN8	Mitochondrion
+Q9BYV1	Mitochondrion
+Q9BYV8	Centrosome
+Q9BYV9	Cytosol |Nucleus
+Q9BYW1	Nucleus
+Q9BYX2	Cytosol |Nucleus
+Q9BYZ2	Nucleus
+Q9BZ23	Cytosol |Mitochondrion|Nucleus
+Q9BZ67	Cytosol |Plasma membrane
+Q9BZB8	Cytosol 
+Q9BZC1	Nucleus
+Q9BZC7	Lysosome
+Q9BZD2	Golgi apparatus
+Q9BZD4	Nucleus
+Q9BZE1	Mitochondrion
+Q9BZE4	Cytosol |Golgi apparatus|Nucleolus|Nucleus
+Q9BZE9	Plasma membrane
+Q9BZF1	Endoplasmic reticulum
+Q9BZF2	Cytosol |Plasma membrane
+Q9BZF3	Cytosol |Plasma membrane
+Q9BZF9	Cytosol |Nucleus
+Q9BZG1	Golgi apparatus
+Q9BZH6	Cytosol |Nucleus
+Q9BZI7	Cytosol |Nucleolus|Nucleus
+Q9BZJ0	Nucleus
+Q9BZJ8	Plasma membrane
+Q9BZK7	Nucleus
+Q9BZL6	Cytosol |Nucleus
+Q9BZM6	Cytosol |Actin cytoskeleton|Plasma membrane
+Q9BZQ4	Golgi apparatus
+Q9BZQ8	Cytosol |Plasma membrane
+Q9BZR6	Endoplasmic reticulum
+Q9BZR8	Cytosol 
+Q9BZS1	Nucleus
+Q9BZV1	Cytosol 
+Q9BZZ5	Nucleus
+Q9C000	Cytosol |Nucleus
+Q9C002	Nucleus
+Q9C005	Golgi apparatus|Nucleus
+Q9C026	Cytosol 
+Q9C029	Nucleus
+Q9C037	Cytosol |Plasma membrane
+Q9C086	Nucleolus|Nucleus
+Q9C099	Centrosome
+Q9C0A1	Nucleus
+Q9C0B1	Nucleus
+Q9C0B5	Plasma membrane
+Q9C0C2	Nucleus
+Q9C0C7	Cytosol |Mitochondrion
+Q9C0C9	Nucleus
+Q9C0D2	Cytosol |Centrosome|Plasma membrane
+Q9C0E2	Cytosol 
+Q9C0E8	Endoplasmic reticulum
+Q9C0F1	Centrosome
+Q9C0F3	Cytosol 
+Q9C0H2	Plasma membrane
+Q9C0H9	Actin cytoskeleton
+Q9C0J8	Nucleus
+Q9C0K7	Cytosol |Nucleus
+Q9GZL7	Nucleolus
+Q9GZM5	Golgi apparatus
+Q9GZP1	Plasma membrane
+Q9GZP4	Nucleus
+Q9GZP8	Cytosol |Nucleus|Plasma membrane
+Q9GZP9	Endoplasmic reticulum
+Q9GZQ3	Cytosol 
+Q9GZQ8	Mitochondrion
+Q9GZR1	Cytosol 
+Q9GZR2	Nucleolus|Nucleus
+Q9GZR5	Endoplasmic reticulum
+Q9GZR7	Nucleolus
+Q9GZS1	Nucleus
+Q9GZS3	Cytosol |Nucleus
+Q9GZT3	Mitochondrion
+Q9GZT6	Mitochondrion
+Q9GZT9	Cytosol 
+Q9GZU1	Cytosol |Lysosome|Plasma membrane
+Q9GZU7	Nucleus
+Q9GZU8	Nucleus
+Q9GZV1	Cytosol |Nucleus
+Q9GZV3	Plasma membrane
+Q9GZV5	Cytosol |Nucleus
+Q9GZX5	Nucleus
+Q9GZX7	Nucleus
+Q9GZY4	Cytosol |Mitochondrion
+Q9GZY8	Peroxisome|Mitochondrion
+Q9GZZ1	Cytosol |Nucleus
+Q9GZZ9	Cytosol 
+Q9H008	Cytosol |Nucleus
+Q9H013	Nucleus
+Q9H015	Mitochondrion
+Q9H040	Nucleus
+Q9H061	Mitochondrion
+Q9H063	Nucleolus|Nucleus
+Q9H079	Nucleolus|Nucleus
+Q9H081	Nucleus
+Q9H082	Golgi apparatus
+Q9H089	Cytosol |Endoplasmic reticulum|Nucleus
+Q9H0A0	Nucleolus
+Q9H0B3	Mitochondrion|Nucleus
+Q9H0B6	Cytosol |Mitochondrion|Plasma membrane
+Q9H0C2	Mitochondrion|Nucleus
+Q9H0C8	Cytosol |Nucleus
+Q9H0D6	Nucleolus|Nucleus
+Q9H0E7	Nucleus
+Q9H0E9	Mitochondrion
+Q9H0F5	Nucleus
+Q9H0F6	Cytosol 
+Q9H0G5	Nucleus
+Q9H0H0	Nucleus
+Q9H0H5	Nucleus
+Q9H0I3	Cytosol 
+Q9H0N0	Golgi apparatus|Centrosome
+Q9H0P0	Endoplasmic reticulum
+Q9H0Q3	Plasma membrane
+Q9H0R1	Cytosol |Lysosome
+Q9H0R5	Cytosol 
+Q9H0R6	Mitochondrion
+Q9H0S4	Nucleolus
+Q9H0U3	Endoplasmic reticulum
+Q9H0U4	Golgi apparatus
+Q9H0U6	Mitochondrion
+Q9H0U9	Nucleolus|Nucleus
+Q9H0V9	Golgi apparatus
+Q9H0W5	Cytosol |Centrosome|Nucleus|Plasma membrane
+Q9H0W7	Nucleolus
+Q9H0W9	Nucleus
+Q9H0X6	Cytosol 
+Q9H0Z9	Cytosol |Nucleus
+Q9H116	Nucleolus|Nucleus
+Q9H147	Nucleolus|Nucleus
+Q9H160	Cytosol |Golgi apparatus|Nucleus
+Q9H161	Nucleus
+Q9H165	Nucleus
+Q9H171	Cytosol |Nucleus
+Q9H175	Nucleus
+Q9H190	Nucleolus|Plasma membrane
+Q9H1B4	Nucleus
+Q9H1C4	Endoplasmic reticulum
+Q9H1D0	Plasma membrane
+Q9H1E3	Nucleolus|Nucleus
+Q9H1H9	Centrosome
+Q9H1I8	Nucleus
+Q9H1J1	Cytosol |Nucleus
+Q9H1K1	Cytosol |Mitochondrion
+Q9H1P3	Cytosol 
+Q9H1R2	Cytosol |Plasma membrane
+Q9H1R3	Nucleus
+Q9H1Z4	Plasma membrane
+Q9H201	Nucleus
+Q9H211	Nucleus
+Q9H223	Endoplasmic reticulum
+Q9H227	Cytosol 
+Q9H255	Plasma membrane
+Q9H267	Golgi apparatus|Lysosome
+Q9H269	Lysosome
+Q9H270	Lysosome
+Q9H2B2	Plasma membrane
+Q9H2D1	Mitochondrion
+Q9H2D6	Actin cytoskeleton
+Q9H2F5	Nucleus
+Q9H2G4	Nucleolus|Nucleus
+Q9H2G9	Golgi apparatus|Nucleus
+Q9H2J4	Cytosol |Nucleus
+Q9H2K2	Nucleus
+Q9H2M9	Cytosol |Plasma membrane
+Q9H2S1	Plasma membrane
+Q9H2U1	Cytosol |Nucleus
+Q9H2W6	Mitochondrion
+Q9H2X6	Nucleus
+Q9H305	Nucleus
+Q9H310	Plasma membrane
+Q9H329	Cytosol |Plasma membrane
+Q9H334	Nucleus
+Q9H361	Cytosol 
+Q9H3D4	Cytosol |Golgi apparatus|Nucleus
+Q9H3F6	Cytosol 
+Q9H3K2	Mitochondrion
+Q9H3K6	Nucleus
+Q9H3L0	Mitochondrion
+Q9H3P2	Cytosol 
+Q9H3P7	Golgi apparatus
+Q9H3Q1	Actin cytoskeleton|Plasma membrane
+Q9H3R5	Nucleolus|Nucleus
+Q9H3S1	Cytosol |Nucleus
+Q9H3S3	Plasma membrane
+Q9H3S7	Nucleus
+Q9H3U1	Cytosol |Golgi apparatus
+Q9H3Z4	Mitochondrion|Plasma membrane
+Q9H410	Cytosol |Nucleolus|Nucleus
+Q9H422	Cytosol 
+Q9H425	Cytosol 
+Q9H444	Nucleus
+Q9H467	Cytosol 
+Q9H488	Endoplasmic reticulum
+Q9H490	Plasma membrane
+Q9H492	Cytosol 
+Q9H497	Endoplasmic reticulum
+Q9H4A3	Cytosol 
+Q9H4A6	Cytosol |Golgi apparatus|Mitochondrion
+Q9H4B4	Nucleolus|Centrosome|Nucleus
+Q9H4B6	Cytosol |Nucleus
+Q9H4D5	Nucleus
+Q9H4E5	Plasma membrane
+Q9H4E7	Cytosol 
+Q9H4G0	Plasma membrane
+Q9H4I2	Nucleus
+Q9H4I9	Mitochondrion|Nucleus
+Q9H4K1	Nucleus
+Q9H4L4	Nucleolus|Nucleus
+Q9H4L5	Cytosol |Plasma membrane
+Q9H4Q4	Nucleus
+Q9H4W6	Nucleus
+Q9H4X1	Nucleolus|Centrosome|Nucleus
+Q9H4Z3	Nucleus
+Q9H553	Cytosol |Actin cytoskeleton|Nucleus
+Q9H583	Nucleolus|Mitochondrion
+Q9H596	Nucleus
+Q9H5F2	Nucleus
+Q9H5J4	Endoplasmic reticulum
+Q9H5N1	Cytosol |Centrosome
+Q9H5P4	Nucleus
+Q9H5Q4	Mitochondrion
+Q9H5U6	Nucleolus
+Q9H5V9	Nucleus
+Q9H5X1	Cytosol |Nucleus
+Q9H5Y7	Plasma membrane
+Q9H5Z6	Mitochondrion
+Q9H649	Mitochondrion
+Q9H668	Nucleus
+Q9H6A0	Cytosol 
+Q9H6D3	Plasma membrane
+Q9H6D7	Centrosome
+Q9H6E5	Cytosol |Nucleolus|Nucleus
+Q9H6F5	Nucleolus|Nucleus
+Q9H6H4	Endoplasmic reticulum
+Q9H6I2	Nucleus
+Q9H6K1	Nucleus
+Q9H6K4	Mitochondrion
+Q9H6L5	Endoplasmic reticulum|Nucleolus
+Q9H6Q3	Golgi apparatus
+Q9H6R0	Nucleolus|Nucleus
+Q9H6R4	Nucleolus|Mitochondrion|Nucleus
+Q9H6R6	Endoplasmic reticulum
+Q9H6S0	Endoplasmic reticulum
+Q9H6S3	Cytosol |Plasma membrane
+Q9H6T0	Nucleus
+Q9H6T3	Cytosol 
+Q9H6U6	Nucleolus|Nucleus
+Q9H6W3	Nucleolus
+Q9H6Z4	Nucleus
+Q9H6Z9	Cytosol |Nucleus
+Q9H773	Cytosol |Mitochondrion|Nucleus
+Q9H777	Cytosol |Nucleus
+Q9H788	Cytosol 
+Q9H790	Cytosol |Nucleus
+Q9H792	Actin cytoskeleton
+Q9H7B2	Nucleolus|Nucleus
+Q9H7B4	Cytosol |Nucleus
+Q9H7D0	Cytosol |Plasma membrane
+Q9H7D7	Cytosol |Nucleus
+Q9H7E2	Cytosol |Golgi apparatus|Nucleus
+Q9H7H0	Nucleus
+Q9H7L9	Cytosol |Nucleus
+Q9H7M9	Plasma membrane
+Q9H7P6	Cytosol |Nucleus|Plasma membrane
+Q9H7S9	Nucleus
+Q9H7T9	Centrosome
+Q9H7Z6	Nucleus
+Q9H7Z7	Mitochondrion
+Q9H814	Centrosome|Nucleus
+Q9H816	Centrosome
+Q9H832	Cytosol |Nucleus
+Q9H840	Cytosol |Nucleus
+Q9H845	Mitochondrion|Nucleus
+Q9H867	Cytosol 
+Q9H869	Nucleolus|Nucleus
+Q9H871	Nucleus
+Q9H892	Centrosome
+Q9H8H0	Nucleolus
+Q9H8H2	Golgi apparatus|Nucleolus
+Q9H8M9	Plasma membrane
+Q9H8N7	Cytosol |Nucleus
+Q9H8P0	Endoplasmic reticulum
+Q9H8S9	Cytosol |Nucleolus|Nucleus
+Q9H8T0	Plasma membrane
+Q9H8V3	Cytosol |Nucleus
+Q9H8W5	Cytosol 
+Q9H8X9	Endoplasmic reticulum
+Q9H8Y8	Golgi apparatus
+Q9H902	Endoplasmic reticulum
+Q9H910	Cytosol |Plasma membrane
+Q9H967	Nucleus
+Q9H981	Centrosome|Nucleus
+Q9H992	Nucleus
+Q9H999	Cytosol 
+Q9H9B1	Nucleus
+Q9H9B4	Mitochondrion
+Q9H9C1	Golgi apparatus
+Q9H9D4	Nucleus
+Q9H9E1	Cytosol 
+Q9H9F9	Nucleus
+Q9H9H4	Plasma membrane
+Q9H9J2	Mitochondrion|Nucleus|Plasma membrane
+Q9H9L4	Cytosol |Actin cytoskeleton|Plasma membrane
+Q9H9L7	Nucleus
+Q9H9P5	Cytosol 
+Q9H9P8	Mitochondrion
+Q9H9Q4	Nucleus
+Q9H9S0	Nucleolus|Nucleus
+Q9H9S5	Cytosol |Golgi apparatus|Nucleus
+Q9H9T3	Nucleolus
+Q9H9Y2	Nucleolus
+Q9H9Y6	Cytosol |Nucleolus
+Q9H9Z2	Nucleus
+Q9HA38	Plasma membrane
+Q9HA65	Cytosol 
+Q9HAB3	Plasma membrane
+Q9HAC7	Mitochondrion
+Q9HAF1	Nucleolus
+Q9HAJ7	Nucleolus|Nucleus
+Q9HAN9	Nucleus
+Q9HAT0	Nucleus
+Q9HAU0	Cytosol 
+Q9HAU5	Cytosol |Nucleus
+Q9HAV4	Cytosol |Nucleus
+Q9HAV7	Mitochondrion|Nucleus
+Q9HAW4	Golgi apparatus
+Q9HAW7	Endoplasmic reticulum
+Q9HAW8	Endoplasmic reticulum
+Q9HAZ2	Cytosol |Nucleus
+Q9HB03	Endoplasmic reticulum
+Q9HB09	Nucleus
+Q9HB20	Golgi apparatus
+Q9HB21	Cytosol |Nucleus|Plasma membrane
+Q9HB58	Nucleus
+Q9HB65	Nucleolus|Nucleus
+Q9HB71	Cytosol 
+Q9HB75	Cytosol |Golgi apparatus|Nucleus
+Q9HB90	Lysosome|Nucleus
+Q9HBA0	Plasma membrane
+Q9HBF4	Endoplasmic reticulum
+Q9HBG4	Plasma membrane
+Q9HBG6	Cytosol 
+Q9HBG7	Plasma membrane
+Q9HBH1	Mitochondrion
+Q9HBH5	Endoplasmic reticulum|Nucleus
+Q9HBJ8	Plasma membrane
+Q9HBL8	Nucleus
+Q9HBM0	Cytosol 
+Q9HBM1	Cytosol 
+Q9HBR0	Golgi apparatus
+Q9HBU6	Cytosol |Plasma membrane
+Q9HBZ2	Nucleus
+Q9HC07	Golgi apparatus
+Q9HC21	Nucleus
+Q9HC29	Cytosol |Golgi apparatus|Plasma membrane
+Q9HC36	Mitochondrion
+Q9HC52	Nucleus
+Q9HC62	Cytosol 
+Q9HC77	Centrosome|Plasma membrane
+Q9HC78	Nucleus
+Q9HC96	Cytosol |Mitochondrion
+Q9HC98	Cytosol |Nucleus
+Q9HCC0	Mitochondrion
+Q9HCC9	Cytosol 
+Q9HCD5	Actin cytoskeleton|Nucleus
+Q9HCE0	Lysosome
+Q9HCE1	Cytosol 
+Q9HCE5	Nucleus
+Q9HCE7	Plasma membrane
+Q9HCE9	Plasma membrane
+Q9HCG8	Cytosol |Nucleus
+Q9HCH0	Centrosome
+Q9HCH5	Plasma membrane
+Q9HCK5	Cytosol 
+Q9HCK8	Nucleus
+Q9HCM4	Cytosol |Nucleus|Plasma membrane
+Q9HCM9	Cytosol |Mitochondrion
+Q9HCN4	Cytosol |Mitochondrion
+Q9HCP0	Cytosol 
+Q9HCS4	Cytosol 
+Q9HCS7	Nucleus
+Q9HCU5	Nucleus
+Q9HCU8	Cytosol |Nucleolus|Mitochondrion|Nucleus
+Q9HCU9	Nucleus
+Q9HCY8	Cytosol |Plasma membrane
+Q9HD15	Cytosol |Nucleus|Plasma membrane
+Q9HD23	Mitochondrion
+Q9HD26	Golgi apparatus
+Q9HD33	Mitochondrion
+Q9HD36	Cytosol |Mitochondrion
+Q9HD47	Cytosol |Nucleus
+Q9HD67	Cytosol |Nucleolus|Plasma membrane
+Q9HDC5	Nucleus
+Q9NNW5	Cytosol |Plasma membrane
+Q9NNW7	Cytosol |Mitochondrion
+Q9NNX6	Plasma membrane
+Q9NP58	Cytosol |Golgi apparatus|Endoplasmic reticulum|Mitochondrion|Plasma membrane
+Q9NP61	Cytosol |Golgi apparatus
+Q9NP62	Nucleus
+Q9NP71	Cytosol |Nucleus
+Q9NP77	Cytosol 
+Q9NP78	Lysosome
+Q9NP79	Cytosol 
+Q9NP80	Peroxisome
+Q9NP86	Cytosol 
+Q9NP92	Mitochondrion
+Q9NP97	Centrosome
+Q9NPA8	Mitochondrion
+Q9NPB3	Golgi apparatus|Plasma membrane
+Q9NPB6	Centrosome
+Q9NPC1	Plasma membrane
+Q9NPC7	Nucleus
+Q9NPD3	Cytosol |Nucleus
+Q9NPD5	Plasma membrane
+Q9NPD8	Nucleolus|Nucleus
+Q9NPF0	Endoplasmic reticulum|Plasma membrane
+Q9NPF4	Nucleus|Plasma membrane
+Q9NPF5	Cytosol |Nucleus
+Q9NPF8	Plasma membrane
+Q9NPG1	Plasma membrane
+Q9NPH0	Mitochondrion
+Q9NPH5	Nucleus
+Q9NPH9	Cytosol 
+Q9NPI1	Cytosol |Nucleus
+Q9NPI5	Plasma membrane
+Q9NPJ1	Centrosome|Nucleus
+Q9NPJ3	Nucleus
+Q9NPJ4	Golgi apparatus|Nucleus
+Q9NPJ6	Nucleus
+Q9NPJ8	Cytosol 
+Q9NPL8	Mitochondrion|Nucleus
+Q9NPY3	Plasma membrane
+Q9NQ11	Lysosome
+Q9NQ38	Cell cortex|Cytosol |Endoplasmic reticulum
+Q9NQ48	Cytosol 
+Q9NQ50	Mitochondrion
+Q9NQ55	Nucleus
+Q9NQ87	Nucleus
+Q9NQ88	Cytosol |Nucleus
+Q9NQ90	Plasma membrane
+Q9NQ92	Cytosol |Nucleus|Plasma membrane
+Q9NQB0	Nucleus
+Q9NQC3	Endoplasmic reticulum|Plasma membrane
+Q9NQC7	Cytosol |Centrosome
+Q9NQE7	Lysosome
+Q9NQG5	Cytosol |Centrosome|Nucleus
+Q9NQG6	Mitochondrion
+Q9NQG7	Lysosome
+Q9NQH7	Mitochondrion
+Q9NQL2	Lysosome|Centrosome|Nucleus
+Q9NQP4	Mitochondrion|Nucleus
+Q9NQQ7	Golgi apparatus
+Q9NQR1	Cytosol |Nucleus
+Q9NQR4	Cytosol |Centrosome
+Q9NQS7	Cytosol |Nucleus
+Q9NQT4	Nucleolus|Nucleus
+Q9NQT5	Nucleolus|Nucleus
+Q9NQU5	Nucleus
+Q9NQV5	Cytosol |Nucleus
+Q9NQV8	Nucleus
+Q9NQW6	Actin cytoskeleton
+Q9NQW7	Cytosol 
+Q9NQX1	Nucleolus|Nucleus
+Q9NQX7	Golgi apparatus|Lysosome|Plasma membrane
+Q9NQZ2	Nucleolus
+Q9NQZ3	Nucleus
+Q9NQZ6	Nucleus
+Q9NR00	Cytosol |Nucleolus|Nucleus|Plasma membrane
+Q9NR12	Actin cytoskeleton|Nucleus
+Q9NR19	Cytosol 
+Q9NR22	Plasma membrane
+Q9NR28	Mitochondrion
+Q9NR30	Nucleolus|Nucleus
+Q9NR46	Cytosol 
+Q9NR48	Golgi apparatus
+Q9NR56	Cytosol |Nucleus
+Q9NR96	Plasma membrane
+Q9NRA0	Cytosol |Nucleus
+Q9NRA1	Cytosol |Plasma membrane
+Q9NRA2	Cytosol |Plasma membrane
+Q9NRC8	Nucleolus
+Q9NRD5	Cytosol |Mitochondrion|Plasma membrane
+Q9NRD9	Endoplasmic reticulum|Plasma membrane
+Q9NRG7	Nucleus
+Q9NRG9	Cytosol |Centrosome|Nucleus
+Q9NRI5	Mitochondrion|Centrosome
+Q9NRM7	Cytosol |Nucleus
+Q9NRP2	Mitochondrion
+Q9NRP7	Cytosol |Nucleus
+Q9NRQ2	Plasma membrane
+Q9NRR3	Plasma membrane
+Q9NRR5	Nucleus
+Q9NRR8	Plasma membrane
+Q9NRS6	Cytosol |Nucleolus
+Q9NRW1	Golgi apparatus
+Q9NRW3	Nucleus
+Q9NRW4	Plasma membrane
+Q9NRX1	Nucleolus|Nucleus
+Q9NRX2	Mitochondrion
+Q9NRX4	Cytosol 
+Q9NRY2	Nucleus
+Q9NRY6	Mitochondrion|Plasma membrane
+Q9NRZ7	Endoplasmic reticulum|Plasma membrane
+Q9NS18	Mitochondrion|Nucleus
+Q9NS23	Nucleus
+Q9NS26	Nucleus
+Q9NS37	Mitochondrion|Nucleus
+Q9NS56	Nucleus
+Q9NS69	Mitochondrion
+Q9NS73	Cytosol |Nucleolus|Nucleus
+Q9NS86	Cytosol |Nucleus|Plasma membrane
+Q9NS91	Centrosome|Nucleus
+Q9NS93	Plasma membrane
+Q9NSA3	Cytosol |Nucleus
+Q9NSC2	Nucleus
+Q9NSE4	Cytosol |Mitochondrion
+Q9NSI6	Cytosol |Nucleolus|Nucleus
+Q9NSI8	Nucleus|Plasma membrane
+Q9NSK7	Endoplasmic reticulum|Mitochondrion
+Q9NSP4	Cytosol 
+Q9NSU2	Cytosol 
+Q9NT62	Cytosol 
+Q9NTG7	Mitochondrion
+Q9NTI2	Golgi apparatus|Plasma membrane
+Q9NTI7	Nucleus
+Q9NTJ3	Cytosol 
+Q9NTJ5	Golgi apparatus
+Q9NTK1	Peroxisome|Mitochondrion
+Q9NTK5	Cytosol |Centrosome
+Q9NTM9	Cytosol |Nucleolus|Nucleus
+Q9NTQ9	Nucleolus|Nucleus
+Q9NTX7	Cytosol |Plasma membrane
+Q9NTX9	Cytosol 
+Q9NU22	Cytosol |Nucleolus|Nucleus
+Q9NUA8	Nucleus
+Q9NUE0	Golgi apparatus
+Q9NUJ1	Cytosol |Mitochondrion
+Q9NUL5	Cytosol |Nucleus
+Q9NUL7	Cytosol |Nucleolus|Mitochondrion|Nucleus
+Q9NUM4	Lysosome
+Q9NUP9	Plasma membrane
+Q9NUQ2	Mitochondrion
+Q9NUQ6	Cytosol |Nucleolus|Nucleus
+Q9NUT2	Nucleolus|Mitochondrion|Nucleus
+Q9NUV9	Cytosol 
+Q9NUW8	Nucleus|Plasma membrane
+Q9NUX5	Nucleus
+Q9NUY8	Golgi apparatus
+Q9NV06	Cytosol |Nucleolus|Centrosome|Nucleus
+Q9NV29	Endoplasmic reticulum|Plasma membrane
+Q9NV31	Nucleolus|Nucleus
+Q9NV56	Nucleus
+Q9NV88	Cytosol |Nucleus
+Q9NV92	Golgi apparatus|Endoplasmic reticulum|Mitochondrion
+Q9NV96	Endoplasmic reticulum|Plasma membrane
+Q9NVC6	Nucleus
+Q9NVH1	Mitochondrion
+Q9NVH2	Nucleus
+Q9NVH6	Mitochondrion
+Q9NVI1	Cytosol 
+Q9NVI7	Mitochondrion
+Q9NVM4	Cytosol |Nucleus
+Q9NVM9	Nucleus
+Q9NVN3	Cytosol |Centrosome|Plasma membrane
+Q9NVN8	Cytosol |Nucleolus|Nucleus
+Q9NVP1	Nucleolus
+Q9NVR2	Nucleus
+Q9NVR5	Cytosol 
+Q9NVS2	Mitochondrion
+Q9NVS9	Cytosol 
+Q9NVU0	Nucleus
+Q9NVU7	Nucleolus|Nucleus
+Q9NVV0	Nucleus
+Q9NVV4	Mitochondrion
+Q9NVV9	Nucleus
+Q9NVW2	Cytosol 
+Q9NVX0	Centrosome
+Q9NVX2	Nucleolus|Nucleus
+Q9NW13	Nucleolus
+Q9NW15	Plasma membrane
+Q9NW64	Nucleus
+Q9NWB6	Mitochondrion
+Q9NWD9	Nucleus
+Q9NWF9	Cytosol |Nucleus
+Q9NWM0	Nucleus
+Q9NWQ8	Plasma membrane
+Q9NWQ9	Cytosol |Mitochondrion
+Q9NWS0	Nucleolus|Nucleus
+Q9NWS8	Mitochondrion
+Q9NWT6	Cytosol 
+Q9NWT8	Mitochondrion|Nucleus
+Q9NWU1	Cytosol |Mitochondrion
+Q9NWU2	Cytosol |Nucleus
+Q9NWU5	Mitochondrion
+Q9NWV8	Cytosol |Nucleus
+Q9NWW5	Endoplasmic reticulum
+Q9NWW7	Nucleus
+Q9NWX6	Mitochondrion
+Q9NWY4	Nucleus
+Q9NWZ8	Cytosol |Nucleus
+Q9NX01	Cytosol 
+Q9NX02	Cytosol |Golgi apparatus
+Q9NX04	Nucleus
+Q9NX08	Cytosol 
+Q9NX09	Cytosol 
+Q9NX14	Mitochondrion
+Q9NX18	Cytosol |Nucleolus|Mitochondrion
+Q9NX20	Mitochondrion
+Q9NX46	Nucleus
+Q9NX47	Endoplasmic reticulum|Mitochondrion
+Q9NX52	Plasma membrane
+Q9NX55	Nucleus
+Q9NX57	Golgi apparatus
+Q9NX58	Nucleolus|Nucleus
+Q9NX62	Cytosol |Golgi apparatus|Nucleus
+Q9NX63	Mitochondrion|Nucleus
+Q9NX74	Cytosol 
+Q9NX76	Plasma membrane
+Q9NXA8	Cytosol |Mitochondrion
+Q9NXB0	Centrosome
+Q9NXB9	Endoplasmic reticulum
+Q9NXC5	Cytosol |Nucleus
+Q9NXE4	Golgi apparatus|Endoplasmic reticulum
+Q9NXE8	Nucleus
+Q9NXF8	Golgi apparatus
+Q9NXG0	Cytosol |Centrosome
+Q9NXL9	Nucleus
+Q9NXR1	Centrosome
+Q9NXR7	Cytosol |Nucleus
+Q9NXR8	Nucleus
+Q9NXS2	Golgi apparatus
+Q9NXV2	Cytosol 
+Q9NXV6	Nucleolus
+Q9NXW2	Endoplasmic reticulum
+Q9NXZ1	Nucleus
+Q9NY12	Nucleus
+Q9NY25	Cytosol |Plasma membrane
+Q9NY26	Plasma membrane
+Q9NY27	Nucleus
+Q9NY33	Cytosol |Plasma membrane
+Q9NY61	Nucleus
+Q9NY72	Plasma membrane
+Q9NY87	Nucleus
+Q9NY93	Nucleolus
+Q9NYA1	Cytosol |Plasma membrane
+Q9NYB0	Cytosol |Nucleus
+Q9NYB9	Cytosol 
+Q9NYF0	Nucleus
+Q9NYF8	Nucleus
+Q9NYG2	Golgi apparatus
+Q9NYG5	Nucleolus
+Q9NYH9	Nucleolus
+Q9NYJ8	Cytosol 
+Q9NYK1	Plasma membrane
+Q9NYK5	Mitochondrion
+Q9NYL2	Cytosol 
+Q9NYM9	Golgi apparatus
+Q9NYP3	Nucleus
+Q9NYP7	Endoplasmic reticulum
+Q9NYP9	Cytosol |Nucleus
+Q9NYQ3	Peroxisome
+Q9NYQ6	Plasma membrane
+Q9NYU2	Endoplasmic reticulum
+Q9NYV4	Nucleus
+Q9NYV6	Nucleolus|Nucleus
+Q9NYY3	Centrosome
+Q9NYY8	Mitochondrion|Nucleus
+Q9NZ01	Endoplasmic reticulum|Nucleus
+Q9NZ09	Cytosol |Golgi apparatus|Plasma membrane
+Q9NZ42	Golgi apparatus|Endoplasmic reticulum
+Q9NZ43	Endoplasmic reticulum
+Q9NZ45	Mitochondrion
+Q9NZ52	Golgi apparatus
+Q9NZ56	Cytosol |Nucleolus|Nucleus
+Q9NZ63	Cytosol 
+Q9NZ71	Nucleus
+Q9NZ81	Cytosol 
+Q9NZA1	Actin cytoskeleton|Golgi apparatus
+Q9NZB2	Cytosol 
+Q9NZC2	Plasma membrane
+Q9NZC4	Golgi apparatus
+Q9NZC7	Cytosol |Golgi apparatus|Nucleus
+Q9NZC9	Nucleus
+Q9NZD2	Cytosol 
+Q9NZD8	Cytosol 
+Q9NZE8	Mitochondrion
+Q9NZH0	Cytosol |Nucleolus|Nucleus
+Q9NZI5	Cytosol |Golgi apparatus|Nucleus
+Q9NZI6	Mitochondrion
+Q9NZI7	Cytosol 
+Q9NZI8	Cytosol 
+Q9NZJ0	Cytosol |Nucleolus|Centrosome|Nucleus
+Q9NZJ4	Mitochondrion|Nucleus
+Q9NZJ6	Mitochondrion
+Q9NZJ9	Cytosol 
+Q9NZL3	Nucleus
+Q9NZL9	Nucleus
+Q9NZM1	Plasma membrane
+Q9NZM3	Centrosome
+Q9NZM5	Cytosol |Nucleolus
+Q9NZN1	Plasma membrane
+Q9NZN4	Plasma membrane
+Q9NZN8	Cytosol |Nucleus|Plasma membrane
+Q9NZN9	Cytosol |Nucleus
+Q9NZQ7	Plasma membrane
+Q9NZS9	Endoplasmic reticulum
+Q9NZU0	Cytosol |Plasma membrane
+Q9NZU7	Plasma membrane
+Q9NZZ3	Cytosol 
+Q9P000	Cytosol |Golgi apparatus|Nucleus
+Q9P003	Endoplasmic reticulum
+Q9P013	Mitochondrion|Nucleus
+Q9P015	Mitochondrion
+Q9P016	Nucleus
+Q9P021	Nucleolus|Nucleus
+Q9P032	Mitochondrion
+Q9P035	Cytosol |Endoplasmic reticulum|Mitochondrion
+Q9P0J0	Mitochondrion
+Q9P0J6	Mitochondrion
+Q9P0J7	Cytosol 
+Q9P0K1	Plasma membrane
+Q9P0K7	Cytosol |Nucleus
+Q9P0K8	Nucleus
+Q9P0L0	Endoplasmic reticulum|Plasma membrane
+Q9P0L2	Plasma membrane
+Q9P0L9	Plasma membrane
+Q9P0M2	Cytosol 
+Q9P0M9	Mitochondrion
+Q9P0N8	Endoplasmic reticulum
+Q9P0P8	Mitochondrion
+Q9P0R6	Nucleus
+Q9P0S3	Endoplasmic reticulum
+Q9P0T7	Lysosome
+Q9P0U1	Mitochondrion
+Q9P0U3	Nucleus
+Q9P0U4	Cytosol |Nucleus
+Q9P0W8	Cytosol |Mitochondrion
+Q9P0Z9	Peroxisome
+Q9P107	Cytosol |Plasma membrane
+Q9P1Q0	Golgi apparatus
+Q9P1T7	Nucleolus|Nucleus
+Q9P1Z0	Cytosol |Nucleus
+Q9P1Z2	Cytosol |Nucleus
+Q9P1Z3	Plasma membrane
+Q9P209	Centrosome
+Q9P212	Cytosol |Plasma membrane
+Q9P241	Endoplasmic reticulum|Plasma membrane
+Q9P246	Endoplasmic reticulum|Plasma membrane
+Q9P253	Lysosome
+Q9P265	Nucleus
+Q9P267	Nucleus
+Q9P270	Cytosol |Centrosome
+Q9P275	Nucleolus
+Q9P287	Cytosol |Centrosome
+Q9P289	Cytosol |Golgi apparatus
+Q9P2B4	Actin cytoskeleton
+Q9P2D1	Nucleolus|Nucleus
+Q9P2E9	Endoplasmic reticulum
+Q9P2G3	Cytosol |Actin cytoskeleton|Endoplasmic reticulum
+Q9P2H0	Centrosome
+Q9P2J5	Cytosol |Endoplasmic reticulum
+Q9P2K5	Nucleus
+Q9P2M4	Golgi apparatus
+Q9P2M7	Plasma membrane
+Q9P2N4	Endoplasmic reticulum
+Q9P2N6	Nucleolus|Nucleus
+Q9P2P6	Nucleus
+Q9P2R7	Mitochondrion
+Q9P2S5	Centrosome
+Q9P2W9	Endoplasmic reticulum
+Q9P2X0	Endoplasmic reticulum
+Q9P2Y4	Nucleus
+Q9P2Y5	Endoplasmic reticulum|Lysosome|Centrosome
+Q9UBB4	Cytosol |Plasma membrane
+Q9UBB5	Cytosol |Nucleus
+Q9UBB6	Cytosol 
+Q9UBB9	Nucleolus
+Q9UBC1	Nucleus
+Q9UBC3	Nucleus
+Q9UBC9	Golgi apparatus
+Q9UBD0	Nucleus
+Q9UBD6	Plasma membrane
+Q9UBE0	Nucleus
+Q9UBF1	Cytosol |Nucleolus|Nucleus
+Q9UBF6	Cytosol 
+Q9UBI9	Nucleus
+Q9UBJ2	Peroxisome
+Q9UBK2	Nucleus
+Q9UBK9	Centrosome|Nucleus
+Q9UBL3	Nucleus
+Q9UBL6	Nucleus|Plasma membrane
+Q9UBM7	Cytosol |Endoplasmic reticulum
+Q9UBN4	Plasma membrane
+Q9UBP0	Cytosol |Nucleus
+Q9UBP6	Cytosol |Nucleolus|Nucleus
+Q9UBQ0	Cytosol 
+Q9UBQ5	Cytosol 
+Q9UBQ6	Endoplasmic reticulum
+Q9UBR2	Endoplasmic reticulum|Lysosome
+Q9UBS3	Endoplasmic reticulum
+Q9UBS4	Endoplasmic reticulum
+Q9UBS8	Cytosol |Nucleus
+Q9UBT7	Cytosol 
+Q9UBU7	Nucleus
+Q9UBU9	Nucleus
+Q9UBV2	Endoplasmic reticulum
+Q9UBV7	Golgi apparatus
+Q9UBW8	Cytosol 
+Q9UBX0	Nucleus
+Q9UBX2	Cytosol |Golgi apparatus|Nucleolus|Nucleus
+Q9UBX3	Mitochondrion|Nucleus
+Q9UBY5	Plasma membrane
+Q9UBY8	Endoplasmic reticulum
+Q9UBY9	Nucleus
+Q9UBZ4	Nucleus
+Q9UDR5	Mitochondrion
+Q9UDV6	Nucleus
+Q9UDY2	Cytosol |Plasma membrane
+Q9UDY4	Cytosol |Plasma membrane
+Q9UDY8	Cytosol |Nucleolus|Nucleus
+Q9UEE5	Nucleus|Plasma membrane
+Q9UER7	Nucleus
+Q9UEU0	Cytosol |Golgi apparatus
+Q9UEW8	Cytosol 
+Q9UEY8	Plasma membrane
+Q9UF56	Nucleus
+Q9UFC0	Nucleolus|Nucleus
+Q9UFF9	Nucleus
+Q9UFN0	Nucleus
+Q9UFW8	Nucleus
+Q9UG56	Nucleus
+Q9UGC7	Mitochondrion
+Q9UGH3	Plasma membrane
+Q9UGI0	Cytosol |Nucleus
+Q9UGI8	Cytosol |Nucleus|Plasma membrane
+Q9UGJ1	Centrosome
+Q9UGK8	Cytosol |Nucleus
+Q9UGL1	Cytosol |Nucleus
+Q9UGM6	Mitochondrion|Plasma membrane
+Q9UGN5	Nucleolus|Nucleus
+Q9UGP4	Nucleus|Plasma membrane
+Q9UGP8	Endoplasmic reticulum
+Q9UGT4	Plasma membrane
+Q9UH17	Nucleus
+Q9UH77	Cytosol 
+Q9UH92	Cytosol |Nucleus
+Q9UHA3	Nucleolus|Nucleus
+Q9UHB4	Cytosol |Nucleus
+Q9UHB6	Cytosol |Actin cytoskeleton|Plasma membrane
+Q9UHB7	Nucleus
+Q9UHB9	Cytosol 
+Q9UHC1	Nucleus
+Q9UHC6	Golgi apparatus
+Q9UHD4	Cytosol 
+Q9UHD8	Actin cytoskeleton
+Q9UHD9	Cytosol |Plasma membrane
+Q9UHE5	Endoplasmic reticulum
+Q9UHF7	Nucleus
+Q9UHG0	Cytosol 
+Q9UHG3	Lysosome
+Q9UHH9	Nucleus
+Q9UHI5	Plasma membrane
+Q9UHI6	Cytosol 
+Q9UHI7	Plasma membrane
+Q9UHJ3	Nucleus
+Q9UHK0	Nucleolus|Nucleus
+Q9UHK6	Peroxisome|Mitochondrion|Plasma membrane
+Q9UHL4	Golgi apparatus
+Q9UHL9	Cytosol 
+Q9UHP3	Cytosol |Endoplasmic reticulum
+Q9UHP7	Endoplasmic reticulum
+Q9UHQ1	Nucleolus|Nucleus
+Q9UHQ9	Mitochondrion
+Q9UHR4	Cytosol |Plasma membrane
+Q9UHR5	Nucleus
+Q9UHV7	Nucleus
+Q9UHV9	Cytosol |Mitochondrion|Nucleus
+Q9UI09	Cytosol |Mitochondrion
+Q9UI26	Nucleus
+Q9UI32	Mitochondrion
+Q9UI38	Endoplasmic reticulum
+Q9UI43	Nucleolus
+Q9UI95	Cytosol |Nucleolus|Nucleus
+Q9UIA0	Plasma membrane
+Q9UIA9	Nucleus
+Q9UID3	Golgi apparatus|Nucleolus
+Q9UID6	Nucleus
+Q9UIF3	Nucleus
+Q9UIF7	Nucleus
+Q9UIF9	Cytosol 
+Q9UIH9	Nucleus
+Q9UII2	Mitochondrion
+Q9UIJ5	Golgi apparatus|Endoplasmic reticulum
+Q9UIJ7	Mitochondrion
+Q9UIK4	Golgi apparatus
+Q9UIL1	Golgi apparatus
+Q9UIV1	Nucleus
+Q9UIV8	Cytosol 
+Q9UIX4	Plasma membrane
+Q9UJ14	Plasma membrane
+Q9UJ41	Cytosol |Nucleolus
+Q9UJ68	Cytosol |Actin cytoskeleton
+Q9UJ83	Peroxisome
+Q9UJ90	Plasma membrane
+Q9UJA3	Nucleus
+Q9UJM3	Cytosol 
+Q9UJM8	Peroxisome
+Q9UJS0	Mitochondrion
+Q9UJT1	Cytosol 
+Q9UJU2	Nucleus
+Q9UJV9	Nucleus
+Q9UJW0	Centrosome
+Q9UJW3	Cytosol |Nucleus
+Q9UJW9	Nucleolus|Nucleus
+Q9UJX3	Nucleus
+Q9UJX4	Nucleus
+Q9UJX5	Nucleus
+Q9UJY1	Cytosol |Nucleus
+Q9UJY4	Golgi apparatus
+Q9UK32	Nucleolus|Mitochondrion|Nucleus
+Q9UK33	Nucleus
+Q9UK41	Cytosol |Plasma membrane
+Q9UK45	Nucleus
+Q9UK58	Nucleus
+Q9UK59	Nucleus
+Q9UK73	Cytosol |Nucleus
+Q9UK76	Nucleolus|Nucleus
+Q9UK80	Cytosol |Plasma membrane
+Q9UK99	Cytosol 
+Q9UKA4	Cytosol |Nucleolus|Plasma membrane
+Q9UKB1	Centrosome
+Q9UKD1	Cytosol 
+Q9UKE5	Cytosol |Nucleus
+Q9UKF7	Cytosol 
+Q9UKG1	Cytosol |Nucleus|Plasma membrane
+Q9UKG9	Peroxisome
+Q9UKI2	Actin cytoskeleton|Plasma membrane
+Q9UKI8	Nucleus
+Q9UKI9	Nucleus
+Q9UKJ5	Plasma membrane
+Q9UKK3	Cytosol 
+Q9UKK6	Cytosol 
+Q9UKK9	Nucleus
+Q9UKL0	Nucleus
+Q9UKL3	Mitochondrion|Nucleus
+Q9UKM7	Endoplasmic reticulum
+Q9UKM9	Nucleus
+Q9UKN8	Mitochondrion|Nucleus
+Q9UKQ2	Mitochondrion|Plasma membrane
+Q9UKS6	Cytosol |Plasma membrane
+Q9UKT4	Nucleus
+Q9UKT9	Cytosol |Nucleus|Plasma membrane
+Q9UKV0	Nucleus
+Q9UKV3	Cytosol |Nucleus|Plasma membrane
+Q9UKV5	Golgi apparatus|Endoplasmic reticulum
+Q9UKV8	Nucleus
+Q9UKY1	Nucleus
+Q9UKY7	Cytosol |Plasma membrane
+Q9UL01	Cytosol |Golgi apparatus|Endoplasmic reticulum
+Q9UL03	Actin cytoskeleton|Nucleus
+Q9UL15	Cytosol |Mitochondrion|Nucleus
+Q9UL26	Plasma membrane
+Q9UL33	Cytosol 
+Q9UL40	Nucleolus|Nucleus
+Q9UL49	Nucleus
+Q9UL51	Plasma membrane
+Q9UL54	Cytosol |Nucleolus|Nucleus
+Q9ULA0	Cytosol |Nucleus
+Q9ULB1	Nucleolus|Plasma membrane
+Q9ULC3	Cytosol |Centrosome|Plasma membrane
+Q9ULC4	Cytosol |Plasma membrane
+Q9ULC5	Endoplasmic reticulum|Nucleolus|Mitochondrion|Nucleus
+Q9ULC6	Cytosol 
+Q9ULC8	Golgi apparatus
+Q9ULD2	Nucleolus
+Q9ULE0	Cytosol 
+Q9ULE3	Actin cytoskeleton
+Q9ULE6	Cytosol 
+Q9ULG1	Nucleus|Plasma membrane
+Q9ULI0	Nucleus
+Q9ULJ1	Centrosome
+Q9ULJ3	Cytosol |Nucleus
+Q9ULL1	Nucleus
+Q9ULP9	Plasma membrane
+Q9ULQ0	Cytosol 
+Q9ULR0	Nucleus
+Q9ULR3	Nucleus
+Q9ULU4	Nucleus
+Q9ULV1	Plasma membrane
+Q9ULV3	Plasma membrane
+Q9ULV4	Actin cytoskeleton
+Q9ULX6	Nucleus
+Q9ULX9	Mitochondrion|Nucleus
+Q9ULZ0	Nucleus
+Q9ULZ2	Mitochondrion|Nucleus
+Q9ULZ3	Cytosol |Nucleolus|Mitochondrion|Nucleus
+Q9UM00	Endoplasmic reticulum
+Q9UM07	Nucleus
+Q9UM47	Cytosol |Actin cytoskeleton|Plasma membrane
+Q9UM54	Golgi apparatus|Nucleus
+Q9UM63	Golgi apparatus
+Q9UM73	Plasma membrane
+Q9UM82	Nucleus
+Q9UMN6	Nucleus
+Q9UMS0	Cytosol |Mitochondrion|Nucleus
+Q9UMS4	Nucleus
+Q9UMS6	Cytosol |Actin cytoskeleton
+Q9UMW8	Cytosol |Nucleus
+Q9UMX0	Cytosol |Endoplasmic reticulum|Plasma membrane
+Q9UMX1	Nucleus
+Q9UMX2	Nucleus
+Q9UMX3	Golgi apparatus|Endoplasmic reticulum|Mitochondrion|Nucleus
+Q9UMX5	Nucleus
+Q9UMY1	Nucleolus|Mitochondrion|Nucleus
+Q9UN19	Plasma membrane
+Q9UN36	Golgi apparatus
+Q9UN37	Cytosol |Lysosome|Centrosome|Nucleus|Plasma membrane
+Q9UN79	Nucleus
+Q9UN86	Cytosol 
+Q9UNE7	Cytosol |Endoplasmic reticulum
+Q9UNF0	Cytosol |Plasma membrane
+Q9UNF1	Cytosol |Nucleolus|Nucleus
+Q9UNH5	Cytosol |Centrosome
+Q9UNI6	Nucleus
+Q9UNK9	Cytosol |Endoplasmic reticulum|Nucleus
+Q9UNL4	Cytosol |Nucleus
+Q9UNM6	Nucleus
+Q9UNN5	Cytosol |Nucleus
+Q9UNP9	Cytosol |Nucleus
+Q9UNQ0	Nucleus|Plasma membrane
+Q9UNQ2	Cytosol |Nucleolus|Nucleus
+Q9UNS1	Nucleus
+Q9UNS2	Cytosol |Nucleus
+Q9UNX4	Nucleolus|Nucleus
+Q9UNY4	Cytosol 
+Q9UNY5	Cytosol |Nucleus
+Q9UNZ2	Cytosol |Plasma membrane
+Q9UNZ5	Nucleolus|Nucleus
+Q9UP83	Golgi apparatus
+Q9UPM6	Nucleus
+Q9UPM9	Centrosome
+Q9UPN3	Golgi apparatus|Plasma membrane
+Q9UPN4	Centrosome
+Q9UPN7	Cytosol 
+Q9UPN9	Nucleus
+Q9UPP1	Nucleolus|Nucleus
+Q9UPQ7	Cytosol |Nucleus
+Q9UPR3	Nucleus
+Q9UPS6	Cytosol 
+Q9UPS8	Centrosome
+Q9UPT8	Cytosol 
+Q9UPU7	Cytosol 
+Q9UPU9	Cytosol 
+Q9UPV0	Centrosome
+Q9UPV9	Mitochondrion
+Q9UPW5	Nucleolus|Nucleus
+Q9UPX6	Plasma membrane
+Q9UPZ6	Plasma membrane
+Q9UPZ9	Nucleus
+Q9UQ13	Cytosol |Nucleus
+Q9UQ35	Nucleus
+Q9UQ49	Plasma membrane
+Q9UQ80	Nucleolus|Nucleus
+Q9UQ84	Nucleus|Plasma membrane
+Q9UQ88	Nucleus
+Q9UQB8	Cytosol |Plasma membrane
+Q9UQC2	Plasma membrane
+Q9UQC9	Cytosol |Nucleus|Plasma membrane
+Q9UQF2	Plasma membrane
+Q9UQL6	Cytosol |Golgi apparatus|Nucleus
+Q9UQM7	Nucleus
+Q9UQN3	Cytosol 
+Q9UQR0	Nucleus
+Q9UQR1	Golgi apparatus|Nucleus
+Q9UQV4	Plasma membrane
+Q9Y210	Plasma membrane
+Q9Y215	Plasma membrane
+Q9Y221	Cytosol |Nucleolus|Nucleus
+Q9Y222	Cytosol 
+Q9Y224	Centrosome|Nucleus
+Q9Y225	Golgi apparatus
+Q9Y230	Cytosol |Centrosome|Nucleus
+Q9Y232	Nucleus
+Q9Y237	Nucleolus|Nucleus
+Q9Y238	Cytosol 
+Q9Y241	Mitochondrion
+Q9Y251	Lysosome|Nucleus
+Q9Y252	Nucleus
+Q9Y253	Cytosol 
+Q9Y255	Mitochondrion
+Q9Y261	Nucleus
+Q9Y263	Nucleus
+Q9Y265	Cytosol |Nucleus
+Q9Y266	Cytosol 
+Q9Y276	Mitochondrion
+Q9Y277	Mitochondrion|Nucleus
+Q9Y287	Golgi apparatus|Plasma membrane
+Q9Y294	Nucleus
+Q9Y295	Cytosol |Nucleus
+Q9Y2B1	Golgi apparatus
+Q9Y2B4	Nucleus
+Q9Y2C9	Golgi apparatus
+Q9Y2D0	Mitochondrion
+Q9Y2D1	Cytosol |Centrosome|Nucleus
+Q9Y2G0	Plasma membrane
+Q9Y2G1	Cytosol |Golgi apparatus
+Q9Y2G2	Cytosol |Nucleus
+Q9Y2G3	Endoplasmic reticulum
+Q9Y2G5	Golgi apparatus
+Q9Y2H1	Cytosol 
+Q9Y2H6	Golgi apparatus
+Q9Y2I1	Cytosol |Plasma membrane
+Q9Y2I2	Plasma membrane
+Q9Y2I6	Cytosol 
+Q9Y2I9	Cytosol |Plasma membrane
+Q9Y2J2	Plasma membrane
+Q9Y2K1	Nucleus
+Q9Y2K6	Centrosome
+Q9Y2L1	Cytosol |Nucleus
+Q9Y2M0	Cytosol |Nucleus
+Q9Y2M2	Nucleus
+Q9Y2M5	Cytosol |Golgi apparatus
+Q9Y2N7	Cytosol |Plasma membrane
+Q9Y2P5	Endoplasmic reticulum
+Q9Y2P7	Nucleus
+Q9Y2Q0	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q9Y2Q3	Peroxisome
+Q9Y2Q9	Mitochondrion
+Q9Y2R0	Mitochondrion
+Q9Y2R2	Nucleus
+Q9Y2S7	Mitochondrion
+Q9Y2T1	Centrosome|Nucleus
+Q9Y2U5	Cytosol 
+Q9Y2U9	Nucleus
+Q9Y2W1	Nucleus
+Q9Y2W2	Cytosol 
+Q9Y2X3	Cytosol |Nucleolus|Nucleus
+Q9Y2X7	Cytosol 
+Q9Y2X9	Nucleus
+Q9Y2Y0	Centrosome
+Q9Y2Y6	Endoplasmic reticulum|Plasma membrane
+Q9Y2Z4	Mitochondrion
+Q9Y2Z9	Mitochondrion
+Q9Y303	Nucleus
+Q9Y314	Nucleus
+Q9Y315	Nucleus
+Q9Y316	Cytosol |Nucleus
+Q9Y328	Golgi apparatus
+Q9Y333	Nucleus
+Q9Y345	Plasma membrane
+Q9Y371	Cytosol 
+Q9Y375	Cytosol |Mitochondrion
+Q9Y388	Nucleus
+Q9Y397	Cytosol |Golgi apparatus|Endoplasmic reticulum
+Q9Y399	Mitochondrion
+Q9Y3A0	Mitochondrion
+Q9Y3A2	Nucleolus
+Q9Y3A3	Golgi apparatus
+Q9Y3A5	Cytosol |Nucleolus|Nucleus
+Q9Y3B2	Nucleolus
+Q9Y3B3	Golgi apparatus|Endoplasmic reticulum
+Q9Y3B4	Nucleus
+Q9Y3B7	Mitochondrion
+Q9Y3C1	Nucleolus|Nucleus
+Q9Y3C4	Cytosol |Nucleus
+Q9Y3C6	Nucleus
+Q9Y3D0	Cytosol |Nucleus
+Q9Y3D3	Cytosol |Mitochondrion
+Q9Y3D6	Peroxisome|Mitochondrion
+Q9Y3D8	Cytosol 
+Q9Y3D9	Mitochondrion
+Q9Y3E0	Endoplasmic reticulum
+Q9Y3E1	Nucleus
+Q9Y3E2	Mitochondrion
+Q9Y3E5	Mitochondrion
+Q9Y3E7	Plasma membrane
+Q9Y3F4	Cytosol 
+Q9Y3I0	Cytosol |Nucleus
+Q9Y3I1	Cytosol |Mitochondrion|Nucleus
+Q9Y3L3	Cytosol |Nucleus
+Q9Y3L5	Plasma membrane
+Q9Y3M2	Nucleus
+Q9Y3P8	Plasma membrane
+Q9Y3P9	Cytosol 
+Q9Y3Q3	Golgi apparatus|Endoplasmic reticulum
+Q9Y3Q4	Plasma membrane
+Q9Y3R4	Cytosol 
+Q9Y3S1	Cytosol 
+Q9Y3S2	Nucleolus
+Q9Y3T9	Cytosol |Nucleolus|Nucleus
+Q9Y3U8	Nucleolus
+Q9Y3Z3	Nucleus|Plasma membrane
+Q9Y421	Nucleolus|Nucleus
+Q9Y426	Cytosol |Nucleus
+Q9Y446	Plasma membrane
+Q9Y448	Cytosol 
+Q9Y458	Nucleus
+Q9Y462	Nucleus
+Q9Y463	Nucleus
+Q9Y468	Nucleus|Plasma membrane
+Q9Y473	Cytosol 
+Q9Y483	Nucleus
+Q9Y496	Centrosome
+Q9Y4A5	Golgi apparatus|Nucleus
+Q9Y4B6	Nucleus
+Q9Y4C1	Nucleus
+Q9Y4C2	Plasma membrane
+Q9Y4C8	Nucleolus
+Q9Y4D1	Cytosol |Plasma membrane
+Q9Y4E1	Cytosol |Nucleolus
+Q9Y4E5	Nucleus
+Q9Y4E8	Cytosol |Nucleus
+Q9Y4F3	Golgi apparatus|Peroxisome
+Q9Y4G2	Nucleolus
+Q9Y4G8	Cytosol 
+Q9Y4I1	Cytosol 
+Q9Y4K0	Endoplasmic reticulum|Nucleus
+Q9Y4K3	Nucleus|Plasma membrane
+Q9Y4P3	Endoplasmic reticulum
+Q9Y4P8	Cytosol 
+Q9Y4R8	Cytosol |Nucleus
+Q9Y4W6	Mitochondrion
+Q9Y4X0	Nucleus
+Q9Y4X4	Cytosol 
+Q9Y4Y9	Nucleus
+Q9Y4Z0	Cytosol |Nucleus
+Q9Y4Z2	Nucleus
+Q9Y508	Cytosol |Plasma membrane
+Q9Y512	Mitochondrion
+Q9Y520	Cytosol 
+Q9Y530	Nucleolus
+Q9Y535	Centrosome
+Q9Y566	Plasma membrane
+Q9Y572	Cytosol 
+Q9Y580	Nucleus
+Q9Y586	Nucleus
+Q9Y592	Golgi apparatus
+Q9Y5A9	Cytosol |Nucleus
+Q9Y5B0	Centrosome|Nucleus
+Q9Y5B6	Cytosol 
+Q9Y5B8	Centrosome
+Q9Y5B9	Nucleus
+Q9Y5J1	Nucleolus|Nucleus
+Q9Y5J5	Plasma membrane
+Q9Y5J7	Mitochondrion
+Q9Y5K5	Cytosol |Mitochondrion|Nucleus
+Q9Y5L4	Mitochondrion
+Q9Y5N6	Nucleus
+Q9Y5P4	Golgi apparatus
+Q9Y5Q9	Nucleolus|Nucleus
+Q9Y5R6	Nucleus
+Q9Y5S1	Plasma membrane
+Q9Y5S9	Nucleus
+Q9Y5T5	Nucleus
+Q9Y5U8	Mitochondrion
+Q9Y5U9	Golgi apparatus|Endoplasmic reticulum
+Q9Y5W7	Lysosome
+Q9Y5X0	Endoplasmic reticulum|Nucleus
+Q9Y5X1	Cytosol |Plasma membrane
+Q9Y5X9	Golgi apparatus
+Q9Y5Y0	Mitochondrion
+Q9Y5Y5	Endoplasmic reticulum|Peroxisome
+Q9Y5Z0	Golgi apparatus|Plasma membrane
+Q9Y5Z4	Mitochondrion
+Q9Y5Z7	Cytosol |Nucleus|Plasma membrane
+Q9Y5Z9	Endoplasmic reticulum|Nucleus
+Q9Y605	Cytosol |Nucleus
+Q9Y606	Mitochondrion|Nucleus
+Q9Y613	Cytosol |Nucleus
+Q9Y615	Nucleus
+Q9Y616	Nucleus
+Q9Y617	Cytosol 
+Q9Y618	Nucleus
+Q9Y624	Plasma membrane
+Q9Y625	Nucleus
+Q9Y657	Cytosol |Nucleolus|Nucleus
+Q9Y676	Mitochondrion
+Q9Y678	Golgi apparatus
+Q9Y696	Cytosol |Mitochondrion|Centrosome|Plasma membrane
+Q9Y697	Cytosol |Mitochondrion|Nucleus
+Q9Y6A4	Nucleus
+Q9Y6A5	Cytosol 
+Q9Y6B7	Cytosol 
+Q9Y6C9	Nucleus
+Q9Y6D0	Endoplasmic reticulum
+Q9Y6D5	Cytosol 
+Q9Y6D6	Cytosol |Golgi apparatus|Nucleolus
+Q9Y6E0	Cytosol |Nucleolus|Nucleus
+Q9Y6E7	Mitochondrion
+Q9Y6F8	Nucleus
+Q9Y6G3	Mitochondrion|Plasma membrane
+Q9Y6G9	Centrosome
+Q9Y6H1	Mitochondrion|Nucleus
+Q9Y6H3	Cytosol |Plasma membrane
+Q9Y6I3	Cytosol 
+Q9Y6I4	Nucleus
+Q9Y6I8	Peroxisome
+Q9Y6J0	Cytosol 
+Q9Y6J6	Lysosome|Plasma membrane
+Q9Y6J8	Mitochondrion
+Q9Y6J9	Nucleus
+Q9Y6K1	Nucleus
+Q9Y6K5	Cytosol |Plasma membrane
+Q9Y6K8	Cytosol 
+Q9Y6K9	Cytosol |Nucleus
+Q9Y6M1	Cytosol |Nucleus
+Q9Y6M5	Golgi apparatus|Endoplasmic reticulum|Plasma membrane
+Q9Y6M9	Mitochondrion
+Q9Y6N7	Plasma membrane
+Q9Y6N9	Cytosol 
+Q9Y6P5	Nucleus
+Q9Y6Q1	Cytosol 
+Q9Y6Q6	Cytosol |Plasma membrane
+Q9Y6Q9	Cytosol |Nucleus
+Q9Y6R9	Centrosome
+Q9Y6T7	Cytosol |Plasma membrane
+Q9Y6U3	Plasma membrane
+Q9Y6W6	Cytosol |Golgi apparatus|Nucleus
+Q9Y6X0	Cytosol |Nucleus
+Q9Y6X3	Nucleus
+Q9Y6X8	Cytosol |Nucleus|Plasma membrane
+Q9Y6X9	Cytosol |Nucleus
+Q9Y6Y0	Cytosol 
+Q9Y6Y1	Cytosol |Nucleolus
+Q9Y6Y8	Golgi apparatus
