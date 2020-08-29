@@ -1,4 +1,10 @@
 All codes of this project are running under Python 3.7.0 version.
+# Download needed files and put them into proper folders
+1. Download "BIOGRID-ORGANISM-Homo_sapiens-3.5.179.mitab" file from Biogrid and put it under `data` folder.
+2. Download "uniprot\_sprot\_human.dat.gz" file from Uniprot and put it under `data` folder.
+3. Download "GSE9476\_RAW.tar", "GSE27567\_RAW.tar" and "GSE121248\_RAW.tart" from GEO and put then under `R` folder. Then decompress them into right folders under `R` folder.
+# Run R scripts
+Before running R scripts, you need to modify the path variables according to your file system. Every scrip defined the `file_path` and `out_path` variables. You should use your path to replace them before you run the scipt.
 # Generate supplementary files
 Run the script `gene_large_npy_files.py` under `code` directory to generate the necessary intermediate matrix files, including `a.npy`, `ECC.npy` and `PCC.npy`. These files will be saved in `tem_data` directory. Some functions may use these files.
 
@@ -20,10 +26,6 @@ The optional values of the `cancer_name` parameter are 'hepatitis', leukemia' an
 # Generate probability difference matrix files and mislocation protein prediction report 
 Run the `gene_location_change_record.py` program under `code`. This program will generate the result files in the `tem_data/cancer_name_records/` folder, where `cancer_name` is the name of the cancer. This program will generate files in three forms, namely `diff_x.x.txt`, `diff_x.x.npy` and `record_x.x.txt`. The first two kinds are difference matrix files, the files with suffix "npy" are used for calculation, and the files with suffix "txt"  are used for reading. The last kind sorts the difference matrix from largest to smallest, in which each row is a record. Every row has three columns, corresponding to the name of the protein, the location name and the probability difference.
 
-# Quickly query the mislocalization score of the protein
-Run the `query_alternative.py` program under `code`：
-```
-python3.7.0 query_alternative.py query_file
-```
-The protein to be queried is stored in the `query_file` file, both "tsv" and "csv" format are OK.
 
+# Generate compare report between our method and Hum-mploc 3.0
+Run the `gene_performance_humploc.py` under `code` folder to gene performance report.
