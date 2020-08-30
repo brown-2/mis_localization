@@ -45,10 +45,10 @@ def plot_carlibrating_curve():
         for i in range(len(data_tuples)):
             data_tuple = data_tuples[i]
             y = getattr(data_tuple, perf_type)
-            ax.plot(x, y, label = 'C = {}'.format((i + 1)/10))
+            ax.plot(x, y, label = '{} = {}'.format(r'$ \alpha $',(i + 1)/10))
             ax.legend()
-        file_name = os.path.join(fig_path, 'C_MCC.eps')
-        plt.savefig(file_name)
+        file_name = os.path.join(fig_path, 'C_MCC.{}'.format(form))
+        plt.savefig(file_name, format = form, dpi = n_dpi)
 
     data_tuples = []
     for threshold in (x/10 for x in range(1, 4)):
@@ -77,8 +77,8 @@ def plot_location_distribution():
 
     ax.set_xlabel('number of proteins')
     plt.tight_layout()
-    file_name = os.path.join(fig_path, 'location_distribution.eps')
-    plt.savefig(file_name)
+    file_name = os.path.join(fig_path, 'location_distribution.{}'.format(form))
+    plt.savefig(file_name, format = form, dpi = n_dpi)
 
 def plot_multiplicity():
     #y = [4118, 1736, 504, 98, 15, 2]
@@ -94,12 +94,16 @@ def plot_multiplicity():
     ax.set_ylabel('number of proteins')
     labels = ax.get_xticklabels() + ax.get_yticklabels()
     [label.set_fontname('Times New Roman') for label in labels]
-    file_name = os.path.join(fig_path, 'multiplicity.eps')
-    plt.savefig(file_name)
+    file_name = os.path.join(fig_path, 'multiplicity.{}'.format(form))
+    plt.savefig(file_name, format = form, dpi = n_dpi)
 
 
 if __name__ == '__main__':
     fig_path = '../figures'
+    form = 'svg'
+    form = 'tif'
+    form = 'eps'
+    n_dpi = None
     plot_carlibrating_curve()
     plot_location_distribution()
     plot_multiplicity()
