@@ -26,6 +26,8 @@ The optional values of the `cancer_name` parameter are 'hepatitis', leukemia' an
 # Generate probability difference matrix files and mislocation protein prediction report 
 Run the `gene_location_change_record.py` program under `code`. This program will generate the result files in the `tem_data/cancer_name_records/` folder, where `cancer_name` is the name of the cancer. This program will generate files in three forms, namely `diff_x.x.txt`, `diff_x.x.npy` and `record_x.x.txt`. The first two kinds are difference matrix files, the files with suffix "npy" are used for calculation, and the files with suffix "txt"  are used for reading. The last kind sorts the difference matrix from largest to smallest, in which each row is a record. Every row has three columns, corresponding to the name of the protein, the location name and the probability difference.
 
-
 # Generate compare report between our method and Hum-mploc 3.0
-Run the `gene_performance_humploc.py` under `code` folder to gene performance report.
+Run the `gene_performance_humploc.py` under `code` folder to generate performance report.
+
+# Generate spreadsheets 
+Run the `gene_excel.py` under `code` folder to generate files with extension '.xlsx'. The script will generate 3 files under folder `tem_data`, including "all.xlsx", "39.xlsx" and "max\_min.xlsx". The file "all.xlsx" contains 3 sheets, which correspond to Table s1-s3 in the supplementary materials. The file "39.xlsx" contains 36 sheets, which correspond to Table s4-s39 in the supplementary materials. The file "max\_min.xlsx" contains 6 sheets, which correspond to Table s40-s45 in the supplementary materials. Some files need to manually add headers, add notes and sort operations in Excel program.
