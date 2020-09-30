@@ -96,14 +96,53 @@ def plot_multiplicity():
     [label.set_fontname('Times New Roman') for label in labels]
     file_name = os.path.join(fig_path, 'multiplicity.{}'.format(form))
     plt.savefig(file_name, format = form, dpi = n_dpi)
+def plot_merged_AB():
+
+    with open('../data/location_name.txt') as f:
+        x = f.read().split('\n')[:-1]
+    _, loc = construct_and_return_loc_net()
+    y = loc.sum(0).astype(int)
+    x.reverse()
+    fig = plt.figure(figsize = (6.4, 9.6))
+    ax1 = plt.subplot(212)
+    b = ax1.barh(x, y)
+
+    ax1.set_xlim(0, 3500)
+
+    for rect in b:
+        w = rect.get_width()
+        ax1.text(w, rect.get_y()+rect.get_height()/2, '%d' % int(w))
+        #print('a: {}, b: {}'.format(w, rect.get_y()+rect.get_height()/2))
+
+    ax1.set_xlabel('number of proteins')
+
+    y = np.bincount(loc.sum(1).astype(int))[1:]
+    x = range(1, 7)
+    ax = plt.subplot(211)
+    b = ax.bar(x, y)
+    for a,b in zip(x,y):  
+        ax.text(a, b+0.05, '%.0f' % b, ha='center', va= 'bottom',fontsize=11)  
+        #print('a: {}, b: {}'.format(a, b + 0.05))
+
+    ax.set_xlabel('subcellular location multiplicity')
+    ax.set_ylabel('number of proteins')
+    ax1.text(1, 1.05, '(B)', transform = ax1.transAxes)
+    ax.text(1, 1.05, '(A)', transform = ax.transAxes)
+    file_name = os.path.join(fig_path, 'Figure 1.{}'.format(form))
+    plt.savefig(file_name, format = form, dpi = n_dpi, bbox_inches = 'tight')
 
 
 if __name__ == '__main__':
     fig_path = '../figures'
+    n_dpi = 96
+    n_dpi = 600
+    n_dpi = None
+
     form = 'svg'
+    form = 'png'
     form = 'tif'
     form = 'eps'
-    n_dpi = None
     plot_carlibrating_curve()
-    plot_location_distribution()
-    plot_multiplicity()
+    #plot_location_distribution()
+    #plot_multiplicity()
+    plot_merged_AB()
