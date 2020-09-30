@@ -47,7 +47,7 @@ def plot_carlibrating_curve():
             y = getattr(data_tuple, perf_type)
             ax.plot(x, y, label = '{} = {}'.format(r'$ \alpha $',(i + 1)/10))
             ax.legend()
-        file_name = os.path.join(fig_path, 'C_MCC.{}'.format(form))
+        file_name = os.path.join(fig_path, 'Figure S1.{}'.format(form))
         plt.savefig(file_name, format = form, dpi = n_dpi)
 
     data_tuples = []
